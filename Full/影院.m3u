@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1 group-title="影院",CCTV6
+http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="影院",CHC家庭影院
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+#EXTINF:-1 group-title="影院",CHC动作电影
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#EXTINF:-1 group-title="影院",CHC影迷电影
+http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+#EXTINF:-1 group-title="影院",重温经典
+http://8.138.7.223/tv/cwjd.php
+#EXTINF:-1 group-title="影院",重温经典
+http://112.27.235.94:8000/hls/50/index.m3u8
+#EXTINF:-1 group-title="影院",1905环球经典
+http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
+#EXTINF:-1 group-title="影院",1905国产佳片
+http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+#EXTINF:-1 group-title="影院",1905电影网
+http://php.jdshipin.com:8880/1905.php?id=1905dy
+#EXTINF:-1 group-title="影院",邵氏电影
+http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+#EXTINF:-1 group-title="影院",邵氏武侠
+http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+#EXTINF:-1 group-title="影院",邵氏动作
+http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+#EXTINF:-1 group-title="影院",邵氏喜剧
+http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+#EXTINF:-1 group-title="影院",爱家玄幻台
+http://yylunbo.ottiptv.cc/yy/34229877
+#EXTINF:-1 group-title="影院",爱家电影台
+http://yylunbo.ottiptv.cc/yy/1355112116
+#EXTINF:-1 group-title="影院",爱家武侠台
+http://yylunbo.ottiptv.cc/yy/1382736902
+#EXTINF:-1 group-title="影院",iqlyl
+http://iptv.4666888.xyz/iptv2A.php?id=21
+#EXTINF:-1 group-title="影院",亚美电影
+http://iptv.4666888.xyz/iptv2A.php?id=30
+#EXTINF:-1 group-title="影院",龙华电影
+http://iptv.4666888.xyz/iptv2A.php?id=45
+#EXTINF:-1 group-title="影院",东森电影
+http://iptv.4666888.xyz/iptv2A.php?id=48
+#EXTINF:-1 group-title="影院",晴天电影
+http://iptv.4666888.xyz/iptv2A.php?id=56
+#EXTINF:-1 group-title="影院",武打电影
+http://iptv.4666888.xyz/iptv2A.php?id=39
+#EXTINF:-1 group-title="影院",古装武打
+http://iptv.4666888.xyz/iptv2A.php?id=40
+#EXTINF:-1 group-title="影院",SONY1
+http://148.113.160.49:14205
+#EXTINF:-1 group-title="影院",SONY2
+http://148.113.160.49:14204
+#EXTINF:-1 group-title="影院",FILM1
+http://148.113.160.49:14211
+#EXTINF:-1 group-title="影院",FILM2
+http://148.113.160.49:14212
+#EXTINF:-1 group-title="影院",MODO1
+http://148.113.160.49:14213
+#EXTINF:-1 group-title="影院",MODO2
+http://148.113.160.49:14215
+#EXTINF:-1 group-title="影院",AMC1
+http://148.113.160.49:14208
+#EXTINF:-1 group-title="影院",AMC2
+http://148.113.160.49:14209
+#EXTINF:-1 group-title="影院",WBtv1
+http://148.113.160.49:14131
+#EXTINF:-1 group-title="影院",WBtv2
+http://148.113.160.49:14130
+#EXTINF:-1 group-title="影院",USA1
+http://148.113.160.49:14133
+#EXTINF:-1 group-title="影院",USA2
+http://148.113.160.49:14134
+#EXTINF:-1 group-title="影院",UNI1
+http://148.113.160.49:14136
+#EXTINF:-1 group-title="影院",UNI2
+http://148.113.160.49:14137
+#EXTINF:-1 group-title="影院",TNT1
+http://148.113.160.49:14139
+#EXTINF:-1 group-title="影院",TNT2
+http://148.113.160.49:14140
+#EXTINF:-1 group-title="影院",TNT3
+http://148.113.160.49:14142
+#EXTINF:-1 group-title="影院",TNT4
+http://148.113.160.49:14143
+#EXTINF:-1 group-title="影院",TELE1
+http://148.113.160.49:14145
+#EXTINF:-1 group-title="影院",TELE2
+http://148.113.160.49:14146
+#EXTINF:-1 group-title="影院",TELE3
+http://148.113.160.49:14148
+#EXTINF:-1 group-title="影院",TELE4
+http://148.113.160.49:14149
+#EXTINF:-1 group-title="影院",TELE5
+http://148.113.160.49:14151
+#EXTINF:-1 group-title="影院",TELE6
+http://148.113.160.49:14152
+#EXTINF:-1 group-title="影院",TELE7
+http://148.113.160.49:14154
+#EXTINF:-1 group-title="影院",TELE8
+http://148.113.160.49:14155
+#EXTINF:-1 group-title="影院",TELE9
+http://148.113.160.49:14157
+#EXTINF:-1 group-title="影院",TELE10
+http://148.113.160.49:14158
+#EXTINF:-1 group-title="影院",TELE11
+http://148.113.160.49:14160
+#EXTINF:-1 group-title="影院",TELE12
+http://148.113.160.49:14161
+#EXTINF:-1 group-title="影院",STUDLD1
+http://148.113.160.49:14163
+#EXTINF:-1 group-title="影院",STUDLD2
+http://148.113.160.49:14164
+#EXTINF:-1 group-title="影院",SPACE1
+http://148.113.160.49:14169
+#EXTINF:-1 group-title="影院",SPACE2
+http://148.113.160.49:14170
+#EXTINF:-1 group-title="影院",MEGAPIX1
+http://148.113.160.49:14172
+#EXTINF:-1 group-title="影院",MEGAPIX2
+http://148.113.160.49:14173
+#EXTINF:-1 group-title="影院",HBO-xtreme1
+http://148.113.160.49:14175
+#EXTINF:-1 group-title="影院",HBO-xtreme2
+http://148.113.160.49:14176
+#EXTINF:-1 group-title="影院",HBO-pop1
+http://148.113.160.49:14181
+#EXTINF:-1 group-title="影院",HBO-pop2
+http://148.113.160.49:14182
+#EXTINF:-1 group-title="影院",HBO-mundi1
+http://148.113.160.49:14184
+#EXTINF:-1 group-title="影院",HBO-mundi2
+http://148.113.160.49:14185
+#EXTINF:-1 group-title="影院",HBO1
+http://148.113.160.49:14188
+#EXTINF:-1 group-title="影院",HBO-family1
+http://148.113.160.49:14190
+#EXTINF:-1 group-title="影院",HBO-family2
+http://148.113.160.49:14191
+#EXTINF:-1 group-title="影院",HBO+1
+http://148.113.160.49:14193
+#EXTINF:-1 group-title="影院",HBO+2
+http://148.113.160.49:14194

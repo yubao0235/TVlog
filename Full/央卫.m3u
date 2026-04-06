@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 group-title="央卫",CCTV1
+http://sh.lnott.top:880/dx01.m3u8
+#EXTINF:-1 group-title="央卫",CCTV2
+http://sh.lnott.top:880/dx02.m3u8
+#EXTINF:-1 group-title="央卫",CCTV3
+http://sh.lnott.top:880/dx03.m3u8
+#EXTINF:-1 group-title="央卫",CCTV4
+http://sh.lnott.top:880/dx04.m3u8
+#EXTINF:-1 group-title="央卫",CCTV5
+http://sh.lnott.top:880/dx05.m3u8
+#EXTINF:-1 group-title="央卫",CCTV5+
+http://sh.lnott.top:880/dx16.m3u8
+#EXTINF:-1 group-title="央卫",CCTV6
+http://sh.lnott.top:880/dx06.m3u8
+#EXTINF:-1 group-title="央卫",CCTV7
+http://sh.lnott.top:880/dx07.m3u8
+#EXTINF:-1 group-title="央卫",CCTV8
+http://sh.lnott.top:880/dx08.m3u8
+#EXTINF:-1 group-title="央卫",CCTV9
+http://sh.lnott.top:880/dx09.m3u8
+#EXTINF:-1 group-title="央卫",CCTV10
+http://sh.lnott.top:880/dx10.m3u8
+#EXTINF:-1 group-title="央卫",CCTV11
+http://sh.lnott.top:880/dx11.m3u8
+#EXTINF:-1 group-title="央卫",CCTV12
+http://sh.lnott.top:880/dx12.m3u8
+#EXTINF:-1 group-title="央卫",CCTV13
+http://sh.lnott.top:880/dx13.m3u8
+#EXTINF:-1 group-title="央卫",CCTV14
+http://sh.lnott.top:880/dx14.m3u8
+#EXTINF:-1 group-title="央卫",CCTV15
+http://sh.lnott.top:880/dx15.m3u8
+#EXTINF:-1 group-title="央卫",CCTV17
+http://sh.lnott.top:880/dx17.m3u8
+#EXTINF:-1 group-title="央卫",四川卫视
+http://sh.lnott.top:880/dx45.m3u8
+#EXTINF:-1 group-title="央卫",湖南卫视
+http://sh.lnott.top:880/dx31.m3u8
+#EXTINF:-1 group-title="央卫",浙江卫视
+http://sh.lnott.top:880/dx32.m3u8
+#EXTINF:-1 group-title="央卫",江苏卫视
+http://sh.lnott.top:880/dx33.m3u8
+#EXTINF:-1 group-title="央卫",深圳卫视
+http://sh.lnott.top:880/dx61.m3u8
+#EXTINF:-1 group-title="央卫",东方卫视
+http://sh.lnott.top:880/dx35.m3u8
+#EXTINF:-1 group-title="央卫",北京卫视
+http://sh.lnott.top:880/dx29.m3u8
+#EXTINF:-1 group-title="央卫",重庆卫视
+http://sh.lnott.top:880/dx46.m3u8
+#EXTINF:-1 group-title="央卫",辽宁卫视
+http://sh.lnott.top:880/dx19.m3u8
+#EXTINF:-1 group-title="央卫",吉林卫视
+http://sh.lnott.top:880/dx37.m3u8
+#EXTINF:-1 group-title="央卫",厦门卫视
+http://sh.lnott.top:880/dx48.m3u8
+#EXTINF:-1 group-title="央卫",农林卫视
+http://sh.lnott.top:880/dx60.m3u8
+#EXTINF:-1 group-title="央卫",东南卫视
+http://sh.lnott.top:880/dx47.m3u8
+#EXTINF:-1 group-title="央卫",天津卫视
+http://sh.lnott.top:880/dx30.m3u8
+#EXTINF:-1 group-title="央卫",新闻综合
+http://sh.lnott.top:880/dx28.m3u8
+#EXTINF:-1 group-title="央卫",安徽卫视
+http://sh.lnott.top:880/dx34.m3u8
+#EXTINF:-1 group-title="央卫",山东卫视
+http://sh.lnott.top:880/dx38.m3u8
+#EXTINF:-1 group-title="央卫",山西卫视
+http://sh.lnott.top:880/dx39.m3u8
+#EXTINF:-1 group-title="央卫",广东卫视
+http://sh.lnott.top:880/dx40.m3u8
+#EXTINF:-1 group-title="央卫",广西卫视
+http://sh.lnott.top:880/dx41.m3u8
+#EXTINF:-1 group-title="央卫",湖北卫视
+http://sh.lnott.top:880/dx42.m3u8
+#EXTINF:-1 group-title="央卫",江西卫视
+http://sh.lnott.top:880/dx43.m3u8
+#EXTINF:-1 group-title="央卫",河南卫视
+http://sh.lnott.top:880/dx44.m3u8
+#EXTINF:-1 group-title="央卫",云南卫视
+http://sh.lnott.top:880/dx49.m3u8
+#EXTINF:-1 group-title="央卫",贵州卫视
+http://sh.lnott.top:880/dx50.m3u8
+#EXTINF:-1 group-title="央卫",陕西卫视
+http://sh.lnott.top:880/dx51.m3u8
+#EXTINF:-1 group-title="央卫",宁夏卫视
+http://sh.lnott.top:880/dx53.m3u8
+#EXTINF:-1 group-title="央卫",青海卫视
+http://sh.lnott.top:880/dx54.m3u8
+#EXTINF:-1 group-title="央卫",新疆卫视
+http://sh.lnott.top:880/dx55.m3u8
+#EXTINF:-1 group-title="央卫",甘肃卫视
+http://sh.lnott.top:880/dx56.m3u8
+#EXTINF:-1 group-title="央卫",西藏卫视
+http://sh.lnott.top:880/dx57.m3u8
+#EXTINF:-1 group-title="央卫",海南卫视
+http://sh.lnott.top:880/dx58.m3u8
+#EXTINF:-1 group-title="央卫",兵团卫视
+http://sh.lnott.top:880/dx59.m3u8
+#EXTINF:-1 group-title="央卫",河北卫视
+http://sh.lnott.top:880/dx63.m3u8
+#EXTINF:-1 group-title="央卫",纪实科教
+http://sh.lnott.top:880/dx64.m3u8
+#EXTINF:-1 group-title="央卫",家庭理财
+http://sh.lnott.top:880/dx65.m3u8
+#EXTINF:-1 group-title="央卫",嘉佳卡通
+http://sh.lnott.top:880/dx67.m3u8
+#EXTINF:-1 group-title="央卫",风云足球
+http://sh.lnott.top:880/dx71.m3u8
+#EXTINF:-1 group-title="央卫",世界地理
+http://sh.lnott.top:880/dx72.m3u8
+#EXTINF:-1 group-title="央卫",兵器科技
+http://sh.lnott.top:880/dx81.m3u8
+#EXTINF:-1 group-title="央卫",中华特产
+http://sh.lnott.top:880/dx83.m3u8
+#EXTINF:-1 group-title="央卫",金鹰卡通
+http://sh.lnott.top:880/dx88.m3u8
+#EXTINF:-1 group-title="央卫",哈哈炫动
+http://sh.lnott.top:880/dx89.m3u8
+#EXTINF:-1 group-title="央卫",风云剧场
+http://sh.lnott.top:880/dx94.m3u8
+#EXTINF:-1 group-title="央卫",怀旧剧场
+http://sh.lnott.top:880/dx95.m3u8
+#EXTINF:-1 group-title="央卫",央视台球
+http://sh.lnott.top:880/dx82.m3u8
+#EXTINF:-1 group-title="央卫",风云音乐
+http://sh.lnott.top:880/dx73.m3u8

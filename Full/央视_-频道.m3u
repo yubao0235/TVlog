@@ -1,0 +1,541 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视*-频道",CCTV1
+http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="央视*-频道",CCTV2
+http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 group-title="央视*-频道",CCTV3
+http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title="央视*-频道",CCTV4
+http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 group-title="央视*-频道",CCTV5
+http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 group-title="央视*-频道",CCTV6
+http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="央视*-频道",CCTV7
+http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 group-title="央视*-频道",CCTV8
+http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title="央视*-频道",CCTV9
+http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1 group-title="央视*-频道",CCTV10
+http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 group-title="央视*-频道",CCTV11
+http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
+#EXTINF:-1 group-title="央视*-频道",CCTV12
+http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1 group-title="央视*-频道",CCTV13
+http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+#EXTINF:-1 group-title="央视*-频道",CCTV14
+http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1 group-title="央视*-频道",CCTV15
+http://iptv.huuc.edu.cn/hls/cctv15hd.m3u8
+#EXTINF:-1 group-title="央视*-频道",CCTV16
+http://1.24.39.180:9003/hls/60/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",CCTV17
+http://1.24.39.180:9003/hls/61/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",CCTV5+
+http://112.6.239.227:8207/hls/6/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",CCTV5+
+http://112.27.235.94:8000/hls/6/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",广东卫视
+https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+#EXTINF:-1 group-title="央视*-频道",广东卫视
+http://pa.kuangdeng.top:8081/hls/17/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",广东卫视
+http://pull-skycorp.speedws.com/live/1V56OQc2BnpdihCiNtNsNRHYMjyrh2lzJlM47qBfuLGqM2qKrbC.flv
+#EXTINF:-1 group-title="央视*-频道",广东卫视
+http://z.b.bkpcp.top/m.php?id=gdws
+#EXTINF:-1 group-title="央视*-频道",广东卫视
+http://j.x.bkpcp.top/jx/GUANGDHD
+#EXTINF:-1 group-title="央视*-频道",广东卫视
+http://3501776.xyz:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",广东卫视
+http://dsk.cc/php/xxtv.php?id=gdws
+#EXTINF:-1 group-title="央视*-频道",广东卫视
+http://iptv.huuc.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 group-title="央视*-频道",广东卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003873459.m3u8
+#EXTINF:-1 group-title="央视*-频道",香港卫视
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",香港卫视
+http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="央视*-频道",浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 group-title="央视*-频道",浙江卫视
+http://112.123.243.37:50085/tsfile/live/0019_1.m3u8
+#EXTINF:-1 group-title="央视*-频道",浙江卫视
+http://z.b.bkpcp.top/m.php?id=zjws
+#EXTINF:-1 group-title="央视*-频道",浙江卫视
+http://3501776.xyz:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",浙江卫视
+http://dsk.cc/php/xxtv.php?id=zjws
+#EXTINF:-1 group-title="央视*-频道",浙江卫视
+http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 group-title="央视*-频道",浙江卫视
+http://lu.wqwqwq.sbs/itv/1000000005000265031.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",浙江卫视
+https://hls-gateway.vpstv.net/streams/476909.m3u8
+#EXTINF:-1 group-title="央视*-频道",浙江卫视
+https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",湖南卫视
+https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+#EXTINF:-1 group-title="央视*-频道",湖南卫视
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 group-title="央视*-频道",湖南卫视
+http://z.b.bkpcp.top/m.php?id=hunws
+#EXTINF:-1 group-title="央视*-频道",湖南卫视
+http://j.x.bkpcp.top/jx/HUNANHD
+#EXTINF:-1 group-title="央视*-频道",湖南卫视
+http://3501776.xyz:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",湖南卫视
+http://dsk.cc/php/xxtv.php?id=hunws
+#EXTINF:-1 group-title="央视*-频道",湖南卫视
+http://lu.wqwqwq.sbs/itv/1000000005000265024.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",湖南卫视
+https://hls-gateway.vpstv.net/streams/476904.m3u8
+#EXTINF:-1 group-title="央视*-频道",湖南卫视
+http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 group-title="央视*-频道",北京卫视
+http://z.b.bkpcp.top/m.php?id=bjws
+#EXTINF:-1 group-title="央视*-频道",北京卫视
+http://j.x.bkpcp.top/jx/BEIJHD
+#EXTINF:-1 group-title="央视*-频道",北京卫视
+http://3501776.xyz:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",北京卫视
+http://dsk.cc/bjtv/btime.php?id=bjws
+#EXTINF:-1 group-title="央视*-频道",北京卫视
+http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 group-title="央视*-频道",北京卫视
+http://lu.wqwqwq.sbs/itv/1000000005000265027.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",北京卫视
+http://cdn.jdshipin.com:8880/ysp.php?id=bjws
+#EXTINF:-1 group-title="央视*-频道",北京卫视
+https://hls-gateway.vpstv.net/streams/476912.m3u8
+#EXTINF:-1 group-title="央视*-频道",北京卫视
+https://smart.pendy.dpdns.org/Smart.php
+#EXTINF:-1 group-title="央视*-频道",湖北卫视
+http://112.6.239.227:8207/hls/25/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",湖北卫视
+http://z.b.bkpcp.top/m.php?id=hubws
+#EXTINF:-1 group-title="央视*-频道",湖北卫视
+http://j.x.bkpcp.top/jx/HUBEIHD
+#EXTINF:-1 group-title="央视*-频道",湖北卫视
+http://3501776.xyz:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",湖北卫视
+http://dsk.cc/php/xxtv.php?id=hubws
+#EXTINF:-1 group-title="央视*-频道",湖北卫视
+http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 group-title="央视*-频道",湖北卫视
+http://lu.wqwqwq.sbs/itv/1000000005000265023.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",湖北卫视
+https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",黑龙江卫视
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
+#EXTINF:-1 group-title="央视*-频道",黑龙江卫视
+http://j.x.bkpcp.top/jx/HEILJHD
+#EXTINF:-1 group-title="央视*-频道",黑龙江卫视
+http://dsk.cc/php/xxtv.php?id=hljws
+#EXTINF:-1 group-title="央视*-频道",黑龙江卫视
+https://hls-gateway.vpstv.net/streams/708854.m3u8
+#EXTINF:-1 group-title="央视*-频道",黑龙江卫视
+http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 group-title="央视*-频道",黑龙江卫视
+http://lu.wqwqwq.sbs/itv/1000000001000001925.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",安徽卫视
+http://112.123.243.37:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视*-频道",安徽卫视
+http://j.x.bkpcp.top/jx/ANHUIHD
+#EXTINF:-1 group-title="央视*-频道",安徽卫视
+http://dsk.cc/php/xxtv.php?id=ahws
+#EXTINF:-1 group-title="央视*-频道",安徽卫视
+http://iptv.huuc.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 group-title="央视*-频道",安徽卫视
+http://3501776.xyz:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",安徽卫视
+http://lu.wqwqwq.sbs/itv/1000000005000265025.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",安徽卫视
+https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",安徽卫视
+https://hls-gateway.vpstv.net/streams/708868.m3u8
+#EXTINF:-1 group-title="央视*-频道",重庆卫视
+http://60.16.0.216:5757/hls/36/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",重庆卫视
+http://z.b.bkpcp.top/m.php?id=cqws
+#EXTINF:-1 group-title="央视*-频道",重庆卫视
+http://j.x.bkpcp.top/jx/CHONGQHD
+#EXTINF:-1 group-title="央视*-频道",重庆卫视
+http://dsk.cc/php/xxtv.php?id=cqws
+#EXTINF:-1 group-title="央视*-频道",重庆卫视
+http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 group-title="央视*-频道",重庆卫视
+http://3501776.xyz:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",重庆卫视
+http://lu.wqwqwq.sbs/itv/1000000005000265017.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",重庆卫视
+https://hls-gateway.vpstv.net/streams/476918.m3u8
+#EXTINF:-1 group-title="央视*-频道",重庆卫视
+https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",东方卫视
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+#EXTINF:-1 group-title="央视*-频道",东方卫视
+http://z.b.bkpcp.top/m.php?id=dfws#rtsp://115.85.232.19/PLTV/88888910/224/3221225531/10000100000000060000000000107311_0.smil
+#EXTINF:-1 group-title="央视*-频道",东方卫视
+http://3501776.xyz:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",东方卫视
+http://dsk.cc/php/xxtv.php?id=dfws
+#EXTINF:-1 group-title="央视*-频道",东方卫视
+http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 group-title="央视*-频道",东方卫视
+http://lu.wqwqwq.sbs/itv/1000000005000265018.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",东方卫视
+https://hls-gateway.vpstv.net/streams/709068.m3u8
+#EXTINF:-1 group-title="央视*-频道",东方卫视
+https://live.chinacert.cftest5.cn/mg/?id=651632648
+#EXTINF:-1 group-title="央视*-频道",东方卫视
+https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",东南卫视
+http://112.27.235.94:8000/hls/38/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",东南卫视
+http://z.b.bkpcp.top/m.php?id=dnws
+#EXTINF:-1 group-title="央视*-频道",东南卫视
+http://j.x.bkpcp.top/jx/DONGNHD
+#EXTINF:-1 group-title="央视*-频道",东南卫视
+http://dsk.cc/php/xxtv.php?id=dnws
+#EXTINF:-1 group-title="央视*-频道",东南卫视
+http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1 group-title="央视*-频道",东南卫视
+http://3501776.xyz:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",东南卫视
+http://lu.wqwqwq.sbs/itv/1000000005000265033.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",东南卫视
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",东南卫视
+https://hls-gateway.vpstv.net/streams/708823.m3u8
+#EXTINF:-1 group-title="央视*-频道",甘肃卫视
+http://z.b.bkpcp.top/m.php?id=gsws
+#EXTINF:-1 group-title="央视*-频道",甘肃卫视
+http://j.x.bkpcp.top/jx/GSWS
+#EXTINF:-1 group-title="央视*-频道",甘肃卫视
+http://3501776.xyz:35455/itv/5000000011000031121.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="央视*-频道",甘肃卫视
+http://dsk.cc/php/xxtv.php?id=gsws
+#EXTINF:-1 group-title="央视*-频道",甘肃卫视
+https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",甘肃卫视
+https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
+#EXTINF:-1 group-title="央视*-频道",广西卫视
+http://112.6.239.227:8207/hls/32/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",广西卫视
+http://z.b.bkpcp.top/m.php?id=gxws
+#EXTINF:-1 group-title="央视*-频道",广西卫视
+http://3501776.xyz:35455/itv/5000000011000031118.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="央视*-频道",广西卫视
+https://mobilelive.gxtv.cn/live/gx_live1004/playlist.m3u8
+#EXTINF:-1 group-title="央视*-频道",广西卫视
+http://live.cztv.cc:85/live/ggpd.m3u8
+#EXTINF:-1 group-title="央视*-频道",广西卫视
+http://dsk.cc/php/xxtv.php?id=gxws
+#EXTINF:-1 group-title="央视*-频道",广西卫视
+https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+#EXTINF:-1 group-title="央视*-频道",广西卫视
+https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",广西卫视
+https://hls-gateway.vpstv.net/streams/708864.m3u8
+#EXTINF:-1 group-title="央视*-频道",贵州卫视
+http://112.123.243.37:50085/tsfile/live/0130_2.m3u8
+#EXTINF:-1 group-title="央视*-频道",贵州卫视
+http://z.b.bkpcp.top/m.php?id=gzws
+#EXTINF:-1 group-title="央视*-频道",贵州卫视
+http://j.x.bkpcp.top/jx/GUIZHD
+#EXTINF:-1 group-title="央视*-频道",贵州卫视
+http://3501776.xyz:35455/itv/5000000004000025843.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="央视*-频道",贵州卫视
+http://dsk.cc/php/xxtv.php?id=gzws
+#EXTINF:-1 group-title="央视*-频道",贵州卫视
+http://lu.wqwqwq.sbs/itv/5000000004000025843.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="央视*-频道",贵州卫视
+https://hls-gateway.vpstv.net/streams/708850.m3u8
+#EXTINF:-1 group-title="央视*-频道",贵州卫视
+https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",海南卫视
+http://z.b.bkpcp.top/m.php?id=hinws
+#EXTINF:-1 group-title="央视*-频道",海南卫视
+http://j.x.bkpcp.top/jx/HAINHD
+#EXTINF:-1 group-title="央视*-频道",海南卫视
+http://3501776.xyz:35455/itv/5000000004000006211.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="央视*-频道",海南卫视
+http://lu.wqwqwq.sbs/itv/5000000004000006211.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="央视*-频道",海南卫视
+http://live.wqwqwq.sbs/itv/5000000004000006211.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="央视*-频道",海南卫视
+https://hls-gateway.vpstv.net/streams/708822.m3u8
+#EXTINF:-1 group-title="央视*-频道",海南卫视
+https://live.chinacert.cftest5.cn/mg/?id=947472502
+#EXTINF:-1 group-title="央视*-频道",海南卫视
+https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",河北卫视
+http://112.6.239.227:8207/hls/28/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",河北卫视
+http://112.123.243.37:50085/tsfile/live/0018_1.m3u8
+#EXTINF:-1 group-title="央视*-频道",河北卫视
+http://112.27.235.94:8000/hls/39/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",河北卫视
+http://z.b.bkpcp.top/m.php?id=hbws
+#EXTINF:-1 group-title="央视*-频道",河北卫视
+https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央视*-频道",河北卫视
+http://dsk.cc/php/xxtv.php?id=hbws
+#EXTINF:-1 group-title="央视*-频道",河北卫视
+http://iptv.huuc.edu.cn/hls/hebhd.m3u8
+#EXTINF:-1 group-title="央视*-频道",河北卫视
+http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
+#EXTINF:-1 group-title="央视*-频道",河北卫视
+http://lu.wqwqwq.sbs/itv/5000000006000040016.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="央视*-频道",河北卫视
+http://live.wqwqwq.sbs/itv/5000000006000040016.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="央视*-频道",河南卫视
+http://1.94.31.214/php/hntv.php?id=hnws
+#EXTINF:-1 group-title="央视*-频道",河南卫视
+http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+#EXTINF:-1 group-title="央视*-频道",河南卫视
+http://z.b.bkpcp.top/m.php?id=hnws
+#EXTINF:-1 group-title="央视*-频道",河南卫视
+http://j.x.bkpcp.top/jx/HENHD
+#EXTINF:-1 group-title="央视*-频道",河南卫视
+http://3501776.xyz:35455/itv/1000000002000027731.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",河南卫视
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=04e32a3bd883f58fb71ed009a6a8b7c6&wsTime=1740891619
+#EXTINF:-1 group-title="央视*-频道",河南卫视
+https://hls-gateway.vpstv.net/streams/708871.m3u8
+#EXTINF:-1 group-title="央视*-频道",河南卫视
+https://live.chinacert.cftest5.cn/mg/?id=790187291
+#EXTINF:-1 group-title="央视*-频道",吉林卫视
+http://z.b.bkpcp.top/m.php?id=jlws
+#EXTINF:-1 group-title="央视*-频道",吉林卫视
+http://j.x.bkpcp.top/jx/JILHD
+#EXTINF:-1 group-title="央视*-频道",吉林卫视
+http://dsk.cc/php/xxtv.php?id=jlws
+#EXTINF:-1 group-title="央视*-频道",吉林卫视
+https://hls-gateway.vpstv.net/streams/708844.m3u8
+#EXTINF:-1 group-title="央视*-频道",吉林卫视
+https://live.chinacert.cftest5.cn/mg/?id=947472500
+#EXTINF:-1 group-title="央视*-频道",吉林卫视
+https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",江苏卫视
+http://112.123.243.37:50085/tsfile/live/0017_1.m3u8
+#EXTINF:-1 group-title="央视*-频道",江苏卫视
+http://222.169.85.8:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视*-频道",江苏卫视
+http://112.27.235.94:8000/hls/32/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",江苏卫视
+http://z.b.bkpcp.top/m.php?id=jsws
+#EXTINF:-1 group-title="央视*-频道",江苏卫视
+http://3501776.xyz:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",江苏卫视
+http://dsk.cc/php/xxtv.php?id=jsws
+#EXTINF:-1 group-title="央视*-频道",江苏卫视
+http://iptv.huuc.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 group-title="央视*-频道",江苏卫视
+http://lu.wqwqwq.sbs/itv/1000000005000265030.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",江西卫视
+http://pa.kuangdeng.top:8081/hls/30/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",江西卫视
+http://112.27.235.94:8000/hls/44/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",江西卫视
+http://222.169.85.8:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视*-频道",江西卫视
+http://z.b.bkpcp.top/m.php?id=jxws
+#EXTINF:-1 group-title="央视*-频道",江西卫视
+http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+#EXTINF:-1 group-title="央视*-频道",江西卫视
+http://3501776.xyz:35455/itv/1000000005000265032.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",江西卫视
+http://lu.wqwqwq.sbs/itv/1000000005000265032.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",江西卫视
+https://hls-gateway.vpstv.net/streams/708831.m3u8
+#EXTINF:-1 group-title="央视*-频道",江西卫视
+https://live.chinacert.cftest5.cn/mg/?id=783847495
+#EXTINF:-1 group-title="央视*-频道",辽宁卫视
+http://112.27.235.94:8000/hls/47/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",辽宁卫视
+http://z.b.bkpcp.top/m.php?id=lnws
+#EXTINF:-1 group-title="央视*-频道",辽宁卫视
+http://j.x.bkpcp.top/jx/LIAONHD
+#EXTINF:-1 group-title="央视*-频道",辽宁卫视
+http://3501776.xyz:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",辽宁卫视
+http://dsk.cc/php/xxtv.php?id=lnws
+#EXTINF:-1 group-title="央视*-频道",辽宁卫视
+http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1 group-title="央视*-频道",辽宁卫视
+https://www.goodiptv.club/douyu/9403738
+#EXTINF:-1 group-title="央视*-频道",辽宁卫视
+http://lu.wqwqwq.sbs/itv/1000000005000265022.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",辽宁卫视
+https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",内蒙古卫视
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 group-title="央视*-频道",内蒙古卫视
+http://60.16.0.216:5757/hls/41/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",内蒙古卫视
+http://z.b.bkpcp.top/m.php?id=nmws
+#EXTINF:-1 group-title="央视*-频道",内蒙古卫视
+http://j.x.bkpcp.top/jx/NMGWS
+#EXTINF:-1 group-title="央视*-频道",宁夏卫视
+http://z.b.bkpcp.top/m.php?id=nxws
+#EXTINF:-1 group-title="央视*-频道",宁夏卫视
+http://j.x.bkpcp.top/jx/NXWS
+#EXTINF:-1 group-title="央视*-频道",宁夏卫视
+http://3501776.xyz:35455/itv/1000000002000031451.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",宁夏卫视
+http://dsk.cc/php/xxtv.php?id=nxws
+#EXTINF:-1 group-title="央视*-频道",青海卫视
+http://pull-skycorp.speedws.com/live/Vl8mV4zn76zS5PTDLz4gWL0V4sE1ZrOq4QcjzQ1za74lLOnTbO.flv
+#EXTINF:-1 group-title="央视*-频道",青海卫视
+http://z.b.bkpcp.top/m.php?id=qhws
+#EXTINF:-1 group-title="央视*-频道",青海卫视
+http://j.x.bkpcp.top/jx/QHWS
+#EXTINF:-1 group-title="央视*-频道",青海卫视
+http://3501776.xyz:35455/itv/1000000002000013359.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",青海卫视
+http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",青海卫视
+https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",青海卫视
+https://hls-gateway.vpstv.net/streams/708825.m3u8
+#EXTINF:-1 group-title="央视*-频道",青海卫视
+https://live.chinacert.cftest5.cn/mg/?id=947472506
+#EXTINF:-1 group-title="央视*-频道",山东卫视
+http://112.27.235.94:8000/hls/34/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",山东卫视
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 group-title="央视*-频道",山东卫视
+http://112.123.243.37:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视*-频道",山东卫视
+http://z.b.bkpcp.top/m.php?id=sdws
+#EXTINF:-1 group-title="央视*-频道",山东卫视
+http://j.x.bkpcp.top/jx/SHANDHD
+#EXTINF:-1 group-title="央视*-频道",山东卫视
+http://3501776.xyz:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",山东卫视
+http://dsk.cc/php/xxtv.php?id=sdws
+#EXTINF:-1 group-title="央视*-频道",山东卫视
+http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 group-title="央视*-频道",山东卫视
+http://lu.wqwqwq.sbs/itv/1000000005000265019.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",山东卫视
+https://hls-gateway.vpstv.net/streams/708860.m3u8
+#EXTINF:-1 group-title="央视*-频道",山西卫视
+http://pull-skycorp.speedws.com/live/ELjaeHOFG9HT3UOUJ5sbRcrufQf3CnhBzPoHD2QUWosNRHYPOG.flv
+#EXTINF:-1 group-title="央视*-频道",山西卫视
+http://60.16.0.216:5757/hls/39/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",山西卫视
+http://j.x.bkpcp.top/jx/SXWS
+#EXTINF:-1 group-title="央视*-频道",山西卫视
+http://3501776.xyz:35455/itv/1000000002000021220.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",山西卫视
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 group-title="央视*-频道",山西卫视
+https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",陕西卫视
+http://z.b.bkpcp.top/m.php?id=sxws
+#EXTINF:-1 group-title="央视*-频道",陕西卫视
+http://gat.bkpcp.top/ymg.php?id=sxws
+#EXTINF:-1 group-title="央视*-频道",陕西卫视
+http://3501776.xyz:35455/itv/1000000002000007495.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",陕西卫视
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",陕西卫视
+https://live.chinacert.cftest5.cn/mg/?id=738910838
+#EXTINF:-1 group-title="央视*-频道",四川卫视
+http://112.6.239.227:8207/hls/27/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",四川卫视
+http://z.b.bkpcp.top/m.php?id=scws
+#EXTINF:-1 group-title="央视*-频道",四川卫视
+http://j.x.bkpcp.top/jx/SICHD
+#EXTINF:-1 group-title="央视*-频道",四川卫视
+http://3501776.xyz:35455/itv/5000000004000006119.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="央视*-频道",四川卫视
+http://iptv.huuc.edu.cn/hls/schd.m3u8
+#EXTINF:-1 group-title="央视*-频道",四川卫视
+http://lu.wqwqwq.sbs/itv/5000000004000006119.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="央视*-频道",四川卫视
+http://live.wqwqwq.sbs/itv/5000000004000006119.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="央视*-频道",四川卫视
+https://hls-gateway.vpstv.net/streams/476917.m3u8
+#EXTINF:-1 group-title="央视*-频道",四川卫视
+https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",深圳卫视
+http://112.27.235.94:8000/hls/33/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",深圳卫视
+http://112.123.243.37:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视*-频道",深圳卫视
+http://dsk.cc/php/xxtv.php?id=szws
+#EXTINF:-1 group-title="央视*-频道",深圳卫视
+http://iptv.huuc.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 group-title="央视*-频道",深圳卫视
+https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
+#EXTINF:-1 group-title="央视*-频道",深圳卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003873474.m3u8
+#EXTINF:-1 group-title="央视*-频道",深圳卫视
+http://z.b.bkpcp.top/m.php?id=szws
+#EXTINF:-1 group-title="央视*-频道",深圳卫视
+http://3501776.xyz:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",深圳卫视
+http://lu.wqwqwq.sbs/itv/1000000005000265028.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",深圳卫视
+https://hls-gateway.vpstv.net/streams/476913.m3u8
+#EXTINF:-1 group-title="央视*-频道",三沙卫视
+https://srs.ssws.tv/video/sstv-10/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",三沙卫视
+https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="央视*-频道",三沙卫视
+https://live3.hnntv.cn/srs/tv/ssws.m3u8
+#EXTINF:-1 group-title="央视*-频道",天津卫视
+http://112.27.235.94:8000/hls/42/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",天津卫视
+http://j.x.bkpcp.top/jx/TIANJHD
+#EXTINF:-1 group-title="央视*-频道",天津卫视
+http://dsk.cc/php/xxtv.php?id=tjws
+#EXTINF:-1 group-title="央视*-频道",天津卫视
+http://iptv.huuc.edu.cn/hls/tjhd.m3u8
+#EXTINF:-1 group-title="央视*-频道",天津卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003873466.m3u8
+#EXTINF:-1 group-title="央视*-频道",天津卫视
+http://3501776.xyz:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",天津卫视
+http://live.wqwqwq.sbs/itv/5000000004000006827.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="央视*-频道",天津卫视
+http://lu.wqwqwq.sbs/itv/1000000005000265026.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="央视*-频道",天津卫视
+http://cdn.jdshipin.com:8880/ysp.php?id=tjws
+#EXTINF:-1 group-title="央视*-频道",天津卫视
+https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",西藏卫视
+http://www.lysvc.cc/daili/xztv.php?id=0
+#EXTINF:-1 group-title="央视*-频道",西藏卫视
+http://z.b.bkpcp.top/m.php?id=xzws
+#EXTINF:-1 group-title="央视*-频道",新疆卫视
+http://z.b.bkpcp.top/m.php?id=xjws
+#EXTINF:-1 group-title="央视*-频道",新疆卫视
+http://j.x.bkpcp.top/jx/XJWS
+#EXTINF:-1 group-title="央视*-频道",新疆卫视
+http://dsk.cc/php/xxtv.php?id=xjws
+#EXTINF:-1 group-title="央视*-频道",新疆卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887448.m3u8
+#EXTINF:-1 group-title="央视*-频道",新疆卫视
+http://nas.jdshipin.com:8801/xjtv.php?id=xjws
+#EXTINF:-1 group-title="央视*-频道",新疆卫视
+http://cdn.jdshipin.com:8880/ysp.php?id=xjws
+#EXTINF:-1 group-title="央视*-频道",云南卫视
+http://112.27.235.94:8000/hls/40/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",云南卫视
+http://z.b.bkpcp.top/m.php?id=ynws
+#EXTINF:-1 group-title="央视*-频道",云南卫视
+http://3501776.xyz:35455/itv/5000000011000031120.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="央视*-频道",云南卫视
+http://live.wqwqwq.sbs/itv/5000000011000031120.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="央视*-频道",云南卫视
+https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
+#EXTINF:-1 group-title="央视*-频道",云南卫视
+https://hls-gateway.vpstv.net/streams/708863.m3u8

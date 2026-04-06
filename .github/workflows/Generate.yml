@@ -1,0 +1,76 @@
+# .github/workflows/generate_and_commit.yml
+name: 1. 生成、备份、合并并提交文件
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 每天 4 次，例如 UTC 00:00, 06:00, 12:00, 18:00
+    - cron: '0 */6 * * *' 
+
+jobs:
+  generate_and_commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: 检出仓库代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 
+
+      - name: 设置 Python 环境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+
+
+      # 2. 创建并复制备份文件到 history/
+      - name: 创建并复制备份文件到 history/
+        id: set_timestamp
+        run: |
+          TIMESTAMP=$(date +%m%d%H%M)
+          mkdir -p history
+          cp demo_output.m3u history/logo${TIMESTAMP}.m3u
+          cp tvbox_output.txt history/tvbox_${TIMESTAMP}.txt
+          echo "备份文件已生成到 history/ 目录。"
+
+      # 3. 运行合并脚本生成 merged 文件
+      - name: 运行合并脚本生成 merged 文件
+        run: python md/merge_tvlist.py
+
+      # 4. Git 提交所有更改 (由 Git 自动判断是否需要提交)
+      - name: Git 提交并推送到 main 分支
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          
+          # 暂存所有可能更改的文件
+          git add demo_output.m3u tvbox_output.txt history/
+          
+          # 检查是否有实际差异需要提交
+          if git diff --cached --quiet --exit-code; then
+            echo "文件内容与上一次提交相同，无需提交。"
+          else
+            git commit -m "自动更新：生成、备份和合并" --no-verify
+            git pull --rebase origin main
+            git push origin HEAD:main
+            echo "文件已提交并推送。"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      # 5. 上传生成的播放列表文件为 artifact
+      - name: 上传生成的播放列表文件为 artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: 播放列表
+          path: |
+            demo_output.m3u
+            tvbox_output.txt

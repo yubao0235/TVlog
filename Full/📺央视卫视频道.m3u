@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV1综合
+https://60.191.56.186:8888/hls/1/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV2财经
+https://60.191.56.186:8888/hls/2/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV3综艺
+https://60.191.56.186:8888/hls/3/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV4中文国际
+https://60.191.56.186:8888/hls/4/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV5体育
+https://60.191.56.186:8888/hls/5/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV6电影
+https://60.191.56.186:8888/hls/6/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV7国防军事
+https://60.191.56.186:8888/hls/7/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV8电视剧
+https://60.191.56.186:8888/hls/8/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV9纪录
+https://60.191.56.186:8888/hls/9/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV10科教
+https://60.191.56.186:8888/hls/10/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV11戏曲
+http://miguzb.33191.com/migu/migu20251205.php?id=667987558
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV11戏曲
+https://60.191.56.186:8888/hls/11/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV12社会与法
+https://60.191.56.186:8888/hls/12/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV13新闻
+https://60.191.56.186:8888/hls/13/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV14少儿
+http://miguzb.33191.com/migu/migu20251205.php?id=624878440
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV15音乐
+http://miguzb.33191.com/migu/migu20251205.php?id=673168223
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV15音乐
+https://60.191.56.186:8888/hls/14/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV16奥林匹克
+https://60.191.56.186:8888/hls/16/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV-1综合
+http://120.70.60.179:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV-2财经
+http://120.70.60.179:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV-3综艺
+http://120.70.60.179:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV-5体育
+http://120.70.60.179:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV-6电影
+http://120.70.60.179:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV-7国防军事
+http://120.70.60.179:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV-8电视剧
+http://120.70.60.179:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV-9纪录
+http://120.70.60.179:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV-10科教
+http://120.70.60.179:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="📺央视卫视频道",四川卫视
+https://60.191.56.186:8888/hls/37/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",湖南卫视
+https://60.191.56.186:8888/hls/31/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",浙江卫视
+https://60.191.56.186:8888/hls/17/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",江苏卫视
+https://60.191.56.186:8888/hls/33/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",东方卫视
+https://60.191.56.186:8888/hls/30/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",北京卫视
+https://60.191.56.186:8888/hls/34/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",重庆卫视
+https://60.191.56.186:8888/hls/35/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",安徽卫视
+https://60.191.56.186:8888/hls/32/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",贵州卫视
+https://60.191.56.186:8888/hls/36/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",广东卫视
+https://60.191.56.186:8888/hls/38/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",天津卫视
+https://60.191.56.186:8888/hls/41/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",河北卫视
+https://60.191.56.186:8888/hls/43/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",黑龙江卫视
+https://60.191.56.186:8888/hls/44/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",山东卫视
+https://60.191.56.186:8888/hls/46/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",东南卫视
+https://60.191.56.186:8888/hls/47/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",湖北卫视
+https://60.191.56.186:8888/hls/48/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",辽宁卫视
+https://60.191.56.186:8888/hls/49/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",江西卫视
+https://60.191.56.186:8888/hls/50/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",河南卫视
+https://60.191.56.186:8888/hls/57/index.m3u8
+#EXTINF:-1 group-title="📺央视卫视频道",电影台
+http://media.lzqp.com:4022/udp/239.81.0.166:4056
+#EXTINF:-1 group-title="📺央视卫视频道",CCTV4中文国际
+http://120.70.60.179:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0

@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 group-title="央卫秒播2",浙江卫视4K
+https://play-qukan.cztv.com/live/1758879019692345.m3u8
+#EXTINF:-1 group-title="央卫秒播2",深圳卫视4K
+http://jiangxun.sendsmtp.com:40222/udp/239.81.0.254:4056
+#EXTINF:-1 group-title="央卫秒播2",北京卫视4K
+http://jiangxun.sendsmtp.com:40222/udp/239.81.0.226:4056
+#EXTINF:-1 group-title="央卫秒播2",广东卫视4K
+http://jiangxun.sendsmtp.com:40222/udp/239.81.0.252:4056
+#EXTINF:-1 group-title="央卫秒播2",华数4K
+http://jiangxun.sendsmtp.com:40222/udp/239.81.0.123:4056
+#EXTINF:-1 group-title="央卫秒播2",CCTV1
+http://39.152.103.17:8089/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",CCTV2
+http://39.152.103.17:8089/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",CCTV3
+http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",CCTV4
+http://39.152.103.17:8089/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",CCTV5
+http://39.152.103.17:8089/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",CCTV5+
+http://39.152.103.17:8089/tsfile/live/1090_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",CCTV6
+http://39.152.103.17:8089/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",CCTV7
+http://39.152.103.17:8089/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",CCTV8
+http://39.152.103.17:8089/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",CCTV9
+http://39.152.103.17:8089/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",CCTV10
+http://39.152.103.17:8089/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",CCTV11
+http://39.152.103.17:8089/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",CCTV12
+http://39.152.103.17:8089/tsfile/live/1011_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",CCTV13
+http://39.152.103.17:8089/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",CCTV14
+http://39.152.103.17:8089/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",CCTV15
+http://39.152.103.17:8089/tsfile/live/1014_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",CCTV16
+http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",CCTV17
+http://39.152.103.17:8089/tsfile/live/1016_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",四川卫视
+http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",湖南卫视
+http://39.152.103.17:8089/tsfile/live/1040_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",浙江卫视
+http://39.152.103.17:8089/tsfile/live/1037_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",江苏卫视
+http://39.152.103.17:8089/tsfile/live/1038_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",深圳卫视
+http://39.152.103.17:8089/tsfile/live/1049_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",东方卫视
+http://39.152.103.17:8089/tsfile/live/1036_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",北京卫视
+http://39.152.103.17:8089/tsfile/live/1034_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",重庆卫视
+http://39.152.103.17:8089/tsfile/live/1048_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",东南卫视
+http://39.152.103.17:8089/tsfile/live/1081_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",云南卫视
+http://39.152.103.17:8089/tsfile/live/1083_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",天津卫视
+http://39.152.103.17:8089/tsfile/live/1035_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",宁夏卫视
+http://39.152.103.17:8089/tsfile/live/1086_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",安徽卫视
+http://39.152.103.17:8089/tsfile/live/1039_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",山东卫视
+http://39.152.103.17:8089/tsfile/live/1018_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",广东卫视
+http://39.152.103.17:8089/tsfile/live/1042_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",广西卫视
+http://39.152.103.17:8089/tsfile/live/1077_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",江西卫视
+http://39.152.103.17:8089/tsfile/live/1078_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",河北卫视
+http://39.152.103.17:8089/tsfile/live/1079_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",河南卫视
+http://39.152.103.17:8089/tsfile/live/1080_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",海南卫视
+http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",湖北卫视
+http://39.152.103.17:8089/tsfile/live/1043_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",贵州卫视
+http://39.152.103.17:8089/tsfile/live/1041_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",辽宁卫视
+http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",甘肃卫视
+http://218.17.33.178:53290/tsfile/live/0141_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",新疆卫视
+http://39.152.103.17:8089/tsfile/live/1087_1.m3u8
+#EXTINF:-1 group-title="央卫秒播2",黑龙江卫视
+http://39.152.103.17:8089/tsfile/live/1055_1.m3u8
