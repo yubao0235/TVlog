@@ -29,7 +29,7 @@ http://1.31.14.70:54321/hls/19/index.m3u8
 http://1.31.14.70:54321/hls/22/index.m3u8
 #EXTINF:-1,内蒙古卫视
 http://1.31.14.70:54321/hls/55/index.m3u8
-#EXTINF:-1,内蒙古蒙古语卫视高清
+#EXTINF:-1,内蒙古蒙古语卫视
 http://1.31.14.70:54321/hls/54/index.m3u8
 #EXTINF:-1,北京卫视
 http://1.31.14.70:54321/hls/25/index.m3u8
@@ -91,48 +91,20 @@ http://1.31.14.70:54321/hls/52/index.m3u8
 http://1.31.14.70:54321/hls/40/index.m3u8
 #EXTINF:-1,新闻综合
 http://1.31.14.70:54321/hls/50/index.m3u8
-#EXTINF:-1,BNTV-1高清
+#EXTINF:-1,BNTV1
 http://1.31.14.70:54321/hls/58/index.m3u8
-#EXTINF:-1,BNTV-2高清
+#EXTINF:-1,BNTV2
 http://1.31.14.70:54321/hls/57/index.m3u8
-#EXTINF:-1,BNTV-3高清
+#EXTINF:-1,BNTV3
 http://1.31.14.70:54321/hls/56/index.m3u8
-#EXTINF:-1,卡酷动画高清
+#EXTINF:-1,卡酷动画
 http://1.31.14.70:54321/hls/38/index.m3u8
 #EXTINF:-1,第一剧场
 http://1.31.14.70:54321/hls/59/index.m3u8
-#EXTINF:-1,CCTV-NEWS
+#EXTINF:-1,CCTVNEWS
 http://1.31.14.70:54321/hls/21/index.m3u8
 #EXTINF:-1,文体娱乐
 http://1.31.14.70:54321/hls/53/index.m3u8
-#EXTINF:-1,CCTV-1 综合
-http://1.31.14.70:54321/hls/2/index.m3u8
-#EXTINF:-1,CCTV-2 财经
-http://1.31.14.70:54321/hls/4/index.m3u8
-#EXTINF:-1,CCTV-3 综艺
-http://1.31.14.70:54321/hls/6/index.m3u8
-#EXTINF:-1,CCTV-4 中文国际
-http://1.31.14.70:54321/hls/13/index.m3u8
-#EXTINF:-1,CCTV-5 体育
-http://1.31.14.70:54321/hls/7/index.m3u8
-#EXTINF:-1,CCTV-6 电影
-http://1.31.14.70:54321/hls/8/index.m3u8
-#EXTINF:-1,CCTV-7 国防军事
-http://1.31.14.70:54321/hls/9/index.m3u8
-#EXTINF:-1,CCTV-8 电视剧
-http://1.31.14.70:54321/hls/14/index.m3u8
-#EXTINF:-1,CCTV-9 纪录
-http://1.31.14.70:54321/hls/10/index.m3u8
-#EXTINF:-1,CCTV-10 科教
-http://1.31.14.70:54321/hls/11/index.m3u8
-#EXTINF:-1,CCTV-11 戏曲
-http://1.31.14.70:54321/hls/16/index.m3u8
-#EXTINF:-1,CCTV-12 社会与法
-http://1.31.14.70:54321/hls/12/index.m3u8
-#EXTINF:-1,CCTV-13 新闻
-http://1.31.14.70:54321/hls/19/index.m3u8
-#EXTINF:-1,CCTV-14 少儿
-http://1.31.14.70:54321/hls/22/index.m3u8
 #EXTINF:-1,农牧频道
 http://1.31.14.70:54321/hls/49/index.m3u8
 #EXTINF:-1,少儿频道

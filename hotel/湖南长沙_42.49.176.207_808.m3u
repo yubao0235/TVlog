@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,CCTV-5 体育
+#EXTINF:-1,CCTV5体育
 http://42.49.176.207:808/hls/6/index.m3u8
 #EXTINF:-1,中央一台
 http://42.49.176.207:808/hls/1/index.m3u8

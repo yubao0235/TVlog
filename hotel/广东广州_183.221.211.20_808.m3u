@@ -135,6 +135,8 @@ http://183.221.211.20:808/hls/31/index.m3u8
 http://183.221.211.20:808/hls/37/index.m3u8
 #EXTINF:-1,青海卫视
 http://183.221.211.20:808/hls/40/index.m3u8
+#EXTINF:-1,四川经济频道
+http://183.221.211.20:808/hls/51/index.m3u8
 #EXTINF:-1,峨眉电影频道
 http://183.221.211.20:808/hls/56/index.m3u8
 #EXTINF:-1,卡酷少儿
@@ -149,8 +151,6 @@ http://183.221.211.20:808/hls/48/index.m3u8
 http://183.221.211.20:808/hls/53/index.m3u8
 #EXTINF:-1,四川科教频道
 http://183.221.211.20:808/hls/54/index.m3u8
-#EXTINF:-1,四川经济频道
-http://183.221.211.20:808/hls/51/index.m3u8
 #EXTINF:-1,四川公共频道
 http://183.221.211.20:808/hls/55/index.m3u8
 #EXTINF:-1,四川新闻资讯

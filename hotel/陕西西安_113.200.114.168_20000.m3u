@@ -27,37 +27,9 @@ http://113.200.114.168:20000/hls/12/index.m3u8
 http://113.200.114.168:20000/hls/13/index.m3u8
 #EXTINF:-1,CCTV15
 http://113.200.114.168:20000/hls/15/index.m3u8
-#EXTINF:-1,CCTV-1 综合
-http://113.200.114.168:20000/hls/1/index.m3u8
-#EXTINF:-1,CCTV-2 财经
-http://113.200.114.168:20000/hls/2/index.m3u8
-#EXTINF:-1,CCTV-3 综艺
-http://113.200.114.168:20000/hls/3/index.m3u8
-#EXTINF:-1,CCTV-4 中文国际
-http://113.200.114.168:20000/hls/4/index.m3u8
-#EXTINF:-1,CCTV-5 体育
-http://113.200.114.168:20000/hls/5/index.m3u8
-#EXTINF:-1,CCTV-6 电影
-http://113.200.114.168:20000/hls/6/index.m3u8
-#EXTINF:-1,CCTV-7 国防军事
-http://113.200.114.168:20000/hls/7/index.m3u8
-#EXTINF:-1,CCTV-8 电视剧
-http://113.200.114.168:20000/hls/8/index.m3u8
-#EXTINF:-1,CCTV-9 纪录
-http://113.200.114.168:20000/hls/9/index.m3u8
-#EXTINF:-1,CCTV-10 科教
-http://113.200.114.168:20000/hls/10/index.m3u8
-#EXTINF:-1,CCTV-11 戏曲
-http://113.200.114.168:20000/hls/11/index.m3u8
-#EXTINF:-1,CCTV-12 社会与法
-http://113.200.114.168:20000/hls/12/index.m3u8
-#EXTINF:-1,CCTV-13 新闻
-http://113.200.114.168:20000/hls/13/index.m3u8
-#EXTINF:-1,CCTV-15 音乐
-http://113.200.114.168:20000/hls/15/index.m3u8
-#EXTINF:-1,CCTV-NEWS
+#EXTINF:-1,CCTVNEWS
 http://113.200.114.168:20000/hls/16/index.m3u8
-#EXTINF:-1,CCTV-少儿
+#EXTINF:-1,CCTV少儿
 http://113.200.114.168:20000/hls/14/index.m3u8
 #EXTINF:-1,东方卫视
 http://113.200.114.168:20000/hls/28/index.m3u8

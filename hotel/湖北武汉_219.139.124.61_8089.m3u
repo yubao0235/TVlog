@@ -15,22 +15,6 @@ http://219.139.124.61:8089/hls/7/index.m3u8
 http://219.139.124.61:8089/hls/8/index.m3u8
 #EXTINF:-1,CCTV4
 http://219.139.124.61:8089/hls/40/index.m3u8
-#EXTINF:-1,CCTV-1 综合
-http://219.139.124.61:8089/hls/1/index.m3u8
-#EXTINF:-1,CCTV-2 财经
-http://219.139.124.61:8089/hls/2/index.m3u8
-#EXTINF:-1,CCTV-3 综艺
-http://219.139.124.61:8089/hls/3/index.m3u8
-#EXTINF:-1,CCTV-4 中文国际
-http://219.139.124.61:8089/hls/40/index.m3u8
-#EXTINF:-1,CCTV-5 体育
-http://219.139.124.61:8089/hls/5/index.m3u8
-#EXTINF:-1,CCTV-6 电影
-http://219.139.124.61:8089/hls/6/index.m3u8
-#EXTINF:-1,CCTV-7 国防军事
-http://219.139.124.61:8089/hls/7/index.m3u8
-#EXTINF:-1,CCTV-8 电视剧
-http://219.139.124.61:8089/hls/8/index.m3u8
 #EXTINF:-1,世界地理
 http://219.139.124.61:8089/hls/38/index.m3u8
 #EXTINF:-1,东南卫视
@@ -69,11 +53,9 @@ http://219.139.124.61:8089/hls/26/index.m3u8
 http://219.139.124.61:8089/hls/39/index.m3u8
 #EXTINF:-1,黑龙江卫视
 http://219.139.124.61:8089/hls/34/index.m3u8
-#EXTINF:-1,CHC高清电影
+#EXTINF:-1,CHC电影
 http://219.139.124.61:8089/hls/28/index.m3u8
 #EXTINF:-1,卡酷少儿
 http://219.139.124.61:8089/hls/37/index.m3u8
 #EXTINF:-1,湖北综合
 http://219.139.124.61:8089/hls/36/index.m3u8
-#EXTINF:-1,CHC影迷电影
-http://219.139.124.61:8089/hls/28/index.m3u8

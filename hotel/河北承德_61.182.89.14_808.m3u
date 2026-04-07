@@ -63,21 +63,3 @@ http://61.182.89.14:808/hls/26/index.m3u8
 http://61.182.89.14:808/hls/39/index.m3u8
 #EXTINF:-1,青海卫视
 http://61.182.89.14:808/hls/40/index.m3u8
-#EXTINF:-1,CCTV-1 综合
-http://61.182.89.14:808/hls/1/index.m3u8
-#EXTINF:-1,CCTV-2 财经
-http://61.182.89.14:808/hls/2/index.m3u8
-#EXTINF:-1,CCTV-3 综艺
-http://61.182.89.14:808/hls/3/index.m3u8
-#EXTINF:-1,CCTV-4 中文国际
-http://61.182.89.14:808/hls/4/index.m3u8
-#EXTINF:-1,CCTV-5 体育
-http://61.182.89.14:808/hls/5/index.m3u8
-#EXTINF:-1,CCTV-5+ 体育赛事
-http://61.182.89.14:808/hls/17/index.m3u8
-#EXTINF:-1,CCTV-6 电影
-http://61.182.89.14:808/hls/6/index.m3u8
-#EXTINF:-1,CCTV-7 国防军事
-http://61.182.89.14:808/hls/7/index.m3u8
-#EXTINF:-1,CCTV-8 电视剧
-http://61.182.89.14:808/hls/8/index.m3u8
