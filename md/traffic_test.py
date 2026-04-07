@@ -11,10 +11,10 @@ from concurrent.futures import ThreadPoolExecutor
 # 1. 禁用 SSL 警告
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-# 2. 路径重定位 (适配 LIVE/py 目录结构)
-# 当前脚本在 LIVE/py/ 下
+# 2. 路径重定位 (适配 TVlog/md 目录结构)
+# 当前脚本在 TVlog/md 下
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
-# 向上跳一级到 LIVE/，再进入 hotels/ALL.m3u
+# 向上跳一级到 TVlog/，再进入 hotels/ALL.m3u
 SOURCE_M3U = os.path.join(CURRENT_DIR, "..", "hotels", "ALL.m3u")
 # 报告保存在当前 py 文件夹
 OUTPUT_TXT = os.path.join(CURRENT_DIR, "traffic_report.txt")
@@ -107,7 +107,7 @@ def save_reports(results, group_summary):
         json.dump({"summary": group_summary, "details": results}, f, ensure_ascii=False, indent=2)
 
 def main():
-    print(f"🚀 开始在 LIVE 仓库测速...")
+    print(f"🚀 开始在 TVlog 仓库测速...")
     print(f"📂 目标源文件: {os.path.abspath(SOURCE_M3U)}")
     
     if not os.path.exists(SOURCE_M3U):
