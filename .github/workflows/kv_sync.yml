@@ -1,5 +1,5 @@
 # .github/workflows/kv_sync.yml
-name: 3. Cloudflare KV 文件上传 (简化版)
+name: 3. Cloudflare KV 
 
 on:
   workflow_dispatch:
