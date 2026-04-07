@@ -33,18 +33,18 @@ jobs:
           PYTHONUNBUFFERED: "1"
         run: |
           echo "🚀 开始实时扫描..."
-          python py/scan_hotel.py
+          python md/scan_hotel.py
 
       - name: Rebuild M3U Lists
         run: |
           echo "🔄 正在构建列表文件..."
-          python py/rebuild_m3u.py
+          python md/rebuild_m3u.py
 
       - name: IPTV Speed Test
         run: |
           echo "⚡ 对最新 ALL.m3u 执行测速..."
-          if [ -f "py/traffic_test.py" ]; then
-            python py/traffic_test.py
+          if [ -f "md/traffic_test.py" ]; then
+          #python md/traffic_test.py
           else
             echo "⚠️ 找不到测速脚本"
           fi
