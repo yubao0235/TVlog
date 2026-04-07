@@ -31,8 +31,6 @@ http://123.162.23.16:888/hls/15/index.m3u8
 http://123.162.23.16:888/hls/74/index.m3u8
 #EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV第一剧场.png" group-title="Hotel_123.162.23.16:888",CCTV第一剧场
 http://123.162.23.16:888/hls/73/index.m3u8
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV风云音乐.png" group-title="Hotel_123.162.23.16:888",CCTV风云音乐
-http://123.162.23.16:888/hls/72/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://tb.yubo.qzz.io/logo/东南卫视.png" group-title="Hotel_123.162.23.16:888",东南卫视
 http://123.162.23.16:888/hls/58/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://tb.yubo.qzz.io/logo/云南卫视.png" group-title="Hotel_123.162.23.16:888",云南卫视

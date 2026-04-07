@@ -47,15 +47,3 @@ http://39.152.227.215:808/hls/22/index.m3u8
 http://39.152.227.215:808/hls/23/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://tb.yubo.qzz.io/logo/山西卫视.png" group-title="Hotel_39.152.227.215:808",山西卫视
 http://39.152.227.215:808/hls/24/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV1综合.png" group-title="Hotel_39.152.227.215:808",CCTV1综合
-http://39.152.227.215:808/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV3综艺.png" group-title="Hotel_39.152.227.215:808",CCTV3综艺
-http://39.152.227.215:808/hls/2/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV5体育.png" group-title="Hotel_39.152.227.215:808",CCTV5体育
-http://39.152.227.215:808/hls/3/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV6电影.png" group-title="Hotel_39.152.227.215:808",CCTV6电影
-http://39.152.227.215:808/hls/4/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14少儿" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV14少儿.png" group-title="Hotel_39.152.227.215:808",CCTV14少儿
-http://39.152.227.215:808/hls/5/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15音乐" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV15音乐.png" group-title="Hotel_39.152.227.215:808",CCTV15音乐
-http://39.152.227.215:808/hls/6/index.m3u8

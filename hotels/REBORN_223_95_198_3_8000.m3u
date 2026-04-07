@@ -7,12 +7,6 @@ http://223.95.198.3:8000/hls/3/index.m3u8
 http://223.95.198.3:8000/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV1综合.png" group-title="Hotel_223.95.198.3:8000",CCTV1综合
 http://223.95.198.3:8000/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2财经" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV2财经.png" group-title="Hotel_223.95.198.3:8000",CCTV2财经
-http://223.95.198.3:8000/hls/2/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV3综艺.png" group-title="Hotel_223.95.198.3:8000",CCTV3综艺
-http://223.95.198.3:8000/hls/3/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4中文国际" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV4中文国际.png" group-title="Hotel_223.95.198.3:8000",CCTV4中文国际
-http://223.95.198.3:8000/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4中文国际" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV4中文国际.png" group-title="Hotel_223.95.198.3:8000",CCTV4中文国际
 http://223.95.198.3:8000/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV5体育.png" group-title="Hotel_223.95.198.3:8000",CCTV5体育

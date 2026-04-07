@@ -135,5 +135,3 @@ http://111.14.222.117:3333/hls/20/index.m3u8
 http://111.14.222.117:3333/hls/67/index.m3u8
 #EXTINF:-1 tvg-name="齐鲁频道" tvg-logo="https://tb.yubo.qzz.io/logo/齐鲁频道.png" group-title="Hotel_111.14.222.117:3333",齐鲁频道
 http://111.14.222.117:3333/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="济南生活" tvg-logo="https://tb.yubo.qzz.io/logo/济南生活.png" group-title="Hotel_111.14.222.117:3333",济南生活
-http://111.14.222.117:3333/hls/19/index.m3u8

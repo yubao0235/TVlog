@@ -15,22 +15,6 @@ http://219.139.124.61:8089/hls/7/index.m3u8
 http://219.139.124.61:8089/hls/8/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV4.png" group-title="Hotel_219.139.124.61:8089",CCTV4
 http://219.139.124.61:8089/hls/40/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV1综合.png" group-title="Hotel_219.139.124.61:8089",CCTV1综合
-http://219.139.124.61:8089/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2财经" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV2财经.png" group-title="Hotel_219.139.124.61:8089",CCTV2财经
-http://219.139.124.61:8089/hls/2/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV3综艺.png" group-title="Hotel_219.139.124.61:8089",CCTV3综艺
-http://219.139.124.61:8089/hls/3/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4中文国际" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV4中文国际.png" group-title="Hotel_219.139.124.61:8089",CCTV4中文国际
-http://219.139.124.61:8089/hls/40/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV5体育.png" group-title="Hotel_219.139.124.61:8089",CCTV5体育
-http://219.139.124.61:8089/hls/5/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV6电影.png" group-title="Hotel_219.139.124.61:8089",CCTV6电影
-http://219.139.124.61:8089/hls/6/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV7国防军事.png" group-title="Hotel_219.139.124.61:8089",CCTV7国防军事
-http://219.139.124.61:8089/hls/7/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8电视剧" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV8电视剧.png" group-title="Hotel_219.139.124.61:8089",CCTV8电视剧
-http://219.139.124.61:8089/hls/8/index.m3u8
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://tb.yubo.qzz.io/logo/世界地理.png" group-title="Hotel_219.139.124.61:8089",世界地理
 http://219.139.124.61:8089/hls/38/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://tb.yubo.qzz.io/logo/东南卫视.png" group-title="Hotel_219.139.124.61:8089",东南卫视
@@ -75,5 +59,3 @@ http://219.139.124.61:8089/hls/28/index.m3u8
 http://219.139.124.61:8089/hls/37/index.m3u8
 #EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://tb.yubo.qzz.io/logo/湖北综合.png" group-title="Hotel_219.139.124.61:8089",湖北综合
 http://219.139.124.61:8089/hls/36/index.m3u8
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://tb.yubo.qzz.io/logo/CHC影迷电影.png" group-title="Hotel_219.139.124.61:8089",CHC影迷电影
-http://219.139.124.61:8089/hls/28/index.m3u8

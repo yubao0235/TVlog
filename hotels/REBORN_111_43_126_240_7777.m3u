@@ -165,40 +165,6 @@ http://111.43.126.240:7777/hls/97/index.m3u8
 http://111.43.126.240:7777/hls/98/index.m3u8
 #EXTINF:-1 tvg-name="咪咕精彩足球" tvg-logo="https://tb.yubo.qzz.io/logo/咪咕精彩足球.png" group-title="Hotel_111.43.126.240:7777",咪咕精彩足球
 http://111.43.126.240:7777/hls/103/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV1综合.png" group-title="Hotel_111.43.126.240:7777",CCTV1综合
-http://111.43.126.240:7777/hls/13/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2财经" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV2财经.png" group-title="Hotel_111.43.126.240:7777",CCTV2财经
-http://111.43.126.240:7777/hls/14/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV3综艺.png" group-title="Hotel_111.43.126.240:7777",CCTV3综艺
-http://111.43.126.240:7777/hls/15/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4中文国际" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV4中文国际.png" group-title="Hotel_111.43.126.240:7777",CCTV4中文国际
-http://111.43.126.240:7777/hls/16/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV5体育.png" group-title="Hotel_111.43.126.240:7777",CCTV5体育
-http://111.43.126.240:7777/hls/17/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV5+体育赛事.png" group-title="Hotel_111.43.126.240:7777",CCTV5+体育赛事
-http://111.43.126.240:7777/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV6电影.png" group-title="Hotel_111.43.126.240:7777",CCTV6电影
-http://111.43.126.240:7777/hls/19/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV7国防军事.png" group-title="Hotel_111.43.126.240:7777",CCTV7国防军事
-http://111.43.126.240:7777/hls/20/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8电视剧" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV8电视剧.png" group-title="Hotel_111.43.126.240:7777",CCTV8电视剧
-http://111.43.126.240:7777/hls/21/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9纪录" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV9纪录.png" group-title="Hotel_111.43.126.240:7777",CCTV9纪录
-http://111.43.126.240:7777/hls/22/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10科教" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV10科教.png" group-title="Hotel_111.43.126.240:7777",CCTV10科教
-http://111.43.126.240:7777/hls/23/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11戏曲" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV11戏曲.png" group-title="Hotel_111.43.126.240:7777",CCTV11戏曲
-http://111.43.126.240:7777/hls/24/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV12社会与法.png" group-title="Hotel_111.43.126.240:7777",CCTV12社会与法
-http://111.43.126.240:7777/hls/25/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13新闻" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV13新闻.png" group-title="Hotel_111.43.126.240:7777",CCTV13新闻
-http://111.43.126.240:7777/hls/26/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14少儿" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV14少儿.png" group-title="Hotel_111.43.126.240:7777",CCTV14少儿
-http://111.43.126.240:7777/hls/27/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15音乐" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV15音乐.png" group-title="Hotel_111.43.126.240:7777",CCTV15音乐
-http://111.43.126.240:7777/hls/28/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16奥林匹克" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV16奥林匹克.png" group-title="Hotel_111.43.126.240:7777",CCTV16奥林匹克
-http://111.43.126.240:7777/hls/29/index.m3u8
 #EXTINF:-1 tvg-name="动作电影" tvg-logo="https://tb.yubo.qzz.io/logo/动作电影.png" group-title="Hotel_111.43.126.240:7777",动作电影
 http://111.43.126.240:7777/hls/75/index.m3u8
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://tb.yubo.qzz.io/logo/超级电影.png" group-title="Hotel_111.43.126.240:7777",超级电影
@@ -229,8 +195,6 @@ http://111.43.126.240:7777/hls/71/index.m3u8
 http://111.43.126.240:7777/hls/73/index.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://tb.yubo.qzz.io/logo/优漫卡通.png" group-title="Hotel_111.43.126.240:7777",优漫卡通
 http://111.43.126.240:7777/hls/74/index.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://tb.yubo.qzz.io/logo/CHC动作电影.png" group-title="Hotel_111.43.126.240:7777",CHC动作电影
-http://111.43.126.240:7777/hls/75/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://tb.yubo.qzz.io/logo/黑莓电影.png" group-title="Hotel_111.43.126.240:7777",黑莓电影
 http://111.43.126.240:7777/hls/99/index.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://tb.yubo.qzz.io/logo/黑莓动画.png" group-title="Hotel_111.43.126.240:7777",黑莓动画
