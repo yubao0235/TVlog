@@ -3,9 +3,6 @@ name: 3. Cloudflare KV 文件上传 (简化版)
 
 on:
   workflow_dispatch:
-  schedule:
-    # 每天 4 次，在主工作流 (0分) 运行后 10 分钟运行
-    - cron: '10 * * * *' 
 
 jobs:
   kv_sync:
