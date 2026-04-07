@@ -1,5 +1,5 @@
 # .github/workflows/kv_sync.yml
-name: 3. Cloudflare KV 
+name: Cloudflare KV 
 
 on:
   workflow_dispatch:
