@@ -44,7 +44,7 @@ jobs:
         run: |
           echo "⚡ 对最新 ALL.m3u 执行测速..."
           if [ -f "md/traffic_test.py" ]; then
-          #python md/traffic_test.py
+          python md/traffic_test.py
           else
             echo "⚠️ 找不到测速脚本"
           fi
