@@ -3,7 +3,7 @@ import re
 from urllib.parse import urlparse
 
 # --- 配置 ---
-BASE_DIR = "history"
+BASE_DIR = "hotel"
 SAVE_PATH = "hotel.txt"
 
 def get_ip_from_url(url):
