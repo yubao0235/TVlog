@@ -2,7 +2,7 @@ name: Hotel IPTV Daily Refresh
 
 on:
   schedule:
-    - cron: '20 14 * * *'
+    - cron: '20 */4 * * *'
   workflow_dispatch:
   push:
     paths:
