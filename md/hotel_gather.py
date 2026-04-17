@@ -70,10 +70,6 @@ async def process_sources():
             except Exception as e:
                 print(f"❌ Failed to download {src}: {e}", flush=True)
 
-        # 2. 提取 IP 信息
-# --- 修改前：按完整 URL 去重 ---
-        # tasks_data = []
-        # for url in all_urls: ...
 
         # --- 修改后：按 IP+端口 去重（每个酒店只生成一个文件） ---
         tasks_data = []
