@@ -31,35 +31,35 @@ http://122.114.131.154:4000/hls/14/index.m3u8
 http://122.114.131.154:4000/hls/15/index.m3u8
 #EXTINF:-1 group-title="122.114.131.154:4000",CCTV5+
 http://122.114.131.154:4000/hls/16/index.m3u8
-#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-1 ç»¼å
+#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-1 综合
 http://122.114.131.154:4000/hls/1/index.m3u8
-#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-2 è´¢ç»
+#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-2 财经
 http://122.114.131.154:4000/hls/2/index.m3u8
-#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-3 ç»¼èº
+#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-3 综艺
 http://122.114.131.154:4000/hls/3/index.m3u8
-#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-4 ä¸­æå½é
+#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-4 中文国际
 http://122.114.131.154:4000/hls/4/index.m3u8
-#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-5 ä½è²
+#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-5 体育
 http://122.114.131.154:4000/hls/5/index.m3u8
-#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-5+ ä½è²èµäº
+#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-5+ 体育赛事
 http://122.114.131.154:4000/hls/16/index.m3u8
-#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-6 çµå½±
+#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-6 电影
 http://122.114.131.154:4000/hls/6/index.m3u8
-#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-7 å½é²åäº
+#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-7 国防军事
 http://122.114.131.154:4000/hls/7/index.m3u8
-#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-8 çµè§å§
+#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-8 电视剧
 http://122.114.131.154:4000/hls/8/index.m3u8
-#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-9 çºªå½
+#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-9 纪录
 http://122.114.131.154:4000/hls/9/index.m3u8
-#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-10 ç§æ
+#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-10 科教
 http://122.114.131.154:4000/hls/10/index.m3u8
-#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-11 ææ²
+#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-11 戏曲
 http://122.114.131.154:4000/hls/11/index.m3u8
-#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-12 ç¤¾ä¼ä¸æ³
+#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-12 社会与法
 http://122.114.131.154:4000/hls/12/index.m3u8
-#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-13 æ°é»
+#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-13 新闻
 http://122.114.131.154:4000/hls/13/index.m3u8
-#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-14 å°å¿
+#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-14 少儿
 http://122.114.131.154:4000/hls/14/index.m3u8
-#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-15 é³ä¹
+#EXTINF:-1 group-title="122.114.131.154:4000",CCTV-15 音乐
 http://122.114.131.154:4000/hls/15/index.m3u8
