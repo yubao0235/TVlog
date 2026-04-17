@@ -28,8 +28,9 @@ jobs:
           pip install httpx
 
       - name: Run Hotel Gather Script
+        env:
+          PYTHONUNBUFFERED: "1"  # 强制 Python 实时输出日志到控制台
         run: |
-          # 确保脚本路径正确
           python md/hotel_gather.py
 
       - name: Commit and Push Changes
