@@ -12,79 +12,74 @@ SOURCES = [
     "https://yuxx.de5.net/3c1f32b7.m3u",
     "https://yuxx.de5.net/97d6e00d.m3u"
 ]
-
 SAVE_DIR = "hotel"
 IP_API = "http://ip-api.com/json/{}?fields=status,regionName,city,query&lang=zh-CN"
 
 async def get_location(client, ip):
-    """查询 IP 归属地"""
+    """异步查询归属地"""
     try:
-        resp = await client.get(IP_API.format(ip), timeout=5.0)
+        resp = await client.get(IP_API.format(ip), timeout=3.0)
         if resp.status_code == 200:
             data = resp.json()
             if data.get("status") == "success":
                 region = data.get("regionName", "")
                 city = data.get("city", "")
                 return region if region == city else f"{region}{city}"
-    except:
-        pass
+    except: pass
     return "未知"
 
+async def process_single_task(client, ip, port, url):
+    """单个 URL 的完整处理逻辑"""
+    loc = await get_location(client, ip)
+    loc_clean = re.sub(r'[^\u4e00-\u9fa5]+', '', loc) or "未知"
+    
+    filename = f"{loc_clean}_{ip}_{port}.m3u"
+    filepath = os.path.join(SAVE_DIR, filename)
+    
+    # 写入文件
+    with open(filepath, "w", encoding="utf-8") as f:
+        f.write(f"#EXTM3U\n#EXTINF:-1,{loc_clean}_{ip}\n{url}\n")
+    return True
+
 async def process_sources():
-    # 如果目录存在，先清空它，确保旧的“残缺”文件被彻底移除
+    # 强制清空旧文件夹
     if os.path.exists(SAVE_DIR):
         shutil.rmtree(SAVE_DIR)
     os.makedirs(SAVE_DIR, exist_ok=True)
 
-    # 增加模拟浏览器的 Headers，防止部分网站拦截请求
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0"}
-
+    headers = {"User-Agent": "Mozilla/5.0 (VLC播放器风格)"}
+    
     async with httpx.AsyncClient(follow_redirects=True, verify=False, headers=headers) as client:
-        # 1. 汇总所有 URL
+        # 1. 抓取所有源码中的完整 URL
         all_urls = set()
         for src in SOURCES:
             try:
-                print(f"正在下载源文件: {src}")
+                print(f"📡 正在拉取源: {src}", flush=True)
                 r = await client.get(src)
-                # 【关键修正】：修改正则，允许匹配包含路径、参数的完整 URL
-                # 匹配 http/rtp 直到行尾或空格或引号
+                # 修正后的正则：抓取完整路径
                 found = re.findall(r'(?:http|rtp)://[0-9\.]+(?::\d+)?[^ \r\n\t"\'<>]*', r.text)
                 all_urls.update(found)
             except Exception as e:
-                print(f"下载失败 {src}: {e}")
+                print(f"❌ 下载失败 {src}: {e}", flush=True)
 
-        print(f"共发现 {len(all_urls)} 个原始链接，开始处理归属地...")
-
-        # 2. 准备任务
-        tasks_info = []
+        # 2. 提取任务信息
+        tasks_data = []
         for url in all_urls:
-            # 提取 IP 和 端口用于归属地查询和命名
             match = re.search(r'//([0-9\.]+):(\d+)', url)
             if match:
-                ip, port = match.groups()
-                tasks_info.append((ip, port, url))
+                tasks_data.append((match.group(1), match.group(2), url))
 
-        # 3. 批量处理（每10个一组）
-        for i in range(0, len(tasks_info), 10):
-            batch = tasks_info[i:i+10]
-            for ip, port, url in batch:
-                loc = await get_location(client, ip)
-                # 清洗归属地字符串，只保留中文
-                loc_clean = re.sub(r'[^\u4e00-\u9fa5]+', '', loc)
-                if not loc_clean: loc_clean = "未知"
-                
-                # 文件名包含地点、IP和端口
-                filename = f"{loc_clean}_{ip}_{port}.m3u"
-                filepath = os.path.join(SAVE_DIR, filename)
-                
-                # 写入完整 URL
-                with open(filepath, "w", encoding="utf-8") as f:
-                    f.write("#EXTM3U\n")
-                    f.write(f"#EXTINF:-1,{loc_clean}_{ip}\n")
-                    f.write(f"{url}\n") # 这里现在会写入完整的路径，如 /hls/1/index.m3u8
-            
-            print(f"已处理进度: {min(i+10, len(tasks_info))}/{len(tasks_info)}")
-            await asyncio.sleep(0.5) 
+        print(f"📊 共提取到 {len(tasks_data)} 个有效链接，开始并发处理...", flush=True)
+
+        # 3. 并发处理（每 5 个一组，防止被 API 封锁）
+        batch_size = 5 
+        for i in range(0, len(tasks_data), batch_size):
+            batch = tasks_data[i:i+batch_size]
+            # 使用 gather 同时启动 5 个任务
+            await asyncio.gather(*(process_single_task(client, *item) for item in batch))
+            print(f"🚀 已处理: {min(i+batch_size, len(tasks_data))}/{len(tasks_data)}", flush=True)
+            # 缩短等待时间
+            await asyncio.sleep(0.2)
 
 if __name__ == "__main__":
     asyncio.run(process_sources())
