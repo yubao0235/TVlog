@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV2
+http://223.95.198.3:8000/hls/2/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV3
+http://223.95.198.3:8000/hls/3/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV4
+http://223.95.198.3:8000/hls/4/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV-1 综合
+http://223.95.198.3:8000/hls/1/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV-2 财经
+http://223.95.198.3:8000/hls/2/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV-3 综艺
+http://223.95.198.3:8000/hls/3/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV-4 中文国际
+http://223.95.198.3:8000/hls/4/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV-4 中文国际
+http://223.95.198.3:8000/hls/18/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV-5 体育
+http://223.95.198.3:8000/hls/5/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV-6 电影
+http://223.95.198.3:8000/hls/6/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV-7 国防军事
+http://223.95.198.3:8000/hls/7/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV-8 电视剧
+http://223.95.198.3:8000/hls/8/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV-9 纪录
+http://223.95.198.3:8000/hls/9/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV-10 科教
+http://223.95.198.3:8000/hls/10/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV-11 戏曲
+http://223.95.198.3:8000/hls/11/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV-12 社会与法
+http://223.95.198.3:8000/hls/12/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV-13 新闻
+http://223.95.198.3:8000/hls/13/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV-14 少儿
+http://223.95.198.3:8000/hls/14/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV-15 音乐
+http://223.95.198.3:8000/hls/15/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV-16 奥林匹克
+http://223.95.198.3:8000/hls/16/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV-17 农业农村
+http://223.95.198.3:8000/hls/17/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",CCTV-发现之旅
+http://223.95.198.3:8000/hls/19/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",东方卫视
+http://223.95.198.3:8000/hls/22/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",云南卫视
+http://223.95.198.3:8000/hls/44/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",云南卫视
+http://223.95.198.3:8000/hls/45/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",北京卫视
+http://223.95.198.3:8000/hls/21/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",吉林卫视
+http://223.95.198.3:8000/hls/35/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",四川卫视
+http://223.95.198.3:8000/hls/37/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",天津卫视
+http://223.95.198.3:8000/hls/26/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",安徽卫视
+http://223.95.198.3:8000/hls/30/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",山东卫视
+http://223.95.198.3:8000/hls/29/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",广东卫视
+http://223.95.198.3:8000/hls/38/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",广西卫视
+http://223.95.198.3:8000/hls/39/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",江苏卫视
+http://223.95.198.3:8000/hls/28/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",江西卫视
+http://223.95.198.3:8000/hls/40/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",河北卫视
+http://223.95.198.3:8000/hls/27/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",河南卫视
+http://223.95.198.3:8000/hls/31/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",浙江卫视
+http://223.95.198.3:8000/hls/24/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",海南卫视
+http://223.95.198.3:8000/hls/41/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",深圳卫视
+http://223.95.198.3:8000/hls/23/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",湖北卫视
+http://223.95.198.3:8000/hls/32/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",湖南卫视
+http://223.95.198.3:8000/hls/25/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",甘肃卫视
+http://223.95.198.3:8000/hls/42/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",贵州卫视
+http://223.95.198.3:8000/hls/46/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",辽宁卫视
+http://223.95.198.3:8000/hls/34/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",重庆卫视
+http://223.95.198.3:8000/hls/36/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",陕西卫视
+http://223.95.198.3:8000/hls/43/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",青海卫视
+http://223.95.198.3:8000/hls/47/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",黑龙江卫视
+http://223.95.198.3:8000/hls/33/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",凤凰中文
+http://223.95.198.3:8000/hls/20/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",浙江少儿
+http://223.95.198.3:8000/hls/52/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",浙江新闻
+http://223.95.198.3:8000/hls/50/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",NBTV-1
+http://223.95.198.3:8000/hls/48/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",NBTV-2
+http://223.95.198.3:8000/hls/49/index.m3u8
+#EXTINF:-1 group-title="223.95.198.3:8000",浙江民生
+http://223.95.198.3:8000/hls/51/index.m3u8
