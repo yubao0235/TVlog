@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV1
+http://116.228.170.214:888/hls/1/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV2
+http://116.228.170.214:888/hls/2/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV3
+http://116.228.170.214:888/hls/3/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV4
+http://116.228.170.214:888/hls/4/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV5
+http://116.228.170.214:888/hls/5/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV6
+http://116.228.170.214:888/hls/7/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV7
+http://116.228.170.214:888/hls/8/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV8
+http://116.228.170.214:888/hls/9/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV9
+http://116.228.170.214:888/hls/10/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV10
+http://116.228.170.214:888/hls/11/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV12
+http://116.228.170.214:888/hls/13/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV13
+http://116.228.170.214:888/hls/14/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV14
+http://116.228.170.214:888/hls/15/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV15
+http://116.228.170.214:888/hls/16/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV-1 ç»¼å
+http://116.228.170.214:888/hls/1/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV-2 è´¢ç»
+http://116.228.170.214:888/hls/2/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV-3 ç»¼èº
+http://116.228.170.214:888/hls/3/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV-4 ä¸­æå½é
+http://116.228.170.214:888/hls/4/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV-5 ä½è²
+http://116.228.170.214:888/hls/5/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV-6 çµå½±
+http://116.228.170.214:888/hls/7/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV-7 å½é²åäº
+http://116.228.170.214:888/hls/8/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV-8 çµè§å§
+http://116.228.170.214:888/hls/9/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV-9 çºªå½
+http://116.228.170.214:888/hls/10/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV-10 ç§æ
+http://116.228.170.214:888/hls/11/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV-12 ç¤¾ä¼ä¸æ³
+http://116.228.170.214:888/hls/13/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV-13 æ°é»
+http://116.228.170.214:888/hls/14/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV-14 å°å¿
+http://116.228.170.214:888/hls/15/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",CCTV-15 é³ä¹
+http://116.228.170.214:888/hls/16/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",ä¸åå«è§
+http://116.228.170.214:888/hls/28/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",åäº¬å«è§
+http://116.228.170.214:888/hls/23/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",åæå«è§
+http://116.228.170.214:888/hls/37/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",åå·å«è§
+http://116.228.170.214:888/hls/40/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",å¤©æ´¥å«è§
+http://116.228.170.214:888/hls/27/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",å®å¤å«è§
+http://116.228.170.214:888/hls/45/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",å®å¾½å«è§
+http://116.228.170.214:888/hls/32/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",å±±ä¸å«è§
+http://116.228.170.214:888/hls/36/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",å±±è¥¿å«è§
+http://116.228.170.214:888/hls/46/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",å¹¿ä¸å«è§
+http://116.228.170.214:888/hls/25/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",å¹¿è¥¿å«è§
+http://116.228.170.214:888/hls/47/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",æ±èå«è§
+http://116.228.170.214:888/hls/34/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",æ±è¥¿å«è§
+http://116.228.170.214:888/hls/30/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",æ²³åå«è§
+http://116.228.170.214:888/hls/39/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",æ²³åå«è§
+http://116.228.170.214:888/hls/35/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",æµæ±å«è§
+http://116.228.170.214:888/hls/33/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",æµ·åå«è§
+http://116.228.170.214:888/hls/42/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",æ¹åå«è§
+http://116.228.170.214:888/hls/29/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",æ¹åå«è§
+http://116.228.170.214:888/hls/31/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",è´µå·å«è§
+http://116.228.170.214:888/hls/43/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",è¾½å®å«è§
+http://116.228.170.214:888/hls/38/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",éåºå«è§
+http://116.228.170.214:888/hls/26/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",é»é¾æ±å«è§
+http://116.228.170.214:888/hls/41/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",å¨æ¼«ç§åº
+http://116.228.170.214:888/hls/21/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",é½å¸å§åº
+http://116.228.170.214:888/hls/22/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",ä¸­å½æè²
+http://116.228.170.214:888/hls/19/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",æ°é»ç»¼å
+http://116.228.170.214:888/hls/18/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",çµè§å§
+http://116.228.170.214:888/hls/51/index.m3u8
+#EXTINF:-1 group-title="116.228.170.214:888",æ°´æµä¼ 
+http://116.228.170.214:888/hls/51/index.m3u8
