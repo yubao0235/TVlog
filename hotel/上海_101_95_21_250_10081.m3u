@@ -29,69 +29,69 @@ http://101.95.21.250:10081/hls/13/index.m3u8
 http://101.95.21.250:10081/hls/14/index.m3u8
 #EXTINF:-1 group-title="101.95.21.250:10081",CCTV15
 http://101.95.21.250:10081/hls/15/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",åäº¬å«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",北京卫视
 http://101.95.21.250:10081/hls/16/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",æ¹åå«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",湖南卫视
 http://101.95.21.250:10081/hls/17/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",æ±èå«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",江苏卫视
 http://101.95.21.250:10081/hls/18/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",æµæ±å«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",浙江卫视
 http://101.95.21.250:10081/hls/19/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",æµ·åå«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",海南卫视
 http://101.95.21.250:10081/hls/20/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",å¹¿è¥¿å«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",广西卫视
 http://101.95.21.250:10081/hls/21/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",åå·å«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",四川卫视
 http://101.95.21.250:10081/hls/22/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",å±±ä¸å«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",山东卫视
 http://101.95.21.250:10081/hls/23/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",è¾½å®å«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",辽宁卫视
 http://101.95.21.250:10081/hls/24/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",å®å¾½å«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",安徽卫视
 http://101.95.21.250:10081/hls/25/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",ä¸åå«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",东南卫视
 http://101.95.21.250:10081/hls/26/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",å¤©æ´¥å«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",天津卫视
 http://101.95.21.250:10081/hls/27/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",æ±è¥¿å«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",江西卫视
 http://101.95.21.250:10081/hls/28/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",åæå«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",吉林卫视
 http://101.95.21.250:10081/hls/29/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",å±±è¥¿å«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",山西卫视
 http://101.95.21.250:10081/hls/30/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",éæµ·å«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",青海卫视
 http://101.95.21.250:10081/hls/31/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",è¥¿èå«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",西藏卫视
 http://101.95.21.250:10081/hls/32/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",éè¥¿å«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",陕西卫视
 http://101.95.21.250:10081/hls/33/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",äºåå«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",云南卫视
 http://101.95.21.250:10081/hls/34/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",çèå«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",甘肃卫视
 http://101.95.21.250:10081/hls/35/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",å¹¿ä¸å«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",广东卫视
 http://101.95.21.250:10081/hls/36/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",é»é¾æ±å«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",黑龙江卫视
 http://101.95.21.250:10081/hls/37/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",æ²³åå«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",河北卫视
 http://101.95.21.250:10081/hls/38/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",åèå¤å«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",内蒙古卫视
 http://101.95.21.250:10081/hls/39/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",æ¹åå«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",湖北卫视
 http://101.95.21.250:10081/hls/40/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",éåºå«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",重庆卫视
 http://101.95.21.250:10081/hls/41/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",è´µå·å«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",贵州卫视
 http://101.95.21.250:10081/hls/42/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",æ²³åå«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",河南卫视
 http://101.95.21.250:10081/hls/43/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",ä¸æ¹å«è§
+#EXTINF:-1 group-title="101.95.21.250:10081",东方卫视
 http://101.95.21.250:10081/hls/46/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",æ°é»ç»¼å
+#EXTINF:-1 group-title="101.95.21.250:10081",新闻综合
 http://101.95.21.250:10081/hls/45/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",ä¸æµ·é½å¸
+#EXTINF:-1 group-title="101.95.21.250:10081",上海都市
 http://101.95.21.250:10081/hls/47/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",ç¬¬ä¸è´¢ç»
+#EXTINF:-1 group-title="101.95.21.250:10081",第一财经
 http://101.95.21.250:10081/hls/44/index.m3u8
-#EXTINF:-1 group-title="101.95.21.250:10081",äºæä½è²
+#EXTINF:-1 group-title="101.95.21.250:10081",五星体育
 http://101.95.21.250:10081/hls/48/index.m3u8
