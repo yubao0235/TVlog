@@ -4,7 +4,7 @@ on:
   workflow_dispatch:       # 支持手动点击 "Run workflow" 触发
   push:
     paths:
-      - 'py/Hotel/hotel_gather.py' # 当你修改脚本时也触发一次测试
+      - 'md/hotel_gather.py' # 当你修改脚本时也触发一次测试
 
 jobs:
   update_hotel:
@@ -27,7 +27,7 @@ jobs:
       - name: Run Hotel Gather Script
         run: |
           # 运行你保存的脚本
-          python py/Hotel/hotel_gather.py
+          python md/hotel_gather.py
 
       - name: Commit and Push Changes
         run: |
@@ -35,7 +35,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           
           # 添加生成的文件（对应你脚本里的 2026/Hotel 目录）
-          git add Hotel/*.m3u
+          git add hotel/*.m3u
           
           # 检查是否有文件变动
           if git diff --staged --quiet; then
