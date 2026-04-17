@@ -1,10 +1,10 @@
 name: Hotel IPTV Auto Gather
 
 on:
-  workflow_dispatch:       # 支持手动点击 "Run workflow" 触发
+  workflow_dispatch:
   push:
     paths:
-      - 'md/hotel_gather.py' # 当你修改脚本时也触发一次测试
+      - 'md/hotel_gather.py'
 
 jobs:
   update_hotel:
@@ -13,6 +13,9 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          # 获取所有历史，防止 push 冲突
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,7 +29,7 @@ jobs:
 
       - name: Run Hotel Gather Script
         run: |
-          # 运行你保存的脚本
+          # 确保脚本路径正确
           python md/hotel_gather.py
 
       - name: Commit and Push Changes
@@ -34,13 +37,16 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # 添加生成的文件（对应你脚本里的 2026/Hotel 目录）
+          # 1. 使用 -A 会追踪到文件的修改、删除和新增
           git add hotel/*.m3u
           
-          # 检查是否有文件变动
+          # 2. 检查是否有变动
           if git diff --staged --quiet; then
             echo "No changes detected, skipping commit."
           else
-            git commit -m "Auto Update: Hotel IPTV List $(date +'%Y-%m-%d %H:%M')"
-            git push
+            git commit -m "📊 覆盖更新：Hotel IPTV 列表 $(date +'%Y-%m-%d %H:%M') [skip ci]"
+            
+            # 3. 使用 rebase 策略处理潜在冲突，确保覆盖成功
+            git pull --rebase origin main
+            git push origin main
           fi
