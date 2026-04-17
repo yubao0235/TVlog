@@ -71,11 +71,21 @@ async def process_sources():
                 print(f"❌ Failed to download {src}: {e}", flush=True)
 
         # 2. 提取 IP 信息
+# --- 修改前：按完整 URL 去重 ---
+        # tasks_data = []
+        # for url in all_urls: ...
+
+        # --- 修改后：按 IP+端口 去重（每个酒店只生成一个文件） ---
         tasks_data = []
+        seen_hosts = set() # 用来记录处理过的 IP:Port
         for url in all_urls:
             match = re.search(r'//([0-9\.]+):(\d+)', url)
             if match:
-                tasks_data.append((match.group(1), match.group(2), url))
+                ip, port = match.groups()
+                host = f"{ip}:{port}"
+                if host not in seen_hosts:
+                    tasks_data.append((ip, port, url))
+                    seen_hosts.add(host)
 
         print(f"📊 Total links: {len(tasks_data)}. Processing...", flush=True)
 
