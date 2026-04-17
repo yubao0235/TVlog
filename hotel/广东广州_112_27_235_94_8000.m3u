@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV1
+http://112.27.235.94:8000/hls/1/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV2
+http://112.27.235.94:8000/hls/2/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV3
+http://112.27.235.94:8000/hls/3/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV4
+http://112.27.235.94:8000/hls/4/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV5
+http://112.27.235.94:8000/hls/5/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV5+
+http://112.27.235.94:8000/hls/6/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV6
+http://112.27.235.94:8000/hls/7/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV7
+http://112.27.235.94:8000/hls/8/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV8
+http://112.27.235.94:8000/hls/9/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV9
+http://112.27.235.94:8000/hls/10/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV10
+http://112.27.235.94:8000/hls/11/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV11
+http://112.27.235.94:8000/hls/12/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV12
+http://112.27.235.94:8000/hls/13/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV13
+http://112.27.235.94:8000/hls/14/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV14
+http://112.27.235.94:8000/hls/15/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV15
+http://112.27.235.94:8000/hls/16/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV-1 ç»¼å
+http://112.27.235.94:8000/hls/1/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV-2 è´¢ç»
+http://112.27.235.94:8000/hls/2/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV-3 ç»¼èº
+http://112.27.235.94:8000/hls/3/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV-4 ä¸­æå½é
+http://112.27.235.94:8000/hls/4/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV-5 ä½è²
+http://112.27.235.94:8000/hls/5/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV-5+ ä½è²èµäº
+http://112.27.235.94:8000/hls/6/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV-6 çµå½±
+http://112.27.235.94:8000/hls/7/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV-7 å½é²åäº
+http://112.27.235.94:8000/hls/8/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV-8 çµè§å§
+http://112.27.235.94:8000/hls/9/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV-9 çºªå½
+http://112.27.235.94:8000/hls/10/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV-10 ç§æ
+http://112.27.235.94:8000/hls/11/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV-11 ææ²
+http://112.27.235.94:8000/hls/12/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV-12 ç¤¾ä¼ä¸æ³
+http://112.27.235.94:8000/hls/13/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV-13 æ°é»
+http://112.27.235.94:8000/hls/14/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV-14 å°å¿
+http://112.27.235.94:8000/hls/15/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CCTV-15 é³ä¹
+http://112.27.235.94:8000/hls/16/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",CGTN
+http://112.27.235.94:8000/hls/17/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",ä¸åå«è§
+http://112.27.235.94:8000/hls/38/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",ä¸æ¹å«è§
+http://112.27.235.94:8000/hls/28/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",äºåå«è§
+http://112.27.235.94:8000/hls/40/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",åèå¤å«è§
+http://112.27.235.94:8000/hls/49/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",åäº¬å«è§
+http://112.27.235.94:8000/hls/27/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",åå·å«è§
+http://112.27.235.94:8000/hls/35/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",å¤©æ´¥å«è§
+http://112.27.235.94:8000/hls/42/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",å®å¾½å«è§
+http://112.27.235.94:8000/hls/26/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",å±±ä¸å«è§
+http://112.27.235.94:8000/hls/34/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",å±±è¥¿å«è§
+http://112.27.235.94:8000/hls/45/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",å¹¿ä¸å«è§
+http://112.27.235.94:8000/hls/30/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",æ±èå«è§
+http://112.27.235.94:8000/hls/32/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",æ±è¥¿å«è§
+http://112.27.235.94:8000/hls/44/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",æ²³åå«è§
+http://112.27.235.94:8000/hls/39/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",æ²³åå«è§
+http://112.27.235.94:8000/hls/37/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",æµæ±å«è§
+http://112.27.235.94:8000/hls/29/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",æ·±å³å«è§
+http://112.27.235.94:8000/hls/33/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",æ¹åå«è§
+http://112.27.235.94:8000/hls/41/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",æ¹åå«è§
+http://112.27.235.94:8000/hls/31/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",è´µå·å«è§
+http://112.27.235.94:8000/hls/46/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",è¾½å®å«è§
+http://112.27.235.94:8000/hls/47/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",éåºå«è§
+http://112.27.235.94:8000/hls/36/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",éè¥¿å«è§
+http://112.27.235.94:8000/hls/43/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",é»é¾æ±å«è§
+http://112.27.235.94:8000/hls/48/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",å®å¾½å¬å±
+http://112.27.235.94:8000/hls/23/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",å®å¾½å½±è§
+http://112.27.235.94:8000/hls/24/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",å®å¾½ç»æµçæ´»
+http://112.27.235.94:8000/hls/22/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",å®å¾½ç»¼èºä½è²
+http://112.27.235.94:8000/hls/25/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",éæ¸©ç»å¸
+http://112.27.235.94:8000/hls/50/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",åè¥æ°é»
+http://112.27.235.94:8000/hls/18/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",åè¥çæ´»
+http://112.27.235.94:8000/hls/19/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",åè¥ç§å
+http://112.27.235.94:8000/hls/20/index.m3u8
+#EXTINF:-1 group-title="112.27.235.94:8000",è¥è¥¿æ°é»ç»¼å
+http://112.27.235.94:8000/hls/21/index.m3u8
