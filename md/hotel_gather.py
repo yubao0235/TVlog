@@ -2,6 +2,7 @@ import os
 import re
 import asyncio
 import httpx
+import shutil
 
 # --- 配置区 ---
 SOURCES = [
@@ -30,8 +31,10 @@ async def get_location(client, ip):
     return "未知"
 
 async def process_sources():
-    if not os.path.exists(SAVE_DIR):
-        os.makedirs(SAVE_DIR, exist_ok=True)
+    # 如果目录存在，先清空它，确保旧的“残缺”文件被彻底移除
+    if os.path.exists(SAVE_DIR):
+        shutil.rmtree(SAVE_DIR)
+    os.makedirs(SAVE_DIR, exist_ok=True)
 
     # 增加模拟浏览器的 Headers，防止部分网站拦截请求
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0"}
