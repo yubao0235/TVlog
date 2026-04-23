@@ -69,8 +69,6 @@ http://221.232.197.144:7777/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid
 http://221.232.197.144:7777/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://tb.yubo.qzz.io/logo/辽宁卫视.png" group-title="Hotel_221.232.197.144:7777",辽宁卫视
 http://221.232.197.144:7777/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://tb.yubo.qzz.io/logo/重庆卫视.png" group-title="Hotel_221.232.197.144:7777",重庆卫视
-http://221.232.197.144:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://tb.yubo.qzz.io/logo/CGTN.png" group-title="Hotel_221.232.197.144:7777",CGTN
 http://221.232.197.144:7777/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖北公共" tvg-logo="https://tb.yubo.qzz.io/logo/湖北公共.png" group-title="Hotel_221.232.197.144:7777",湖北公共
@@ -79,3 +77,5 @@ http://221.232.197.144:7777/tsfile/live/0132_2.m3u8?key=txiptv&playlive=1&authid
 http://221.232.197.144:7777/tsfile/live/0132_3.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://tb.yubo.qzz.io/logo/湖北综合.png" group-title="Hotel_221.232.197.144:7777",湖北综合
 http://221.232.197.144:7777/tsfile/live/0132_4.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://tb.yubo.qzz.io/logo/重庆卫视.png" group-title="Hotel_221.232.197.144:7777",重庆卫视
+http://221.232.197.144:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
