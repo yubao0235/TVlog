@@ -89,6 +89,10 @@ http://42.231.63.172:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0
 http://42.231.63.172:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视",青海卫视
 http://42.231.63.172:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方",周口新闻综合
+http://42.231.63.172:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方",河南公共频道
+http://42.231.63.172:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="地方",河南戏曲
 http://42.231.63.172:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="地方",河南新闻
@@ -99,5 +103,7 @@ http://42.231.63.172:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=0&authid=0
 http://42.231.63.172:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="地方",河南都市
 http://42.231.63.172:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方",郸城
+http://42.231.63.172:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="地方",重庆卫视
 http://42.231.63.172:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=0&authid=0
