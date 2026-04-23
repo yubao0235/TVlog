@@ -6,11 +6,11 @@ import shutil
 
 # --- 配置区 ---
 SOURCES = [
-    "https://yuxx.de5.net/4d2e30e5.m3u",
-    "https://yuxx.de5.net/edcab778.m3u",
-    "https://yuxx.de5.net/33fc12a0.m3u",
-    "https://yuxx.de5.net/3c1f32b7.m3u",
-    "https://yuxx.de5.net/97d6e00d.m3u"
+    "https://boyu.cc.cd/raw/iptv_guangxi.m3u",
+    "https://boyu.cc.cd/raw/iptv_zhejiang.m3u",
+    "https://boyu.cc.cd/raw/iptv_hebei.m3u",
+    "https://boyu.cc.cd/raw/iptv_hubei.m3u",
+    "https://boyu.cc.cd/raw/iptv_hunan.m3u"
 ]
 SAVE_DIR = "hotel"
 IP_API = "http://ip-api.com/json/{}?fields=status,regionName,city,query&lang=zh-CN"
