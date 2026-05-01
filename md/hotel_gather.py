@@ -6,7 +6,8 @@ import shutil
 
 # --- 配置区 ---
 SOURCES = [
-    "https://boyu.cc.cd/raw/iptv_guangxi.m3u",
+    "https://oer.us.ci/get/jilin.m3u",
+    "https://boyu.cc.cd/raw/iptv_guangxi.m3u",    
     "https://boyu.cc.cd/raw/iptv_zhejiang.m3u",
     "https://boyu.cc.cd/raw/iptv_hebei.m3u",
     "https://boyu.cc.cd/raw/iptv_hubei.m3u",
