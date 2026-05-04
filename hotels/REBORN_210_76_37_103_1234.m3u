@@ -113,8 +113,6 @@ http://210.76.37.103:1234/hls/82/index.m3u8
 http://210.76.37.103:1234/hls/88/index.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://tb.yubo.qzz.io/logo/中国天气.png" group-title="Hotel_210.76.37.103:1234",中国天气
 http://210.76.37.103:1234/hls/96/index.m3u8
-#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://tb.yubo.qzz.io/logo/书画频道.png" group-title="Hotel_210.76.37.103:1234",书画频道
-http://210.76.37.103:1234/hls/97/index.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://tb.yubo.qzz.io/logo/优漫卡通.png" group-title="Hotel_210.76.37.103:1234",优漫卡通
 http://210.76.37.103:1234/hls/67/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://tb.yubo.qzz.io/logo/嘉佳卡通.png" group-title="Hotel_210.76.37.103:1234",嘉佳卡通
@@ -151,6 +149,8 @@ http://210.76.37.103:1234/hls/29/index.m3u8
 http://210.76.37.103:1234/hls/30/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://tb.yubo.qzz.io/logo/CETV4.png" group-title="Hotel_210.76.37.103:1234",CETV4
 http://210.76.37.103:1234/hls/31/index.m3u8
+#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://tb.yubo.qzz.io/logo/书画频道.png" group-title="Hotel_210.76.37.103:1234",书画频道
+http://210.76.37.103:1234/hls/97/index.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://tb.yubo.qzz.io/logo/山东教育.png" group-title="Hotel_210.76.37.103:1234",山东教育
 http://210.76.37.103:1234/hls/71/index.m3u8
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://tb.yubo.qzz.io/logo/法治天地.png" group-title="Hotel_210.76.37.103:1234",法治天地
