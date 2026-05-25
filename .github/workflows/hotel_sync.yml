@@ -1,6 +1,8 @@
 name: Hotel IPTV Auto Gather
 
 on:
+  schedule:
+    - cron: '0 18 * * *'
   workflow_dispatch:
   push:
     paths:
