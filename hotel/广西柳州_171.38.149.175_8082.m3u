@@ -103,14 +103,12 @@ http://171.38.149.175:8082/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=
 http://171.38.149.175:8082/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方",动作电影
 http://171.38.149.175:8082/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方",南宁公共频道HD
-http://171.38.149.175:8082/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方",南宁影视娱乐HD
-http://171.38.149.175:8082/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方",南宁新闻综合HD
-http://171.38.149.175:8082/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方",南宁都市生活HD
+http://171.38.149.175:8082/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方",南宁文旅生活HD
 http://171.38.149.175:8082/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方",南宁新闻综合HD
+http://171.38.149.175:8082/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方",卡酷少儿
 http://171.38.149.175:8082/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方",嘉佳卡通
@@ -153,6 +151,8 @@ http://171.38.149.175:8082/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=
 http://171.38.149.175:8082/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方",旅游卫视HD
 http://171.38.149.175:8082/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方",横州综合频道HD
+http://171.38.149.175:8082/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方",武术世界
 http://171.38.149.175:8082/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方",灵山综合频道HD
