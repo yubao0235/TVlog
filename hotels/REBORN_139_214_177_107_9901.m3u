@@ -1,6 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV1.png" group-title="Hotel_139.214.177.107:9901",CCTV1
 http://139.214.177.107:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV1.png" group-title="Hotel_139.214.177.107:9901",CCTV1
+http://139.214.177.107:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV1.png" group-title="Hotel_139.214.177.107:9901",CCTV1
+http://139.214.177.107:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV1.png" group-title="Hotel_139.214.177.107:9901",CCTV1
+http://139.214.177.107:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV1.png" group-title="Hotel_139.214.177.107:9901",CCTV1
+http://139.214.177.107:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV1.png" group-title="Hotel_139.214.177.107:9901",CCTV1
+http://139.214.177.107:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV2.png" group-title="Hotel_139.214.177.107:9901",CCTV2
 http://139.214.177.107:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://tb.yubo.qzz.io/logo/CCTV3.png" group-title="Hotel_139.214.177.107:9901",CCTV3
@@ -147,12 +157,8 @@ http://139.214.177.107:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid
 http://139.214.177.107:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://tb.yubo.qzz.io/logo/CGTN英语.png" group-title="Hotel_139.214.177.107:9901",CGTN英语
 http://139.214.177.107:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://tb.yubo.qzz.io/logo/中国交通.png" group-title="Hotel_139.214.177.107:9901",中国交通
-http://139.214.177.107:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://tb.yubo.qzz.io/logo/乐游.png" group-title="Hotel_139.214.177.107:9901",乐游
 http://139.214.177.107:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://tb.yubo.qzz.io/logo/动漫秀场.png" group-title="Hotel_139.214.177.107:9901",动漫秀场
-http://139.214.177.107:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://tb.yubo.qzz.io/logo/卡酷动画.png" group-title="Hotel_139.214.177.107:9901",卡酷动画
 http://139.214.177.107:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="吉林乡村" tvg-logo="https://tb.yubo.qzz.io/logo/吉林乡村.png" group-title="Hotel_139.214.177.107:9901",吉林乡村
@@ -167,8 +173,6 @@ http://139.214.177.107:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid
 http://139.214.177.107:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="吉林都市" tvg-logo="https://tb.yubo.qzz.io/logo/吉林都市.png" group-title="Hotel_139.214.177.107:9901",吉林都市
 http://139.214.177.107:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://tb.yubo.qzz.io/logo/快乐垂钓.png" group-title="Hotel_139.214.177.107:9901",快乐垂钓
-http://139.214.177.107:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://tb.yubo.qzz.io/logo/文物宝库.png" group-title="Hotel_139.214.177.107:9901",文物宝库
 http://139.214.177.107:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="松原" tvg-logo="https://tb.yubo.qzz.io/logo/松原.png" group-title="Hotel_139.214.177.107:9901",松原
@@ -181,8 +185,6 @@ http://139.214.177.107:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid
 http://139.214.177.107:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="法制天地" tvg-logo="https://tb.yubo.qzz.io/logo/法制天地.png" group-title="Hotel_139.214.177.107:9901",法制天地
 http://139.214.177.107:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://tb.yubo.qzz.io/logo/游戏风云.png" group-title="Hotel_139.214.177.107:9901",游戏风云
-http://139.214.177.107:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://tb.yubo.qzz.io/logo/生活时尚.png" group-title="Hotel_139.214.177.107:9901",生活时尚
 http://139.214.177.107:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://tb.yubo.qzz.io/logo/睛彩广场舞.png" group-title="Hotel_139.214.177.107:9901",睛彩广场舞
@@ -193,8 +195,6 @@ http://139.214.177.107:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid
 http://139.214.177.107:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="睛彩羽毛球" tvg-logo="https://tb.yubo.qzz.io/logo/睛彩羽毛球.png" group-title="Hotel_139.214.177.107:9901",睛彩羽毛球
 http://139.214.177.107:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://tb.yubo.qzz.io/logo/茶频道.png" group-title="Hotel_139.214.177.107:9901",茶频道
-http://139.214.177.107:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://tb.yubo.qzz.io/logo/都市剧场.png" group-title="Hotel_139.214.177.107:9901",都市剧场
 http://139.214.177.107:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://tb.yubo.qzz.io/logo/金色学堂.png" group-title="Hotel_139.214.177.107:9901",金色学堂
