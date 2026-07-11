@@ -46,7 +46,7 @@ http://106.115.27.87:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://tb.yubo.qzz.io/logo/深圳卫视.png" group-title="Hotel_106.115.27.87:9901",深圳卫视
 http://106.115.27.87:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://tb.yubo.qzz.io/logo/湖北卫视.png" group-title="Hotel_106.115.27.87:9901",湖北卫视
-http://106.115.27.87:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+http://106.115.27.87:9901/tsfile/live/faacts/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://tb.yubo.qzz.io/logo/吉林卫视.png" group-title="Hotel_106.115.27.87:9901",吉林卫视
 http://106.115.27.87:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://tb.yubo.qzz.io/logo/四川卫视.png" group-title="Hotel_106.115.27.87:9901",四川卫视
@@ -110,7 +110,7 @@ http://106.115.27.87:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="邯郸科教" tvg-logo="https://tb.yubo.qzz.io/logo/邯郸科教.png" group-title="Hotel_106.115.27.87:9901",邯郸科教
 http://106.115.27.87:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://tb.yubo.qzz.io/logo/重庆卫视.png" group-title="Hotel_106.115.27.87:9901",重庆卫视
-http://106.115.27.87:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+http://106.115.27.87:9901/tsfile/live/faacts/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://tb.yubo.qzz.io/logo/金鹰卡通.png" group-title="Hotel_106.115.27.87:9901",金鹰卡通
 http://106.115.27.87:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="魏县电视台" tvg-logo="https://tb.yubo.qzz.io/logo/魏县电视台.png" group-title="Hotel_106.115.27.87:9901",魏县电视台
