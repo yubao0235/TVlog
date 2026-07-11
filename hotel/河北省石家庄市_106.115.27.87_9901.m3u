@@ -46,7 +46,7 @@ http://106.115.27.87:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",深圳卫视
 http://106.115.27.87:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",湖北卫视
-http://106.115.27.87:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+http://106.115.27.87:9901/tsfile/live/faacts/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",吉林卫视
 http://106.115.27.87:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",四川卫视
@@ -110,7 +110,7 @@ http://106.115.27.87:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方",邯郸科教
 http://106.115.27.87:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方",重庆卫视
-http://106.115.27.87:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+http://106.115.27.87:9901/tsfile/live/faacts/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方",金鹰卡通
 http://106.115.27.87:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方",魏县电视台
