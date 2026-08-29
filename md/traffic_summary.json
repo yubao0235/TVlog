@@ -1,1744 +1,1685 @@
 {
   "summary": {
-    "39.164.138.145:9003": {
-      "alive_count": 2,
-      "max_mbps": 7.16,
-      "avg_mbps": 5.52
-    },
     "113.200.114.168:20000": {
       "alive_count": 2,
-      "max_mbps": 9.33,
-      "avg_mbps": 6.63
+      "max_mbps": 9.22,
+      "avg_mbps": 6.13
     },
     "111.14.222.117:3333": {
       "alive_count": 2,
-      "max_mbps": 19.22,
-      "avg_mbps": 13.55
+      "max_mbps": 16.79,
+      "avg_mbps": 9.63
     },
-    "139.214.181.69:9901": {
-      "alive_count": 1,
-      "max_mbps": 6.94,
-      "avg_mbps": 2.46
-    },
-    "122.114.131.154:4103": {
+    "106.115.25.35:9901": {
       "alive_count": 2,
-      "max_mbps": 1.75,
-      "avg_mbps": 1.6
+      "max_mbps": 1.37,
+      "avg_mbps": 1.24
     },
     "39.105.190.112:8009": {
       "alive_count": 2,
-      "max_mbps": 4.71,
-      "avg_mbps": 2.93
+      "max_mbps": 3.18,
+      "avg_mbps": 2.4
+    },
+    "39.164.138.145:9003": {
+      "alive_count": 2,
+      "max_mbps": 2.24,
+      "avg_mbps": 1.55
+    },
+    "122.114.131.154:4103": {
+      "alive_count": 1,
+      "max_mbps": 3.14,
+      "avg_mbps": 2.89
     },
     "219.139.124.61:8089": {
       "alive_count": 2,
-      "max_mbps": 15.25,
-      "avg_mbps": 10.57
-    },
-    "101.66.194.161:9901": {
-      "alive_count": 2,
-      "max_mbps": 14.55,
-      "avg_mbps": 5.96
+      "max_mbps": 15.44,
+      "avg_mbps": 11.72
     },
     "27.129.145.110:4433": {
       "alive_count": 1,
-      "max_mbps": 3.73,
-      "avg_mbps": 3.41
+      "max_mbps": 3.82,
+      "avg_mbps": 3.5
     },
     "221.14.142.118:8000": {
       "alive_count": 2,
-      "max_mbps": 9.7,
-      "avg_mbps": 6.46
+      "max_mbps": 6.17,
+      "avg_mbps": 4.33
     },
     "120.198.84.146:9901": {
       "alive_count": 2,
-      "max_mbps": 4.72,
-      "avg_mbps": 2.92
+      "max_mbps": 13.53,
+      "avg_mbps": 6.82
     },
-    "101.66.199.17:9901": {
+    "110.72.79.37:8181": {
       "alive_count": 2,
-      "max_mbps": 3.55,
-      "avg_mbps": 2.09
-    },
-    "106.115.25.35:9901": {
-      "alive_count": 1,
-      "max_mbps": 0.19,
-      "avg_mbps": 0.18
+      "max_mbps": 18.45,
+      "avg_mbps": 13.28
     },
     "60.16.0.36:5757": {
       "alive_count": 2,
-      "max_mbps": 16.39,
-      "avg_mbps": 9.81
-    },
-    "101.66.198.122:9901": {
-      "alive_count": 2,
-      "max_mbps": 13.76,
-      "avg_mbps": 8.32
+      "max_mbps": 16.12,
+      "avg_mbps": 11.12
     },
     "221.14.142.118:9003": {
       "alive_count": 2,
-      "max_mbps": 14.54,
-      "avg_mbps": 9.09
-    },
-    "125.43.254.96:85": {
-      "alive_count": 2,
-      "max_mbps": 3.16,
-      "avg_mbps": 2.35
-    },
-    "61.163.179.201:808": {
-      "alive_count": 2,
-      "max_mbps": 19.43,
-      "avg_mbps": 13.54
-    },
-    "221.232.196.249:7777": {
-      "alive_count": 1,
-      "max_mbps": 12.55,
-      "avg_mbps": 7.75
-    },
-    "182.91.79.82:9901": {
-      "alive_count": 2,
-      "max_mbps": 12.1,
-      "avg_mbps": 6.94
-    },
-    "120.198.103.68:9901": {
-      "alive_count": 2,
-      "max_mbps": 4.97,
-      "avg_mbps": 3.42
+      "max_mbps": 10.77,
+      "avg_mbps": 6.34
     },
     "122.114.131.154:4060": {
       "alive_count": 2,
-      "max_mbps": 0.29,
-      "avg_mbps": 0.22
+      "max_mbps": 1.81,
+      "avg_mbps": 1.49
     },
-    "120.224.84.170:8085": {
+    "61.163.179.201:808": {
       "alive_count": 2,
-      "max_mbps": 17.49,
-      "avg_mbps": 12.53
+      "max_mbps": 15.84,
+      "avg_mbps": 12.16
+    },
+    "182.91.79.82:9901": {
+      "alive_count": 2,
+      "max_mbps": 11.74,
+      "avg_mbps": 9.09
+    },
+    "221.232.196.249:7777": {
+      "alive_count": 1,
+      "max_mbps": 11.3,
+      "avg_mbps": 8.75
+    },
+    "222.169.85.8:9901": {
+      "alive_count": 2,
+      "max_mbps": 4.73,
+      "avg_mbps": 3.41
+    },
+    "120.198.103.68:9901": {
+      "alive_count": 2,
+      "max_mbps": 13.23,
+      "avg_mbps": 9.93
     },
     "39.164.138.145:8899": {
       "alive_count": 2,
-      "max_mbps": 10.54,
-      "avg_mbps": 6.24
+      "max_mbps": 6.31,
+      "avg_mbps": 4.22
     },
-    "221.232.197.88:7777": {
-      "alive_count": 1,
-      "max_mbps": 8.96,
-      "avg_mbps": 3.52
+    "120.224.84.170:8085": {
+      "alive_count": 2,
+      "max_mbps": 16.62,
+      "avg_mbps": 12.87
     },
     "61.138.82.196:808": {
       "alive_count": 2,
-      "max_mbps": 15.75,
-      "avg_mbps": 11.63
+      "max_mbps": 15.64,
+      "avg_mbps": 11.05
     },
     "106.46.169.202:9000": {
       "alive_count": 2,
-      "max_mbps": 15.27,
-      "avg_mbps": 9.56
+      "max_mbps": 15.31,
+      "avg_mbps": 4.01
+    },
+    "122.114.131.154:4007": {
+      "alive_count": 1,
+      "max_mbps": 2.32,
+      "avg_mbps": 2.14
     },
     "221.13.233.125:9901": {
       "alive_count": 2,
-      "max_mbps": 3.66,
-      "avg_mbps": 2.38
+      "max_mbps": 3.55,
+      "avg_mbps": 2.51
     },
     "220.187.222.193:9901": {
       "alive_count": 2,
-      "max_mbps": 11.0,
-      "avg_mbps": 6.7
-    },
-    "119.36.6.89:1111": {
-      "alive_count": 2,
-      "max_mbps": 1.28,
-      "avg_mbps": 0.89
+      "max_mbps": 11.56,
+      "avg_mbps": 6.05
     },
     "122.114.131.154:4001": {
       "alive_count": 2,
-      "max_mbps": 0.37,
-      "avg_mbps": 0.3
+      "max_mbps": 1.73,
+      "avg_mbps": 1.56
     },
     "221.232.198.66:7777": {
-      "alive_count": 1,
-      "max_mbps": 10.64,
-      "avg_mbps": 6.78
-    },
-    "221.13.232.115:9901": {
       "alive_count": 2,
-      "max_mbps": 4.4,
-      "avg_mbps": 2.25
+      "max_mbps": 10.97,
+      "avg_mbps": 7.13
+    },
+    "221.232.197.87:7777": {
+      "alive_count": 1,
+      "max_mbps": 12.11,
+      "avg_mbps": 9.03
     },
     "125.43.246.238:85": {
       "alive_count": 2,
-      "max_mbps": 2.88,
-      "avg_mbps": 2.35
+      "max_mbps": 3.95,
+      "avg_mbps": 2.25
     },
-    "221.232.197.87:7777": {
+    "119.36.6.89:1111": {
       "alive_count": 2,
-      "max_mbps": 6.5,
-      "avg_mbps": 4.97
+      "max_mbps": 3.1,
+      "avg_mbps": 2.0
     },
     "183.237.71.182:40000": {
       "alive_count": 2,
-      "max_mbps": 0.58,
-      "avg_mbps": 0.44
+      "max_mbps": 0.76,
+      "avg_mbps": 0.56
     },
-    "120.238.84.45:9901": {
-      "alive_count": 2,
-      "max_mbps": 2.33,
-      "avg_mbps": 1.96
+    "110.72.54.151:8181": {
+      "alive_count": 1,
+      "max_mbps": 8.59,
+      "avg_mbps": 6.08
     },
     "125.43.252.213:85": {
       "alive_count": 2,
-      "max_mbps": 3.38,
-      "avg_mbps": 3.09
+      "max_mbps": 4.05,
+      "avg_mbps": 2.34
+    },
+    "122.114.131.154:4000": {
+      "alive_count": 2,
+      "max_mbps": 1.68,
+      "avg_mbps": 1.52
+    },
+    "120.238.84.45:9901": {
+      "alive_count": 2,
+      "max_mbps": 3.12,
+      "avg_mbps": 2.04
+    },
+    "182.150.31.44:808": {
+      "alive_count": 1,
+      "max_mbps": 4.19,
+      "avg_mbps": 3.85
     },
     "36.136.38.87:9901": {
       "alive_count": 2,
-      "max_mbps": 6.01,
-      "avg_mbps": 4.69
-    },
-    "221.232.196.158:7777": {
-      "alive_count": 1,
-      "max_mbps": 10.53,
-      "avg_mbps": 7.54
+      "max_mbps": 5.66,
+      "avg_mbps": 4.73
     },
     "106.44.226.206:88": {
       "alive_count": 2,
-      "max_mbps": 15.31,
-      "avg_mbps": 5.32
+      "max_mbps": 12.12,
+      "avg_mbps": 6.05
+    },
+    "221.232.196.158:7777": {
+      "alive_count": 1,
+      "max_mbps": 11.15,
+      "avg_mbps": 8.67
     },
     "220.187.220.9:9901": {
       "alive_count": 2,
-      "max_mbps": 10.34,
-      "avg_mbps": 5.45
+      "max_mbps": 11.98,
+      "avg_mbps": 6.1
+    },
+    "221.232.196.92:7777": {
+      "alive_count": 1,
+      "max_mbps": 0.22,
+      "avg_mbps": 0.21
     },
     "122.114.131.154:4018": {
       "alive_count": 2,
-      "max_mbps": 2.05,
-      "avg_mbps": 1.6
+      "max_mbps": 1.92,
+      "avg_mbps": 1.71
     },
     "59.45.161.118:8877": {
       "alive_count": 2,
-      "max_mbps": 14.42,
-      "avg_mbps": 9.17
-    },
-    "182.150.31.44:808": {
-      "alive_count": 2,
-      "max_mbps": 4.08,
-      "avg_mbps": 2.73
-    },
-    "139.214.181.206:9901": {
-      "alive_count": 1,
-      "max_mbps": 1.93,
-      "avg_mbps": 1.78
+      "max_mbps": 15.63,
+      "avg_mbps": 7.19
     },
     "116.228.170.214:888": {
       "alive_count": 2,
-      "max_mbps": 0.65,
-      "avg_mbps": 0.39
-    },
-    "61.143.43.2:9901": {
-      "alive_count": 2,
-      "max_mbps": 5.1,
-      "avg_mbps": 3.31
-    },
-    "101.66.195.79:9901": {
-      "alive_count": 2,
-      "max_mbps": 8.36,
-      "avg_mbps": 3.29
-    },
-    "101.66.198.160:9901": {
-      "alive_count": 2,
-      "max_mbps": 11.94,
-      "avg_mbps": 3.72
+      "max_mbps": 0.35,
+      "avg_mbps": 0.29
     },
     "hmfs.f3322.net:3388": {
       "alive_count": 1,
-      "max_mbps": 3.99,
-      "avg_mbps": 3.01
+      "max_mbps": 8.22,
+      "avg_mbps": 7.34
     },
-    "139.214.181.185:9901": {
+    "61.143.43.2:9901": {
+      "alive_count": 2,
+      "max_mbps": 1.57,
+      "avg_mbps": 1.11
+    },
+    "221.232.196.130:7777": {
       "alive_count": 1,
-      "max_mbps": 2.15,
-      "avg_mbps": 1.86
+      "max_mbps": 10.99,
+      "avg_mbps": 5.47
     },
     "220.187.218.24:9901": {
       "alive_count": 2,
-      "max_mbps": 11.63,
-      "avg_mbps": 6.14
-    },
-    "221.13.234.122:9901": {
-      "alive_count": 2,
-      "max_mbps": 0.57,
-      "avg_mbps": 0.5
-    },
-    "101.66.198.229:9901": {
-      "alive_count": 2,
-      "max_mbps": 4.95,
-      "avg_mbps": 2.48
+      "max_mbps": 11.85,
+      "avg_mbps": 6.57
     },
     "120.198.86.186:9901": {
       "alive_count": 2,
-      "max_mbps": 1.38,
-      "avg_mbps": 0.82
+      "max_mbps": 2.47,
+      "avg_mbps": 2.01
     },
     "220.187.218.85:9901": {
       "alive_count": 2,
-      "max_mbps": 9.96,
-      "avg_mbps": 4.89
+      "max_mbps": 13.05,
+      "avg_mbps": 7.21
     },
-    "221.232.198.74:7777": {
+    "120.238.88.141:9901": {
       "alive_count": 1,
-      "max_mbps": 11.72,
-      "avg_mbps": 6.5
-    },
-    "222.85.198.92:8000": {
-      "alive_count": 2,
-      "max_mbps": 8.79,
-      "avg_mbps": 4.19
+      "max_mbps": 10.51,
+      "avg_mbps": 3.25
     },
     "183.129.255.66:8480": {
       "alive_count": 2,
-      "max_mbps": 16.24,
-      "avg_mbps": 8.82
+      "max_mbps": 17.13,
+      "avg_mbps": 13.46
+    },
+    "222.85.198.92:8000": {
+      "alive_count": 2,
+      "max_mbps": 14.23,
+      "avg_mbps": 11.32
     },
     "125.43.251.245:85": {
       "alive_count": 2,
-      "max_mbps": 3.62,
-      "avg_mbps": 2.29
+      "max_mbps": 2.56,
+      "avg_mbps": 2.26
     },
     "60.187.244.107:9901": {
-      "alive_count": 2,
-      "max_mbps": 2.91,
-      "avg_mbps": 2.41
-    },
-    "112.27.5.218:9901": {
-      "alive_count": 2,
-      "max_mbps": 13.65,
-      "avg_mbps": 7.42
-    },
-    "116.77.33.98:44330": {
-      "alive_count": 2,
-      "max_mbps": 2.9,
-      "avg_mbps": 1.36
-    },
-    "61.182.89.14:808": {
-      "alive_count": 2,
-      "max_mbps": 16.87,
-      "avg_mbps": 11.84
-    },
-    "111.14.186.11:5009": {
-      "alive_count": 2,
-      "max_mbps": 17.17,
-      "avg_mbps": 13.63
+      "alive_count": 1,
+      "max_mbps": 8.02,
+      "avg_mbps": 5.52
     },
     "106.115.27.24:9901": {
       "alive_count": 2,
-      "max_mbps": 0.25,
-      "avg_mbps": 0.15
+      "max_mbps": 0.83,
+      "avg_mbps": 0.69
     },
-    "101.66.195.65:9901": {
+    "112.27.5.218:9901": {
       "alive_count": 2,
-      "max_mbps": 2.25,
-      "avg_mbps": 1.26
+      "max_mbps": 11.31,
+      "avg_mbps": 7.97
     },
-    "120.209.208.163:5080": {
+    "116.77.33.98:44330": {
       "alive_count": 2,
-      "max_mbps": 9.49,
-      "avg_mbps": 6.66
+      "max_mbps": 1.26,
+      "avg_mbps": 0.98
     },
     "60.174.86.121:5080": {
       "alive_count": 2,
-      "max_mbps": 8.7,
-      "avg_mbps": 4.56
+      "max_mbps": 8.6,
+      "avg_mbps": 5.95
+    },
+    "61.182.89.14:808": {
+      "alive_count": 2,
+      "max_mbps": 17.34,
+      "avg_mbps": 13.23
+    },
+    "111.14.186.11:5009": {
+      "alive_count": 2,
+      "max_mbps": 16.22,
+      "avg_mbps": 11.91
+    },
+    "120.209.208.163:5080": {
+      "alive_count": 2,
+      "max_mbps": 9.89,
+      "avg_mbps": 2.06
     },
     "183.236.10.36:8083": {
-      "alive_count": 1,
-      "max_mbps": 3.78,
-      "avg_mbps": 3.1
+      "alive_count": 2,
+      "max_mbps": 3.06,
+      "avg_mbps": 1.98
     },
     "183.129.211.142:808": {
       "alive_count": 2,
-      "max_mbps": 15.4,
-      "avg_mbps": 8.72
+      "max_mbps": 18.2,
+      "avg_mbps": 9.28
     },
     "120.238.94.82:9901": {
       "alive_count": 2,
-      "max_mbps": 0.58,
-      "avg_mbps": 0.52
+      "max_mbps": 10.41,
+      "avg_mbps": 4.75
     },
     "1.24.39.180:808": {
       "alive_count": 2,
-      "max_mbps": 9.93,
-      "avg_mbps": 5.57
+      "max_mbps": 4.26,
+      "avg_mbps": 3.7
     },
     "125.43.241.114:85": {
       "alive_count": 2,
-      "max_mbps": 3.2,
-      "avg_mbps": 2.31
+      "max_mbps": 4.4,
+      "avg_mbps": 2.13
     },
     "1.196.157.17:999": {
       "alive_count": 2,
-      "max_mbps": 6.13,
-      "avg_mbps": 4.98
+      "max_mbps": 16.83,
+      "avg_mbps": 12.57
     },
     "106.115.24.157:9901": {
       "alive_count": 2,
-      "max_mbps": 0.64,
-      "avg_mbps": 0.42
+      "max_mbps": 0.98,
+      "avg_mbps": 0.69
     },
-    "171.8.228.59:9901": {
+    "14.155.136.184:8088": {
       "alive_count": 2,
-      "max_mbps": 1.13,
-      "avg_mbps": 0.8
+      "max_mbps": 0.15,
+      "avg_mbps": 0.08
     },
-    "14.106.98.73:888": {
+    "14.106.98.56:888": {
       "alive_count": 2,
-      "max_mbps": 8.38,
-      "avg_mbps": 6.08
+      "max_mbps": 9.46,
+      "avg_mbps": 7.68
     },
-    "123.149.40.191:9901": {
+    "221.13.232.137:1999": {
       "alive_count": 2,
-      "max_mbps": 5.0,
-      "avg_mbps": 2.39
+      "max_mbps": 17.47,
+      "avg_mbps": 13.77
     },
     "1.192.153.25:9901": {
       "alive_count": 2,
-      "max_mbps": 13.29,
-      "avg_mbps": 7.84
+      "max_mbps": 13.19,
+      "avg_mbps": 8.69
     },
     "144.0.23.184:8085": {
       "alive_count": 2,
-      "max_mbps": 17.7,
-      "avg_mbps": 12.58
+      "max_mbps": 17.66,
+      "avg_mbps": 13.16
     },
     "144.0.23.216:8085": {
       "alive_count": 2,
-      "max_mbps": 14.69,
-      "avg_mbps": 9.75
+      "max_mbps": 15.35,
+      "avg_mbps": 7.96
     },
-    "123.14.83.85:8888": {
+    "221.13.234.166:9901": {
+      "alive_count": 2,
+      "max_mbps": 2.89,
+      "avg_mbps": 2.29
+    },
+    "171.8.228.59:9901": {
       "alive_count": 1,
-      "max_mbps": 4.85,
-      "avg_mbps": 4.48
+      "max_mbps": 0.71,
+      "avg_mbps": 0.66
     },
     "218.19.109.37:808": {
-      "alive_count": 1,
-      "max_mbps": 17.24,
-      "avg_mbps": 13.14
+      "alive_count": 2,
+      "max_mbps": 17.59,
+      "avg_mbps": 11.13
+    },
+    "221.13.235.193:9901": {
+      "alive_count": 2,
+      "max_mbps": 3.46,
+      "avg_mbps": 2.79
     },
     "222.85.50.130:6070": {
       "alive_count": 2,
-      "max_mbps": 16.99,
-      "avg_mbps": 10.06
+      "max_mbps": 15.31,
+      "avg_mbps": 12.42
+    },
+    "123.149.40.191:9901": {
+      "alive_count": 1,
+      "max_mbps": 6.83,
+      "avg_mbps": 6.07
+    },
+    "110.72.67.220:8181": {
+      "alive_count": 2,
+      "max_mbps": 15.79,
+      "avg_mbps": 9.8
     },
     "113.88.210.180:9898": {
       "alive_count": 2,
-      "max_mbps": 8.45,
-      "avg_mbps": 5.67
-    },
-    "119.39.198.233:808": {
-      "alive_count": 2,
-      "max_mbps": 17.75,
-      "avg_mbps": 9.74
+      "max_mbps": 18.13,
+      "avg_mbps": 13.29
     },
     "119.39.198.234:808": {
       "alive_count": 2,
-      "max_mbps": 9.28,
-      "avg_mbps": 4.49
+      "max_mbps": 8.2,
+      "avg_mbps": 4.31
+    },
+    "119.39.198.233:808": {
+      "alive_count": 2,
+      "max_mbps": 8.73,
+      "avg_mbps": 4.21
     },
     "58.255.200.130:808": {
       "alive_count": 2,
-      "max_mbps": 15.9,
-      "avg_mbps": 11.07
+      "max_mbps": 13.35,
+      "avg_mbps": 8.32
     },
     "42.237.159.32:8888": {
-      "alive_count": 2,
-      "max_mbps": 4.22,
-      "avg_mbps": 2.27
+      "alive_count": 1,
+      "max_mbps": 4.92,
+      "avg_mbps": 4.54
     },
     "61.52.71.47:9003": {
       "alive_count": 2,
-      "max_mbps": 19.0,
-      "avg_mbps": 13.89
+      "max_mbps": 18.11,
+      "avg_mbps": 12.88
     },
     "218.19.108.11:808": {
-      "alive_count": 2,
-      "max_mbps": 18.15,
-      "avg_mbps": 11.51
+      "alive_count": 1,
+      "max_mbps": 17.81,
+      "avg_mbps": 14.2
     },
     "125.46.179.96:60000": {
       "alive_count": 2,
-      "max_mbps": 18.54,
-      "avg_mbps": 14.11
+      "max_mbps": 17.73,
+      "avg_mbps": 13.93
     },
     "14.155.147.173:8088": {
-      "alive_count": 1,
-      "max_mbps": 0.09,
-      "avg_mbps": 0.08
+      "alive_count": 2,
+      "max_mbps": 0.17,
+      "avg_mbps": 0.14
     },
     "125.44.167.146:8888": {
-      "alive_count": 2,
-      "max_mbps": 18.91,
-      "avg_mbps": 14.27
+      "alive_count": 1,
+      "max_mbps": 18.55,
+      "avg_mbps": 14.22
     },
     "182.117.196.197:8888": {
       "alive_count": 2,
-      "max_mbps": 19.2,
-      "avg_mbps": 14.27
+      "max_mbps": 17.68,
+      "avg_mbps": 13.68
+    },
+    "125.43.250.195:85": {
+      "alive_count": 2,
+      "max_mbps": 2.66,
+      "avg_mbps": 2.34
     }
   },
   "details": [
     {
-      "name": "甘肃卫视",
-      "ip_port": "39.164.138.145:9003",
-      "avg_mbps": 5.35,
-      "max_mbps": 7.1,
-      "stability": 0.34
-    },
-    {
-      "name": "东南卫视",
-      "ip_port": "39.164.138.145:9003",
-      "avg_mbps": 5.69,
-      "max_mbps": 7.16,
-      "stability": 0.69
-    },
-    {
-      "name": "北京卫视",
+      "name": "CCTVNEWS",
       "ip_port": "113.200.114.168:20000",
-      "avg_mbps": 6.3,
-      "max_mbps": 9.18,
-      "stability": 0.47
+      "avg_mbps": 6.26,
+      "max_mbps": 9.22,
+      "stability": 0.42
     },
     {
-      "name": "CCTV12社会与法",
+      "name": "CCTV12",
       "ip_port": "113.200.114.168:20000",
-      "avg_mbps": 6.96,
-      "max_mbps": 9.33,
-      "stability": 0
+      "avg_mbps": 6.0,
+      "max_mbps": 8.85,
+      "stability": 0.24
     },
     {
-      "name": "黑龙江卫视",
+      "name": "中国教育",
       "ip_port": "111.14.222.117:3333",
-      "avg_mbps": 13.99,
-      "max_mbps": 17.89,
-      "stability": 0.58
+      "avg_mbps": 13.23,
+      "max_mbps": 16.79,
+      "stability": 0.42
     },
     {
-      "name": "东南卫视",
+      "name": "广西卫视",
       "ip_port": "111.14.222.117:3333",
-      "avg_mbps": 13.11,
-      "max_mbps": 19.22,
-      "stability": 0.03
-    },
-    {
-      "name": "CETV4",
-      "ip_port": "139.214.181.69:9901",
-      "avg_mbps": 2.46,
-      "max_mbps": 6.94,
+      "avg_mbps": 6.04,
+      "max_mbps": 8.68,
       "stability": 0
     },
     {
-      "name": "云南卫视",
-      "ip_port": "122.114.131.154:4103",
-      "avg_mbps": 1.58,
-      "max_mbps": 1.71,
-      "stability": 1
-    },
-    {
-      "name": "安徽卫视",
-      "ip_port": "122.114.131.154:4103",
-      "avg_mbps": 1.62,
-      "max_mbps": 1.75,
-      "stability": 1
-    },
-    {
-      "name": "陕西卫视",
-      "ip_port": "39.105.190.112:8009",
-      "avg_mbps": 2.85,
-      "max_mbps": 3.15,
-      "stability": 0.97
-    },
-    {
-      "name": "天津卫视",
-      "ip_port": "39.105.190.112:8009",
-      "avg_mbps": 3.01,
-      "max_mbps": 4.71,
-      "stability": 0.26
-    },
-    {
-      "name": "安徽卫视",
-      "ip_port": "219.139.124.61:8089",
-      "avg_mbps": 9.47,
-      "max_mbps": 13.35,
-      "stability": 0
-    },
-    {
-      "name": "CCTV5体育",
-      "ip_port": "219.139.124.61:8089",
-      "avg_mbps": 11.68,
-      "max_mbps": 15.25,
-      "stability": 0.68
-    },
-    {
-      "name": "CCTV7",
-      "ip_port": "101.66.194.161:9901",
-      "avg_mbps": 2.22,
-      "max_mbps": 2.42,
-      "stability": 1
-    },
-    {
-      "name": "江苏卫视",
-      "ip_port": "101.66.194.161:9901",
-      "avg_mbps": 9.7,
-      "max_mbps": 14.55,
-      "stability": 0
-    },
-    {
-      "name": "东方卫视",
-      "ip_port": "27.129.145.110:4433",
-      "avg_mbps": 3.41,
-      "max_mbps": 3.73,
-      "stability": 1
-    },
-    {
-      "name": "CCTV12社会与法",
-      "ip_port": "221.14.142.118:8000",
-      "avg_mbps": 8.85,
-      "max_mbps": 9.7,
-      "stability": 0.98
-    },
-    {
-      "name": "电视剧频道",
-      "ip_port": "221.14.142.118:8000",
-      "avg_mbps": 4.07,
-      "max_mbps": 4.41,
-      "stability": 1
-    },
-    {
-      "name": "重庆卫视",
-      "ip_port": "120.198.84.146:9901",
-      "avg_mbps": 1.79,
-      "max_mbps": 1.95,
-      "stability": 1
-    },
-    {
-      "name": "五华台",
-      "ip_port": "120.198.84.146:9901",
-      "avg_mbps": 4.04,
-      "max_mbps": 4.72,
-      "stability": 1
-    },
-    {
-      "name": "浙江卫视",
-      "ip_port": "101.66.199.17:9901",
-      "avg_mbps": 3.24,
-      "max_mbps": 3.55,
-      "stability": 1
-    },
-    {
-      "name": "山东卫视",
-      "ip_port": "101.66.199.17:9901",
-      "avg_mbps": 0.94,
-      "max_mbps": 1.04,
-      "stability": 1
-    },
-    {
-      "name": "金鹰卡通",
+      "name": "CCTV5",
       "ip_port": "106.115.25.35:9901",
-      "avg_mbps": 0.18,
-      "max_mbps": 0.19,
-      "stability": 1
-    },
-    {
-      "name": "环球奇观",
-      "ip_port": "60.16.0.36:5757",
-      "avg_mbps": 7.03,
-      "max_mbps": 9.73,
-      "stability": 0.0
-    },
-    {
-      "name": "中国教育1",
-      "ip_port": "60.16.0.36:5757",
-      "avg_mbps": 12.59,
-      "max_mbps": 16.39,
-      "stability": 0
-    },
-    {
-      "name": "河南卫视",
-      "ip_port": "101.66.198.122:9901",
-      "avg_mbps": 10.83,
-      "max_mbps": 13.76,
-      "stability": 0.32
-    },
-    {
-      "name": "CCTV12",
-      "ip_port": "101.66.198.122:9901",
-      "avg_mbps": 5.82,
-      "max_mbps": 12.54,
-      "stability": 0
-    },
-    {
-      "name": "CCTV4中文国际",
-      "ip_port": "221.14.142.118:9003",
-      "avg_mbps": 8.94,
-      "max_mbps": 14.44,
-      "stability": 0
-    },
-    {
-      "name": "CCTV1",
-      "ip_port": "221.14.142.118:9003",
-      "avg_mbps": 9.23,
-      "max_mbps": 14.54,
-      "stability": 0
-    },
-    {
-      "name": "河北卫视",
-      "ip_port": "125.43.254.96:85",
-      "avg_mbps": 1.79,
-      "max_mbps": 1.94,
-      "stability": 1
-    },
-    {
-      "name": "CCTV14",
-      "ip_port": "125.43.254.96:85",
-      "avg_mbps": 2.92,
-      "max_mbps": 3.16,
-      "stability": 1
-    },
-    {
-      "name": "CCTV1",
-      "ip_port": "61.163.179.201:808",
-      "avg_mbps": 14.64,
-      "max_mbps": 19.43,
-      "stability": 0.48
-    },
-    {
-      "name": "都市频道",
-      "ip_port": "61.163.179.201:808",
-      "avg_mbps": 12.43,
-      "max_mbps": 16.48,
-      "stability": 0.65
-    },
-    {
-      "name": "CCTV17",
-      "ip_port": "221.232.196.249:7777",
-      "avg_mbps": 7.75,
-      "max_mbps": 12.55,
-      "stability": 0.18
-    },
-    {
-      "name": "CCTV12",
-      "ip_port": "182.91.79.82:9901",
-      "avg_mbps": 9.3,
-      "max_mbps": 12.1,
-      "stability": 0.46
-    },
-    {
-      "name": "山西卫视",
-      "ip_port": "182.91.79.82:9901",
-      "avg_mbps": 4.58,
-      "max_mbps": 6.71,
-      "stability": 0
-    },
-    {
-      "name": "CCTN",
-      "ip_port": "120.198.103.68:9901",
-      "avg_mbps": 2.68,
-      "max_mbps": 4.97,
-      "stability": 0
-    },
-    {
-      "name": "梅州1",
-      "ip_port": "120.198.103.68:9901",
-      "avg_mbps": 4.15,
-      "max_mbps": 4.91,
-      "stability": 0.05
-    },
-    {
-      "name": "CCTV5+",
-      "ip_port": "122.114.131.154:4060",
-      "avg_mbps": 0.27,
-      "max_mbps": 0.29,
-      "stability": 1
-    },
-    {
-      "name": "法制",
-      "ip_port": "122.114.131.154:4060",
-      "avg_mbps": 0.16,
-      "max_mbps": 0.22,
-      "stability": 1
-    },
-    {
-      "name": "CCTV7",
-      "ip_port": "120.224.84.170:8085",
-      "avg_mbps": 11.88,
-      "max_mbps": 17.49,
-      "stability": 0.32
-    },
-    {
-      "name": "山东少儿",
-      "ip_port": "120.224.84.170:8085",
-      "avg_mbps": 13.18,
-      "max_mbps": 15.62,
-      "stability": 0.9
-    },
-    {
-      "name": "东方卫视",
-      "ip_port": "39.164.138.145:8899",
-      "avg_mbps": 6.1,
-      "max_mbps": 10.54,
-      "stability": 0
-    },
-    {
-      "name": "吉林卫视",
-      "ip_port": "39.164.138.145:8899",
-      "avg_mbps": 6.38,
-      "max_mbps": 9.25,
-      "stability": 0.6
-    },
-    {
-      "name": "CCTV8",
-      "ip_port": "221.232.197.88:7777",
-      "avg_mbps": 3.52,
-      "max_mbps": 8.96,
-      "stability": 1
-    },
-    {
-      "name": "辽宁卫视",
-      "ip_port": "61.138.82.196:808",
-      "avg_mbps": 11.92,
-      "max_mbps": 15.75,
-      "stability": 0
-    },
-    {
-      "name": "河北卫视",
-      "ip_port": "61.138.82.196:808",
-      "avg_mbps": 11.34,
-      "max_mbps": 14.85,
-      "stability": 0.3
-    },
-    {
-      "name": "云南卫视",
-      "ip_port": "106.46.169.202:9000",
-      "avg_mbps": 9.58,
-      "max_mbps": 15.27,
-      "stability": 0.31
-    },
-    {
-      "name": "CCTV4中文国际",
-      "ip_port": "106.46.169.202:9000",
-      "avg_mbps": 9.54,
-      "max_mbps": 14.37,
-      "stability": 0
-    },
-    {
-      "name": "CCTV12",
-      "ip_port": "221.13.233.125:9901",
-      "avg_mbps": 3.38,
-      "max_mbps": 3.66,
-      "stability": 1
-    },
-    {
-      "name": "电视剧频道",
-      "ip_port": "221.13.233.125:9901",
-      "avg_mbps": 1.39,
-      "max_mbps": 1.5,
-      "stability": 1
-    },
-    {
-      "name": "深圳卫视",
-      "ip_port": "220.187.222.193:9901",
-      "avg_mbps": 4.71,
-      "max_mbps": 8.07,
-      "stability": 0
-    },
-    {
-      "name": "CCTV6",
-      "ip_port": "220.187.222.193:9901",
-      "avg_mbps": 8.69,
-      "max_mbps": 11.0,
-      "stability": 0.29
-    },
-    {
-      "name": "第一剧场",
-      "ip_port": "119.36.6.89:1111",
-      "avg_mbps": 0.63,
-      "max_mbps": 0.69,
-      "stability": 1
-    },
-    {
-      "name": "辽宁卫视",
-      "ip_port": "119.36.6.89:1111",
-      "avg_mbps": 1.14,
-      "max_mbps": 1.28,
-      "stability": 1
-    },
-    {
-      "name": "CCTV5",
-      "ip_port": "122.114.131.154:4001",
-      "avg_mbps": 0.35,
-      "max_mbps": 0.37,
-      "stability": 1
-    },
-    {
-      "name": "CCTV5体育",
-      "ip_port": "122.114.131.154:4001",
-      "avg_mbps": 0.25,
-      "max_mbps": 0.27,
-      "stability": 1
-    },
-    {
-      "name": "河南卫视",
-      "ip_port": "221.232.198.66:7777",
-      "avg_mbps": 6.78,
-      "max_mbps": 10.64,
-      "stability": 0.19
-    },
-    {
-      "name": "CCTV11",
-      "ip_port": "221.13.232.115:9901",
-      "avg_mbps": 3.86,
-      "max_mbps": 4.4,
-      "stability": 0.19
-    },
-    {
-      "name": "卡酷动画",
-      "ip_port": "221.13.232.115:9901",
-      "avg_mbps": 0.64,
-      "max_mbps": 1.0,
-      "stability": 1
-    },
-    {
-      "name": "云南卫视",
-      "ip_port": "125.43.246.238:85",
-      "avg_mbps": 2.04,
-      "max_mbps": 2.2,
-      "stability": 1
-    },
-    {
-      "name": "CCTV11",
-      "ip_port": "125.43.246.238:85",
-      "avg_mbps": 2.66,
-      "max_mbps": 2.88,
-      "stability": 1
-    },
-    {
-      "name": "CCTV6",
-      "ip_port": "221.232.197.87:7777",
-      "avg_mbps": 4.01,
-      "max_mbps": 4.9,
-      "stability": 0.2
-    },
-    {
-      "name": "CCTV11",
-      "ip_port": "221.232.197.87:7777",
-      "avg_mbps": 5.94,
-      "max_mbps": 6.5,
-      "stability": 0.96
-    },
-    {
-      "name": "甘肃卫视",
-      "ip_port": "183.237.71.182:40000",
-      "avg_mbps": 0.33,
-      "max_mbps": 0.36,
-      "stability": 1
-    },
-    {
-      "name": "贵州卫视",
-      "ip_port": "183.237.71.182:40000",
-      "avg_mbps": 0.54,
-      "max_mbps": 0.58,
-      "stability": 1
-    },
-    {
-      "name": "五华1",
-      "ip_port": "120.238.84.45:9901",
-      "avg_mbps": 2.13,
-      "max_mbps": 2.33,
-      "stability": 1
-    },
-    {
-      "name": "旅游卫视",
-      "ip_port": "120.238.84.45:9901",
-      "avg_mbps": 1.78,
-      "max_mbps": 2.18,
-      "stability": 0.67
-    },
-    {
-      "name": "CCTV6",
-      "ip_port": "125.43.252.213:85",
-      "avg_mbps": 3.05,
-      "max_mbps": 3.3,
-      "stability": 1
-    },
-    {
-      "name": "东南卫视",
-      "ip_port": "125.43.252.213:85",
-      "avg_mbps": 3.13,
-      "max_mbps": 3.38,
-      "stability": 1
-    },
-    {
-      "name": "CCTV2",
-      "ip_port": "36.136.38.87:9901",
-      "avg_mbps": 4.29,
-      "max_mbps": 5.79,
-      "stability": 0
-    },
-    {
-      "name": "山西卫视",
-      "ip_port": "36.136.38.87:9901",
-      "avg_mbps": 5.09,
-      "max_mbps": 6.01,
-      "stability": 0.97
-    },
-    {
-      "name": "CCTV14",
-      "ip_port": "221.232.196.158:7777",
-      "avg_mbps": 7.54,
-      "max_mbps": 10.53,
-      "stability": 0.93
-    },
-    {
-      "name": "江苏卫视",
-      "ip_port": "106.44.226.206:88",
-      "avg_mbps": 4.56,
-      "max_mbps": 6.19,
-      "stability": 0.53
-    },
-    {
-      "name": "广东卫视",
-      "ip_port": "106.44.226.206:88",
-      "avg_mbps": 6.08,
-      "max_mbps": 15.31,
-      "stability": 0
-    },
-    {
-      "name": "CCTV8",
-      "ip_port": "220.187.220.9:9901",
-      "avg_mbps": 6.17,
-      "max_mbps": 10.34,
-      "stability": 0.3
-    },
-    {
-      "name": "贵州卫视",
-      "ip_port": "220.187.220.9:9901",
-      "avg_mbps": 4.73,
-      "max_mbps": 7.25,
-      "stability": 0.37
-    },
-    {
-      "name": "CCTV13",
-      "ip_port": "122.114.131.154:4018",
-      "avg_mbps": 1.9,
-      "max_mbps": 2.05,
-      "stability": 1
-    },
-    {
-      "name": "CCTV2",
-      "ip_port": "122.114.131.154:4018",
-      "avg_mbps": 1.31,
-      "max_mbps": 1.41,
-      "stability": 1
-    },
-    {
-      "name": "CCTV17",
-      "ip_port": "59.45.161.118:8877",
-      "avg_mbps": 7.96,
-      "max_mbps": 12.05,
-      "stability": 0
-    },
-    {
-      "name": "贵州卫视",
-      "ip_port": "59.45.161.118:8877",
-      "avg_mbps": 10.38,
-      "max_mbps": 14.42,
-      "stability": 0.17
-    },
-    {
-      "name": "CCTV6电影",
-      "ip_port": "182.150.31.44:808",
-      "avg_mbps": 3.75,
-      "max_mbps": 4.08,
-      "stability": 1
-    },
-    {
-      "name": "江苏卫视",
-      "ip_port": "182.150.31.44:808",
-      "avg_mbps": 1.7,
-      "max_mbps": 1.91,
-      "stability": 1
-    },
-    {
-      "name": "广东卫视",
-      "ip_port": "139.214.181.206:9901",
-      "avg_mbps": 1.78,
-      "max_mbps": 1.93,
-      "stability": 1
-    },
-    {
-      "name": "北京卫视",
-      "ip_port": "116.228.170.214:888",
-      "avg_mbps": 0.6,
-      "max_mbps": 0.65,
-      "stability": 1
-    },
-    {
-      "name": "CCTV15",
-      "ip_port": "116.228.170.214:888",
-      "avg_mbps": 0.17,
-      "max_mbps": 0.2,
-      "stability": 1
-    },
-    {
-      "name": "CCTV12",
-      "ip_port": "61.143.43.2:9901",
-      "avg_mbps": 3.5,
-      "max_mbps": 5.1,
-      "stability": 0.64
-    },
-    {
-      "name": "吉林卫视",
-      "ip_port": "61.143.43.2:9901",
-      "avg_mbps": 3.12,
-      "max_mbps": 4.09,
-      "stability": 1
-    },
-    {
-      "name": "山西卫视",
-      "ip_port": "101.66.195.79:9901",
-      "avg_mbps": 4.05,
-      "max_mbps": 8.36,
-      "stability": 0
-    },
-    {
-      "name": "河北卫视",
-      "ip_port": "101.66.195.79:9901",
-      "avg_mbps": 2.53,
-      "max_mbps": 2.96,
-      "stability": 1
-    },
-    {
-      "name": "江苏卫视",
-      "ip_port": "101.66.198.160:9901",
-      "avg_mbps": 5.55,
-      "max_mbps": 11.94,
-      "stability": 0
-    },
-    {
-      "name": "CCTV10",
-      "ip_port": "101.66.198.160:9901",
-      "avg_mbps": 1.9,
-      "max_mbps": 2.06,
-      "stability": 1
-    },
-    {
-      "name": "CCTV13新闻",
-      "ip_port": "hmfs.f3322.net:3388",
-      "avg_mbps": 3.01,
-      "max_mbps": 3.99,
-      "stability": 1
-    },
-    {
-      "name": "松原公共",
-      "ip_port": "139.214.181.185:9901",
-      "avg_mbps": 1.86,
-      "max_mbps": 2.15,
-      "stability": 0.84
-    },
-    {
-      "name": "安徽卫视",
-      "ip_port": "220.187.218.24:9901",
-      "avg_mbps": 7.24,
-      "max_mbps": 11.63,
-      "stability": 0
-    },
-    {
-      "name": "CCTV7",
-      "ip_port": "220.187.218.24:9901",
-      "avg_mbps": 5.04,
-      "max_mbps": 8.45,
-      "stability": 0
-    },
-    {
-      "name": "都市频道",
-      "ip_port": "221.13.234.122:9901",
-      "avg_mbps": 0.47,
-      "max_mbps": 0.51,
-      "stability": 1
-    },
-    {
-      "name": "卡酷动画",
-      "ip_port": "221.13.234.122:9901",
-      "avg_mbps": 0.53,
-      "max_mbps": 0.57,
-      "stability": 1
-    },
-    {
-      "name": "湖北卫视",
-      "ip_port": "101.66.198.229:9901",
-      "avg_mbps": 4.22,
-      "max_mbps": 4.95,
-      "stability": 0.34
-    },
-    {
-      "name": "东南卫视",
-      "ip_port": "101.66.198.229:9901",
-      "avg_mbps": 0.74,
-      "max_mbps": 0.8,
-      "stability": 1
-    },
-    {
-      "name": "三少卫视",
-      "ip_port": "120.198.86.186:9901",
-      "avg_mbps": 0.46,
-      "max_mbps": 0.5,
-      "stability": 1
-    },
-    {
-      "name": "明珠台",
-      "ip_port": "120.198.86.186:9901",
-      "avg_mbps": 1.19,
-      "max_mbps": 1.38,
-      "stability": 1
-    },
-    {
-      "name": "吉林卫视",
-      "ip_port": "220.187.218.85:9901",
-      "avg_mbps": 2.9,
-      "max_mbps": 4.36,
-      "stability": 0.78
-    },
-    {
-      "name": "浙江卫视",
-      "ip_port": "220.187.218.85:9901",
-      "avg_mbps": 6.88,
-      "max_mbps": 9.96,
-      "stability": 0.35
-    },
-    {
-      "name": "CCTV4",
-      "ip_port": "221.232.198.74:7777",
-      "avg_mbps": 6.5,
-      "max_mbps": 11.72,
-      "stability": 0.07
-    },
-    {
-      "name": "CCTV12",
-      "ip_port": "222.85.198.92:8000",
-      "avg_mbps": 4.66,
-      "max_mbps": 8.79,
-      "stability": 0
-    },
-    {
-      "name": "CCTV5",
-      "ip_port": "222.85.198.92:8000",
-      "avg_mbps": 3.71,
-      "max_mbps": 4.63,
-      "stability": 0
-    },
-    {
-      "name": "CCTV10科教",
-      "ip_port": "183.129.255.66:8480",
-      "avg_mbps": 5.95,
-      "max_mbps": 11.22,
-      "stability": 0
-    },
-    {
-      "name": "河北卫视",
-      "ip_port": "183.129.255.66:8480",
-      "avg_mbps": 11.7,
-      "max_mbps": 16.24,
-      "stability": 0.65
-    },
-    {
-      "name": "金鹰卡通",
-      "ip_port": "125.43.251.245:85",
-      "avg_mbps": 3.36,
-      "max_mbps": 3.62,
-      "stability": 1
-    },
-    {
-      "name": "CCTV3",
-      "ip_port": "125.43.251.245:85",
       "avg_mbps": 1.21,
       "max_mbps": 1.31,
       "stability": 1
     },
     {
-      "name": "CCTV6",
-      "ip_port": "60.187.244.107:9901",
-      "avg_mbps": 2.68,
-      "max_mbps": 2.91,
+      "name": "江苏卫视",
+      "ip_port": "106.115.25.35:9901",
+      "avg_mbps": 1.27,
+      "max_mbps": 1.37,
       "stability": 1
     },
     {
-      "name": "重庆卫视",
-      "ip_port": "60.187.244.107:9901",
-      "avg_mbps": 2.13,
-      "max_mbps": 2.3,
-      "stability": 1
+      "name": "辽宁卫视",
+      "ip_port": "39.105.190.112:8009",
+      "avg_mbps": 2.52,
+      "max_mbps": 2.76,
+      "stability": 0.98
     },
     {
-      "name": "北京卫视",
-      "ip_port": "112.27.5.218:9901",
-      "avg_mbps": 9.37,
-      "max_mbps": 13.65,
-      "stability": 0.01
+      "name": "CCTV5",
+      "ip_port": "39.105.190.112:8009",
+      "avg_mbps": 2.28,
+      "max_mbps": 3.18,
+      "stability": 0.47
     },
     {
-      "name": "河南卫视",
-      "ip_port": "112.27.5.218:9901",
-      "avg_mbps": 5.48,
-      "max_mbps": 12.39,
-      "stability": 0
-    },
-    {
-      "name": "河南卫视",
-      "ip_port": "116.77.33.98:44330",
-      "avg_mbps": 2.02,
-      "max_mbps": 2.9,
-      "stability": 0
-    },
-    {
-      "name": "CCTV9",
-      "ip_port": "116.77.33.98:44330",
-      "avg_mbps": 0.71,
-      "max_mbps": 0.8,
-      "stability": 1
-    },
-    {
-      "name": "安徽卫视",
-      "ip_port": "61.182.89.14:808",
-      "avg_mbps": 13.64,
-      "max_mbps": 16.87,
-      "stability": 0.8
-    },
-    {
-      "name": "湖北卫视",
-      "ip_port": "61.182.89.14:808",
-      "avg_mbps": 10.03,
-      "max_mbps": 15.99,
-      "stability": 0
-    },
-    {
-      "name": "CCTV12社会与法",
-      "ip_port": "111.14.186.11:5009",
-      "avg_mbps": 13.69,
-      "max_mbps": 17.15,
-      "stability": 0
-    },
-    {
-      "name": "山东综艺",
-      "ip_port": "111.14.186.11:5009",
-      "avg_mbps": 13.58,
-      "max_mbps": 17.17,
-      "stability": 0
-    },
-    {
-      "name": "CCTV15",
-      "ip_port": "106.115.27.24:9901",
-      "avg_mbps": 0.23,
-      "max_mbps": 0.25,
-      "stability": 1
-    },
-    {
-      "name": "北京卫视",
-      "ip_port": "106.115.27.24:9901",
-      "avg_mbps": 0.07,
-      "max_mbps": 0.08,
-      "stability": 1
-    },
-    {
-      "name": "东方卫视",
-      "ip_port": "101.66.195.65:9901",
-      "avg_mbps": 0.43,
-      "max_mbps": 0.47,
-      "stability": 1
-    },
-    {
-      "name": "CCTV7",
-      "ip_port": "101.66.195.65:9901",
-      "avg_mbps": 2.08,
-      "max_mbps": 2.25,
-      "stability": 1
-    },
-    {
-      "name": "Q亳州新闻",
-      "ip_port": "120.209.208.163:5080",
-      "avg_mbps": 6.37,
-      "max_mbps": 8.7,
-      "stability": 0
-    },
-    {
-      "name": "Q亳州农村",
-      "ip_port": "120.209.208.163:5080",
-      "avg_mbps": 6.95,
-      "max_mbps": 9.49,
-      "stability": 0.0
-    },
-    {
-      "name": "Q亳州农村",
-      "ip_port": "60.174.86.121:5080",
-      "avg_mbps": 5.1,
-      "max_mbps": 8.7,
-      "stability": 0
-    },
-    {
-      "name": "Q亳州新闻",
-      "ip_port": "60.174.86.121:5080",
-      "avg_mbps": 4.03,
-      "max_mbps": 6.74,
-      "stability": 0
-    },
-    {
-      "name": "青海卫视",
-      "ip_port": "183.236.10.36:8083",
-      "avg_mbps": 3.1,
-      "max_mbps": 3.78,
-      "stability": 1.0
-    },
-    {
-      "name": "CCTV14少儿",
-      "ip_port": "183.129.211.142:808",
-      "avg_mbps": 8.49,
-      "max_mbps": 14.48,
-      "stability": 0
-    },
-    {
-      "name": "浙江卫视",
-      "ip_port": "183.129.211.142:808",
-      "avg_mbps": 8.95,
-      "max_mbps": 15.4,
-      "stability": 0
-    },
-    {
-      "name": "CCTV15",
-      "ip_port": "120.238.94.82:9901",
-      "avg_mbps": 0.5,
-      "max_mbps": 0.54,
-      "stability": 1
-    },
-    {
-      "name": "CCTV12",
-      "ip_port": "120.238.94.82:9901",
-      "avg_mbps": 0.53,
-      "max_mbps": 0.58,
-      "stability": 1
-    },
-    {
-      "name": "内蒙古新闻综合",
-      "ip_port": "1.24.39.180:808",
-      "avg_mbps": 8.24,
-      "max_mbps": 9.93,
-      "stability": 0.7
-    },
-    {
-      "name": "CCTV13新闻",
-      "ip_port": "1.24.39.180:808",
-      "avg_mbps": 2.89,
-      "max_mbps": 3.13,
-      "stability": 1
-    },
-    {
-      "name": "山西卫视",
-      "ip_port": "125.43.241.114:85",
-      "avg_mbps": 1.67,
-      "max_mbps": 1.8,
-      "stability": 1
-    },
-    {
-      "name": "广西卫视",
-      "ip_port": "125.43.241.114:85",
-      "avg_mbps": 2.95,
-      "max_mbps": 3.2,
-      "stability": 1
-    },
-    {
-      "name": "CCTV7",
-      "ip_port": "1.196.157.17:999",
-      "avg_mbps": 4.91,
-      "max_mbps": 5.93,
-      "stability": 0.22
-    },
-    {
-      "name": "CCTV4",
-      "ip_port": "1.196.157.17:999",
-      "avg_mbps": 5.05,
-      "max_mbps": 6.13,
-      "stability": 0.26
-    },
-    {
-      "name": "CCTV12",
-      "ip_port": "106.115.24.157:9901",
-      "avg_mbps": 0.59,
-      "max_mbps": 0.64,
-      "stability": 1
-    },
-    {
-      "name": "CCTV8",
-      "ip_port": "106.115.24.157:9901",
-      "avg_mbps": 0.26,
-      "max_mbps": 0.28,
-      "stability": 1
-    },
-    {
-      "name": "河南卫视",
-      "ip_port": "171.8.228.59:9901",
-      "avg_mbps": 0.55,
-      "max_mbps": 0.59,
-      "stability": 1
-    },
-    {
-      "name": "宁夏卫视",
-      "ip_port": "171.8.228.59:9901",
+      "name": "四川卫视",
+      "ip_port": "39.164.138.145:9003",
       "avg_mbps": 1.04,
       "max_mbps": 1.13,
       "stability": 1
     },
     {
-      "name": "CCTV11",
-      "ip_port": "14.106.98.73:888",
-      "avg_mbps": 6.15,
-      "max_mbps": 8.38,
-      "stability": 0.11
-    },
-    {
-      "name": "CCTV少儿",
-      "ip_port": "14.106.98.73:888",
-      "avg_mbps": 6.0,
-      "max_mbps": 8.33,
-      "stability": 0.03
-    },
-    {
-      "name": "CCTV11",
-      "ip_port": "123.149.40.191:9901",
-      "avg_mbps": 4.11,
-      "max_mbps": 5.0,
-      "stability": 0.13
-    },
-    {
-      "name": "河南卫视",
-      "ip_port": "123.149.40.191:9901",
-      "avg_mbps": 0.66,
-      "max_mbps": 1.62,
+      "name": "CCTV7国防军事",
+      "ip_port": "39.164.138.145:9003",
+      "avg_mbps": 2.06,
+      "max_mbps": 2.24,
       "stability": 1
-    },
-    {
-      "name": "河南新农村频道",
-      "ip_port": "1.192.153.25:9901",
-      "avg_mbps": 10.87,
-      "max_mbps": 13.29,
-      "stability": 0.89
     },
     {
       "name": "四川卫视",
-      "ip_port": "1.192.153.25:9901",
-      "avg_mbps": 4.81,
-      "max_mbps": 9.24,
-      "stability": 0
-    },
-    {
-      "name": "17",
-      "ip_port": "144.0.23.184:8085",
-      "avg_mbps": 12.37,
-      "max_mbps": 17.14,
-      "stability": 0
-    },
-    {
-      "name": "20",
-      "ip_port": "144.0.23.184:8085",
-      "avg_mbps": 12.79,
-      "max_mbps": 17.7,
-      "stability": 0
-    },
-    {
-      "name": "9",
-      "ip_port": "144.0.23.216:8085",
-      "avg_mbps": 10.27,
-      "max_mbps": 14.69,
-      "stability": 0.21
-    },
-    {
-      "name": "7",
-      "ip_port": "144.0.23.216:8085",
-      "avg_mbps": 9.23,
-      "max_mbps": 12.12,
-      "stability": 0
-    },
-    {
-      "name": "黑龙江卫视",
-      "ip_port": "123.14.83.85:8888",
-      "avg_mbps": 4.48,
-      "max_mbps": 4.85,
-      "stability": 1
-    },
-    {
-      "name": "山东卫视",
-      "ip_port": "218.19.109.37:808",
-      "avg_mbps": 13.14,
-      "max_mbps": 17.24,
-      "stability": 0.95
-    },
-    {
-      "name": "云南卫视",
-      "ip_port": "222.85.50.130:6070",
-      "avg_mbps": 10.66,
-      "max_mbps": 14.0,
-      "stability": 0.37
-    },
-    {
-      "name": "CCTV4",
-      "ip_port": "222.85.50.130:6070",
-      "avg_mbps": 9.46,
-      "max_mbps": 16.99,
-      "stability": 0
-    },
-    {
-      "name": "CGTN",
-      "ip_port": "113.88.210.180:9898",
-      "avg_mbps": 5.54,
-      "max_mbps": 8.45,
-      "stability": 0
-    },
-    {
-      "name": "CCTV5+体育赛事",
-      "ip_port": "113.88.210.180:9898",
-      "avg_mbps": 5.8,
-      "max_mbps": 7.71,
-      "stability": 0.51
-    },
-    {
-      "name": "天津卫视",
-      "ip_port": "119.39.198.233:808",
-      "avg_mbps": 5.33,
-      "max_mbps": 7.63,
-      "stability": 0.21
-    },
-    {
-      "name": "金鹰卡通",
-      "ip_port": "119.39.198.233:808",
-      "avg_mbps": 14.15,
-      "max_mbps": 17.75,
-      "stability": 0
-    },
-    {
-      "name": "深圳卫视",
-      "ip_port": "119.39.198.234:808",
-      "avg_mbps": 6.87,
-      "max_mbps": 9.28,
-      "stability": 0.7
-    },
-    {
-      "name": "CCTV2财经",
-      "ip_port": "119.39.198.234:808",
-      "avg_mbps": 2.1,
-      "max_mbps": 4.38,
-      "stability": 0.52
-    },
-    {
-      "name": "CCTV10科教",
-      "ip_port": "58.255.200.130:808",
-      "avg_mbps": 9.06,
-      "max_mbps": 13.42,
-      "stability": 0
-    },
-    {
-      "name": "北京卫视",
-      "ip_port": "58.255.200.130:808",
-      "avg_mbps": 13.08,
-      "max_mbps": 15.9,
-      "stability": 0.84
-    },
-    {
-      "name": "天津卫视",
-      "ip_port": "42.237.159.32:8888",
-      "avg_mbps": 3.9,
-      "max_mbps": 4.22,
-      "stability": 1
-    },
-    {
-      "name": "CCTV8电视剧",
-      "ip_port": "42.237.159.32:8888",
-      "avg_mbps": 0.63,
-      "max_mbps": 0.68,
-      "stability": 1
-    },
-    {
-      "name": "CCTV11",
-      "ip_port": "61.52.71.47:9003",
-      "avg_mbps": 13.92,
-      "max_mbps": 18.99,
-      "stability": 0.03
-    },
-    {
-      "name": "CCTV3",
-      "ip_port": "61.52.71.47:9003",
-      "avg_mbps": 13.87,
-      "max_mbps": 19.0,
-      "stability": 0.01
-    },
-    {
-      "name": "CCTV2财经",
-      "ip_port": "218.19.108.11:808",
-      "avg_mbps": 9.66,
-      "max_mbps": 14.48,
-      "stability": 0
-    },
-    {
-      "name": "CCTV4中文国际",
-      "ip_port": "218.19.108.11:808",
-      "avg_mbps": 13.36,
-      "max_mbps": 18.15,
-      "stability": 0.58
-    },
-    {
-      "name": "黑龙江卫视",
-      "ip_port": "125.46.179.96:60000",
-      "avg_mbps": 14.04,
-      "max_mbps": 18.54,
-      "stability": 0
-    },
-    {
-      "name": "天津卫视",
-      "ip_port": "125.46.179.96:60000",
-      "avg_mbps": 14.19,
-      "max_mbps": 18.44,
-      "stability": 0
-    },
-    {
-      "name": "广东影视",
-      "ip_port": "14.155.147.173:8088",
-      "avg_mbps": 0.08,
-      "max_mbps": 0.09,
+      "ip_port": "122.114.131.154:4103",
+      "avg_mbps": 2.89,
+      "max_mbps": 3.14,
       "stability": 1
     },
     {
       "name": "湖北卫视",
-      "ip_port": "125.44.167.146:8888",
-      "avg_mbps": 14.37,
-      "max_mbps": 18.87,
+      "ip_port": "219.139.124.61:8089",
+      "avg_mbps": 11.33,
+      "max_mbps": 14.18,
+      "stability": 0.59
+    },
+    {
+      "name": "CCTV7",
+      "ip_port": "219.139.124.61:8089",
+      "avg_mbps": 12.11,
+      "max_mbps": 15.44,
+      "stability": 0.76
+    },
+    {
+      "name": "北京卫视",
+      "ip_port": "27.129.145.110:4433",
+      "avg_mbps": 3.5,
+      "max_mbps": 3.82,
+      "stability": 1
+    },
+    {
+      "name": "天津卫视",
+      "ip_port": "221.14.142.118:8000",
+      "avg_mbps": 4.99,
+      "max_mbps": 6.17,
+      "stability": 0.12
+    },
+    {
+      "name": "CCTV6电影",
+      "ip_port": "221.14.142.118:8000",
+      "avg_mbps": 3.66,
+      "max_mbps": 3.97,
+      "stability": 1
+    },
+    {
+      "name": "江苏卫视",
+      "ip_port": "120.198.84.146:9901",
+      "avg_mbps": 4.47,
+      "max_mbps": 5.41,
+      "stability": 0.39
+    },
+    {
+      "name": "CCTV17",
+      "ip_port": "120.198.84.146:9901",
+      "avg_mbps": 9.17,
+      "max_mbps": 13.53,
       "stability": 0
     },
     {
+      "name": "CCTV7",
+      "ip_port": "110.72.79.37:8181",
+      "avg_mbps": 11.96,
+      "max_mbps": 16.01,
+      "stability": 0
+    },
+    {
+      "name": "CCTV10",
+      "ip_port": "110.72.79.37:8181",
+      "avg_mbps": 14.6,
+      "max_mbps": 18.45,
+      "stability": 0.71
+    },
+    {
+      "name": "安徽卫视",
+      "ip_port": "60.16.0.36:5757",
+      "avg_mbps": 10.05,
+      "max_mbps": 11.94,
+      "stability": 0.93
+    },
+    {
+      "name": "山东卫视",
+      "ip_port": "60.16.0.36:5757",
+      "avg_mbps": 12.2,
+      "max_mbps": 16.12,
+      "stability": 0
+    },
+    {
+      "name": "CCTV3",
+      "ip_port": "221.14.142.118:9003",
+      "avg_mbps": 8.57,
+      "max_mbps": 10.77,
+      "stability": 0.68
+    },
+    {
+      "name": "CCTV10",
+      "ip_port": "221.14.142.118:9003",
+      "avg_mbps": 4.11,
+      "max_mbps": 4.45,
+      "stability": 1
+    },
+    {
+      "name": "CCTV11戏曲",
+      "ip_port": "122.114.131.154:4060",
+      "avg_mbps": 1.6,
+      "max_mbps": 1.81,
+      "stability": 0.68
+    },
+    {
+      "name": "星影",
+      "ip_port": "122.114.131.154:4060",
+      "avg_mbps": 1.37,
+      "max_mbps": 1.59,
+      "stability": 0.6
+    },
+    {
+      "name": "法治频道",
+      "ip_port": "61.163.179.201:808",
+      "avg_mbps": 11.7,
+      "max_mbps": 14.72,
+      "stability": 0
+    },
+    {
+      "name": "CCTV3",
+      "ip_port": "61.163.179.201:808",
+      "avg_mbps": 12.63,
+      "max_mbps": 15.84,
+      "stability": 0
+    },
+    {
+      "name": "重庆卫视",
+      "ip_port": "182.91.79.82:9901",
+      "avg_mbps": 9.0,
+      "max_mbps": 11.59,
+      "stability": 0.34
+    },
+    {
+      "name": "北京卫视",
+      "ip_port": "182.91.79.82:9901",
+      "avg_mbps": 9.19,
+      "max_mbps": 11.74,
+      "stability": 0.45
+    },
+    {
+      "name": "CCTV8",
+      "ip_port": "221.232.196.249:7777",
+      "avg_mbps": 8.75,
+      "max_mbps": 11.3,
+      "stability": 0.45
+    },
+    {
+      "name": "山东卫视",
+      "ip_port": "222.169.85.8:9901",
+      "avg_mbps": 2.94,
+      "max_mbps": 3.22,
+      "stability": 1
+    },
+    {
+      "name": "中央10台",
+      "ip_port": "222.169.85.8:9901",
+      "avg_mbps": 3.87,
+      "max_mbps": 4.73,
+      "stability": 0.12
+    },
+    {
+      "name": "北京卫视",
+      "ip_port": "120.198.103.68:9901",
+      "avg_mbps": 9.81,
+      "max_mbps": 13.17,
+      "stability": 0.33
+    },
+    {
+      "name": "湖南卫视",
+      "ip_port": "120.198.103.68:9901",
+      "avg_mbps": 10.04,
+      "max_mbps": 13.23,
+      "stability": 0.47
+    },
+    {
+      "name": "CCTV4中文国际",
+      "ip_port": "39.164.138.145:8899",
+      "avg_mbps": 3.96,
+      "max_mbps": 4.92,
+      "stability": 0.69
+    },
+    {
+      "name": "CCTV8电视剧",
+      "ip_port": "39.164.138.145:8899",
+      "avg_mbps": 4.48,
+      "max_mbps": 6.31,
+      "stability": 0
+    },
+    {
+      "name": "CCTV7",
+      "ip_port": "120.224.84.170:8085",
+      "avg_mbps": 14.23,
+      "max_mbps": 16.62,
+      "stability": 0.95
+    },
+    {
+      "name": "河南卫视",
+      "ip_port": "120.224.84.170:8085",
+      "avg_mbps": 11.51,
+      "max_mbps": 15.38,
+      "stability": 0.55
+    },
+    {
+      "name": "CCTV9",
+      "ip_port": "61.138.82.196:808",
+      "avg_mbps": 10.91,
+      "max_mbps": 14.27,
+      "stability": 0
+    },
+    {
+      "name": "吉林卫视",
+      "ip_port": "61.138.82.196:808",
+      "avg_mbps": 11.2,
+      "max_mbps": 15.64,
+      "stability": 0
+    },
+    {
+      "name": "CCTV6电影",
+      "ip_port": "106.46.169.202:9000",
+      "avg_mbps": 0.99,
+      "max_mbps": 1.07,
+      "stability": 1
+    },
+    {
+      "name": "CCTV2",
+      "ip_port": "106.46.169.202:9000",
+      "avg_mbps": 7.03,
+      "max_mbps": 15.31,
+      "stability": 0
+    },
+    {
+      "name": "CCTV7国防军事",
+      "ip_port": "122.114.131.154:4007",
+      "avg_mbps": 2.14,
+      "max_mbps": 2.32,
+      "stability": 1
+    },
+    {
+      "name": "CCTV5",
+      "ip_port": "221.13.233.125:9901",
+      "avg_mbps": 3.28,
+      "max_mbps": 3.55,
+      "stability": 1
+    },
+    {
+      "name": "新闻频道",
+      "ip_port": "221.13.233.125:9901",
+      "avg_mbps": 1.75,
+      "max_mbps": 1.89,
+      "stability": 1
+    },
+    {
+      "name": "山东卫视",
+      "ip_port": "220.187.222.193:9901",
+      "avg_mbps": 7.45,
+      "max_mbps": 11.56,
+      "stability": 0
+    },
+    {
+      "name": "旅游卫视",
+      "ip_port": "220.187.222.193:9901",
+      "avg_mbps": 4.66,
+      "max_mbps": 7.01,
+      "stability": 0
+    },
+    {
+      "name": "CCTV1",
+      "ip_port": "122.114.131.154:4001",
+      "avg_mbps": 1.54,
+      "max_mbps": 1.66,
+      "stability": 1
+    },
+    {
+      "name": "CCTV5+体育赛事",
+      "ip_port": "122.114.131.154:4001",
+      "avg_mbps": 1.59,
+      "max_mbps": 1.73,
+      "stability": 1
+    },
+    {
+      "name": "CCTV1",
+      "ip_port": "221.232.198.66:7777",
+      "avg_mbps": 7.05,
+      "max_mbps": 8.98,
+      "stability": 0.65
+    },
+    {
+      "name": "CCTV4",
+      "ip_port": "221.232.198.66:7777",
+      "avg_mbps": 7.22,
+      "max_mbps": 10.97,
+      "stability": 0.36
+    },
+    {
+      "name": "湖北经视",
+      "ip_port": "221.232.197.87:7777",
+      "avg_mbps": 9.03,
+      "max_mbps": 12.11,
+      "stability": 0.54
+    },
+    {
+      "name": "CCTV4",
+      "ip_port": "125.43.246.238:85",
+      "avg_mbps": 3.64,
+      "max_mbps": 3.95,
+      "stability": 1
+    },
+    {
+      "name": "CCTV7",
+      "ip_port": "125.43.246.238:85",
+      "avg_mbps": 0.85,
+      "max_mbps": 0.92,
+      "stability": 1
+    },
+    {
+      "name": "CCTV2",
+      "ip_port": "119.36.6.89:1111",
+      "avg_mbps": 2.87,
+      "max_mbps": 3.1,
+      "stability": 1
+    },
+    {
+      "name": "CHC电影",
+      "ip_port": "119.36.6.89:1111",
+      "avg_mbps": 1.13,
+      "max_mbps": 1.26,
+      "stability": 1
+    },
+    {
+      "name": "内蒙古卫视",
+      "ip_port": "183.237.71.182:40000",
+      "avg_mbps": 0.46,
+      "max_mbps": 0.49,
+      "stability": 1
+    },
+    {
+      "name": "江西卫视",
+      "ip_port": "183.237.71.182:40000",
+      "avg_mbps": 0.66,
+      "max_mbps": 0.76,
+      "stability": 1
+    },
+    {
+      "name": "广西综艺B",
+      "ip_port": "110.72.54.151:8181",
+      "avg_mbps": 6.08,
+      "max_mbps": 8.59,
+      "stability": 0
+    },
+    {
+      "name": "江苏卫视",
+      "ip_port": "125.43.252.213:85",
+      "avg_mbps": 3.74,
+      "max_mbps": 4.05,
+      "stability": 1
+    },
+    {
+      "name": "CCTV7",
+      "ip_port": "125.43.252.213:85",
+      "avg_mbps": 0.94,
+      "max_mbps": 1.02,
+      "stability": 1
+    },
+    {
+      "name": "CCTV14少儿",
+      "ip_port": "122.114.131.154:4000",
+      "avg_mbps": 1.55,
+      "max_mbps": 1.68,
+      "stability": 1
+    },
+    {
+      "name": "CCTV3",
+      "ip_port": "122.114.131.154:4000",
+      "avg_mbps": 1.49,
+      "max_mbps": 1.61,
+      "stability": 1
+    },
+    {
+      "name": "CCTV6",
+      "ip_port": "120.238.84.45:9901",
+      "avg_mbps": 2.85,
+      "max_mbps": 3.12,
+      "stability": 1
+    },
+    {
+      "name": "兴宁台",
+      "ip_port": "120.238.84.45:9901",
+      "avg_mbps": 1.24,
+      "max_mbps": 1.35,
+      "stability": 1
+    },
+    {
+      "name": "CCTV10",
+      "ip_port": "182.150.31.44:808",
+      "avg_mbps": 3.85,
+      "max_mbps": 4.19,
+      "stability": 1
+    },
+    {
+      "name": "天津卫视",
+      "ip_port": "36.136.38.87:9901",
+      "avg_mbps": 4.65,
+      "max_mbps": 5.66,
+      "stability": 0.89
+    },
+    {
       "name": "深圳卫视",
-      "ip_port": "125.44.167.146:8888",
-      "avg_mbps": 14.18,
-      "max_mbps": 18.91,
+      "ip_port": "36.136.38.87:9901",
+      "avg_mbps": 4.81,
+      "max_mbps": 5.62,
+      "stability": 0.97
+    },
+    {
+      "name": "CCTV11",
+      "ip_port": "106.44.226.206:88",
+      "avg_mbps": 5.47,
+      "max_mbps": 12.12,
+      "stability": 0
+    },
+    {
+      "name": "陕西体育",
+      "ip_port": "106.44.226.206:88",
+      "avg_mbps": 6.63,
+      "max_mbps": 9.16,
+      "stability": 0.22
+    },
+    {
+      "name": "CCTV8",
+      "ip_port": "221.232.196.158:7777",
+      "avg_mbps": 8.67,
+      "max_mbps": 11.15,
+      "stability": 0.34
+    },
+    {
+      "name": "安徽卫视",
+      "ip_port": "220.187.220.9:9901",
+      "avg_mbps": 9.1,
+      "max_mbps": 11.98,
+      "stability": 0.59
+    },
+    {
+      "name": "贵州卫视",
+      "ip_port": "220.187.220.9:9901",
+      "avg_mbps": 3.1,
+      "max_mbps": 3.99,
+      "stability": 0.77
+    },
+    {
+      "name": "湖北经视",
+      "ip_port": "221.232.196.92:7777",
+      "avg_mbps": 0.21,
+      "max_mbps": 0.22,
+      "stability": 1
+    },
+    {
+      "name": "辽宁卫视",
+      "ip_port": "122.114.131.154:4018",
+      "avg_mbps": 1.66,
+      "max_mbps": 1.79,
+      "stability": 1
+    },
+    {
+      "name": "CCTV10科教",
+      "ip_port": "122.114.131.154:4018",
+      "avg_mbps": 1.77,
+      "max_mbps": 1.92,
+      "stability": 1
+    },
+    {
+      "name": "CCTV10",
+      "ip_port": "59.45.161.118:8877",
+      "avg_mbps": 11.26,
+      "max_mbps": 15.63,
+      "stability": 0.5
+    },
+    {
+      "name": "CCTV14",
+      "ip_port": "59.45.161.118:8877",
+      "avg_mbps": 3.12,
+      "max_mbps": 13.71,
       "stability": 0
     },
     {
       "name": "浙江卫视",
-      "ip_port": "182.117.196.197:8888",
-      "avg_mbps": 13.95,
-      "max_mbps": 18.4,
+      "ip_port": "116.228.170.214:888",
+      "avg_mbps": 0.27,
+      "max_mbps": 0.32,
+      "stability": 1
+    },
+    {
+      "name": "广东卫视",
+      "ip_port": "116.228.170.214:888",
+      "avg_mbps": 0.31,
+      "max_mbps": 0.35,
+      "stability": 1
+    },
+    {
+      "name": "广东体育",
+      "ip_port": "hmfs.f3322.net:3388",
+      "avg_mbps": 7.34,
+      "max_mbps": 8.22,
+      "stability": 0.98
+    },
+    {
+      "name": "CCTV15",
+      "ip_port": "61.143.43.2:9901",
+      "avg_mbps": 0.8,
+      "max_mbps": 0.87,
+      "stability": 1
+    },
+    {
+      "name": "黑龙江卫视",
+      "ip_port": "61.143.43.2:9901",
+      "avg_mbps": 1.42,
+      "max_mbps": 1.57,
+      "stability": 1
+    },
+    {
+      "name": "CCTV9",
+      "ip_port": "221.232.196.130:7777",
+      "avg_mbps": 5.47,
+      "max_mbps": 10.99,
+      "stability": 0.53
+    },
+    {
+      "name": "浙江卫视",
+      "ip_port": "220.187.218.24:9901",
+      "avg_mbps": 8.37,
+      "max_mbps": 11.85,
+      "stability": 0
+    },
+    {
+      "name": "云南卫视",
+      "ip_port": "220.187.218.24:9901",
+      "avg_mbps": 4.78,
+      "max_mbps": 6.93,
+      "stability": 0
+    },
+    {
+      "name": "五华1",
+      "ip_port": "120.198.86.186:9901",
+      "avg_mbps": 2.26,
+      "max_mbps": 2.47,
+      "stability": 1
+    },
+    {
+      "name": "山歌台",
+      "ip_port": "120.198.86.186:9901",
+      "avg_mbps": 1.77,
+      "max_mbps": 2.2,
+      "stability": 0.69
+    },
+    {
+      "name": "湖南卫视",
+      "ip_port": "220.187.218.85:9901",
+      "avg_mbps": 9.36,
+      "max_mbps": 13.05,
+      "stability": 0.51
+    },
+    {
+      "name": "CCTV7",
+      "ip_port": "220.187.218.85:9901",
+      "avg_mbps": 5.06,
+      "max_mbps": 7.03,
+      "stability": 0.61
+    },
+    {
+      "name": "CCTV4",
+      "ip_port": "120.238.88.141:9901",
+      "avg_mbps": 3.25,
+      "max_mbps": 10.51,
+      "stability": 1
+    },
+    {
+      "name": "CCTV11",
+      "ip_port": "183.129.255.66:8480",
+      "avg_mbps": 11.98,
+      "max_mbps": 15.83,
+      "stability": 0.06
+    },
+    {
+      "name": "西湖明珠",
+      "ip_port": "183.129.255.66:8480",
+      "avg_mbps": 14.94,
+      "max_mbps": 17.13,
+      "stability": 0.99
+    },
+    {
+      "name": "CCTV1",
+      "ip_port": "222.85.198.92:8000",
+      "avg_mbps": 11.18,
+      "max_mbps": 14.14,
+      "stability": 0
+    },
+    {
+      "name": "CCTV14少儿",
+      "ip_port": "222.85.198.92:8000",
+      "avg_mbps": 11.47,
+      "max_mbps": 14.23,
+      "stability": 0.87
+    },
+    {
+      "name": "湖南卫视",
+      "ip_port": "125.43.251.245:85",
+      "avg_mbps": 2.36,
+      "max_mbps": 2.56,
+      "stability": 1
+    },
+    {
+      "name": "山东卫视",
+      "ip_port": "125.43.251.245:85",
+      "avg_mbps": 2.16,
+      "max_mbps": 2.34,
+      "stability": 1
+    },
+    {
+      "name": "山西卫视",
+      "ip_port": "60.187.244.107:9901",
+      "avg_mbps": 5.52,
+      "max_mbps": 8.02,
+      "stability": 0.54
+    },
+    {
+      "name": "第一剧场",
+      "ip_port": "106.115.27.24:9901",
+      "avg_mbps": 0.77,
+      "max_mbps": 0.83,
+      "stability": 1
+    },
+    {
+      "name": "北京卫视",
+      "ip_port": "106.115.27.24:9901",
+      "avg_mbps": 0.61,
+      "max_mbps": 0.66,
+      "stability": 1
+    },
+    {
+      "name": "CCTV11",
+      "ip_port": "112.27.5.218:9901",
+      "avg_mbps": 7.33,
+      "max_mbps": 10.87,
+      "stability": 0
+    },
+    {
+      "name": "金鹰卡通",
+      "ip_port": "112.27.5.218:9901",
+      "avg_mbps": 8.61,
+      "max_mbps": 11.31,
+      "stability": 0
+    },
+    {
+      "name": "CCTV9",
+      "ip_port": "116.77.33.98:44330",
+      "avg_mbps": 1.12,
+      "max_mbps": 1.26,
+      "stability": 1
+    },
+    {
+      "name": "上海卫视",
+      "ip_port": "116.77.33.98:44330",
+      "avg_mbps": 0.83,
+      "max_mbps": 0.93,
+      "stability": 1
+    },
+    {
+      "name": "Q亳州农村",
+      "ip_port": "60.174.86.121:5080",
+      "avg_mbps": 6.38,
+      "max_mbps": 8.43,
+      "stability": 0
+    },
+    {
+      "name": "Q亳州新闻",
+      "ip_port": "60.174.86.121:5080",
+      "avg_mbps": 5.51,
+      "max_mbps": 8.6,
+      "stability": 0
+    },
+    {
+      "name": "山东卫视",
+      "ip_port": "61.182.89.14:808",
+      "avg_mbps": 13.09,
+      "max_mbps": 16.06,
+      "stability": 0.87
+    },
+    {
+      "name": "深圳卫视",
+      "ip_port": "61.182.89.14:808",
+      "avg_mbps": 13.38,
+      "max_mbps": 17.34,
+      "stability": 0.72
+    },
+    {
+      "name": "四川卫视",
+      "ip_port": "111.14.186.11:5009",
+      "avg_mbps": 10.5,
+      "max_mbps": 13.92,
+      "stability": 0.19
+    },
+    {
+      "name": "山东新闻",
+      "ip_port": "111.14.186.11:5009",
+      "avg_mbps": 13.33,
+      "max_mbps": 16.22,
+      "stability": 0.92
+    },
+    {
+      "name": "Q亳州农村",
+      "ip_port": "120.209.208.163:5080",
+      "avg_mbps": 1.39,
+      "max_mbps": 9.89,
+      "stability": 1
+    },
+    {
+      "name": "Q亳州新闻",
+      "ip_port": "120.209.208.163:5080",
+      "avg_mbps": 2.72,
+      "max_mbps": 8.14,
+      "stability": 0
+    },
+    {
+      "name": "CCTV5体育",
+      "ip_port": "183.236.10.36:8083",
+      "avg_mbps": 2.82,
+      "max_mbps": 3.06,
+      "stability": 1
+    },
+    {
+      "name": "CCTV13新闻",
+      "ip_port": "183.236.10.36:8083",
+      "avg_mbps": 1.14,
+      "max_mbps": 1.25,
+      "stability": 1
+    },
+    {
+      "name": "CCTV4中文国际",
+      "ip_port": "183.129.211.142:808",
+      "avg_mbps": 5.42,
+      "max_mbps": 8.11,
+      "stability": 0.08
+    },
+    {
+      "name": "CCTV12社会与法",
+      "ip_port": "183.129.211.142:808",
+      "avg_mbps": 13.13,
+      "max_mbps": 18.2,
+      "stability": 0.09
+    },
+    {
+      "name": "广东少儿",
+      "ip_port": "120.238.94.82:9901",
+      "avg_mbps": 7.81,
+      "max_mbps": 10.41,
+      "stability": 0
+    },
+    {
+      "name": "珠江电影",
+      "ip_port": "120.238.94.82:9901",
+      "avg_mbps": 1.7,
+      "max_mbps": 2.28,
+      "stability": 0.79
+    },
+    {
+      "name": "CCTV12社会与法",
+      "ip_port": "1.24.39.180:808",
+      "avg_mbps": 3.93,
+      "max_mbps": 4.26,
+      "stability": 1
+    },
+    {
+      "name": "内蒙古蒙语卫视",
+      "ip_port": "1.24.39.180:808",
+      "avg_mbps": 3.47,
+      "max_mbps": 3.77,
+      "stability": 1
+    },
+    {
+      "name": "魅力音乐",
+      "ip_port": "125.43.241.114:85",
+      "avg_mbps": 3.53,
+      "max_mbps": 4.4,
+      "stability": 0.11
+    },
+    {
+      "name": "东南卫视",
+      "ip_port": "125.43.241.114:85",
+      "avg_mbps": 0.73,
+      "max_mbps": 0.79,
+      "stability": 1
+    },
+    {
+      "name": "CCTV8",
+      "ip_port": "1.196.157.17:999",
+      "avg_mbps": 12.24,
+      "max_mbps": 15.64,
+      "stability": 0.66
+    },
+    {
+      "name": "CCTV5",
+      "ip_port": "1.196.157.17:999",
+      "avg_mbps": 12.91,
+      "max_mbps": 16.83,
+      "stability": 0
+    },
+    {
+      "name": "黑龙江卫视",
+      "ip_port": "106.115.24.157:9901",
+      "avg_mbps": 0.91,
+      "max_mbps": 0.98,
+      "stability": 1
+    },
+    {
+      "name": "CCTV6",
+      "ip_port": "106.115.24.157:9901",
+      "avg_mbps": 0.47,
+      "max_mbps": 0.51,
+      "stability": 1
+    },
+    {
+      "name": "CCTV17农业农村",
+      "ip_port": "14.155.136.184:8088",
+      "avg_mbps": 0.08,
+      "max_mbps": 0.15,
+      "stability": 0.92
+    },
+    {
+      "name": "深圳财经生活",
+      "ip_port": "14.155.136.184:8088",
+      "avg_mbps": 0.08,
+      "max_mbps": 0.14,
+      "stability": 0.96
+    },
+    {
+      "name": "深圳卫视",
+      "ip_port": "14.106.98.56:888",
+      "avg_mbps": 7.77,
+      "max_mbps": 9.31,
+      "stability": 0.87
+    },
+    {
+      "name": "新疆卫视",
+      "ip_port": "14.106.98.56:888",
+      "avg_mbps": 7.59,
+      "max_mbps": 9.46,
+      "stability": 0.82
+    },
+    {
+      "name": "CCTV9",
+      "ip_port": "221.13.232.137:1999",
+      "avg_mbps": 13.77,
+      "max_mbps": 17.36,
+      "stability": 0
+    },
+    {
+      "name": "CCTV12",
+      "ip_port": "221.13.232.137:1999",
+      "avg_mbps": 13.78,
+      "max_mbps": 17.47,
+      "stability": 0
+    },
+    {
+      "name": "CCTV3",
+      "ip_port": "1.192.153.25:9901",
+      "avg_mbps": 8.39,
+      "max_mbps": 13.19,
       "stability": 0
     },
     {
       "name": "江西卫视",
+      "ip_port": "1.192.153.25:9901",
+      "avg_mbps": 8.99,
+      "max_mbps": 11.6,
+      "stability": 0.43
+    },
+    {
+      "name": "5",
+      "ip_port": "144.0.23.184:8085",
+      "avg_mbps": 12.51,
+      "max_mbps": 16.52,
+      "stability": 0.8
+    },
+    {
+      "name": "18",
+      "ip_port": "144.0.23.184:8085",
+      "avg_mbps": 13.81,
+      "max_mbps": 17.66,
+      "stability": 0
+    },
+    {
+      "name": "8",
+      "ip_port": "144.0.23.216:8085",
+      "avg_mbps": 12.72,
+      "max_mbps": 15.35,
+      "stability": 0.84
+    },
+    {
+      "name": "11",
+      "ip_port": "144.0.23.216:8085",
+      "avg_mbps": 3.19,
+      "max_mbps": 4.45,
+      "stability": 0.58
+    },
+    {
+      "name": "河南戏曲",
+      "ip_port": "221.13.234.166:9901",
+      "avg_mbps": 2.68,
+      "max_mbps": 2.89,
+      "stability": 1
+    },
+    {
+      "name": "CCTV2",
+      "ip_port": "221.13.234.166:9901",
+      "avg_mbps": 1.9,
+      "max_mbps": 2.06,
+      "stability": 1
+    },
+    {
+      "name": "梨园频道",
+      "ip_port": "171.8.228.59:9901",
+      "avg_mbps": 0.66,
+      "max_mbps": 0.71,
+      "stability": 1
+    },
+    {
+      "name": "CCTV1综合",
+      "ip_port": "218.19.109.37:808",
+      "avg_mbps": 8.33,
+      "max_mbps": 11.08,
+      "stability": 0
+    },
+    {
+      "name": "山东卫视",
+      "ip_port": "218.19.109.37:808",
+      "avg_mbps": 13.94,
+      "max_mbps": 17.59,
+      "stability": 0
+    },
+    {
+      "name": "CCTV6",
+      "ip_port": "221.13.235.193:9901",
+      "avg_mbps": 3.2,
+      "max_mbps": 3.46,
+      "stability": 1
+    },
+    {
+      "name": "CCTV15",
+      "ip_port": "221.13.235.193:9901",
+      "avg_mbps": 2.37,
+      "max_mbps": 2.57,
+      "stability": 1
+    },
+    {
+      "name": "江西卫视",
+      "ip_port": "222.85.50.130:6070",
+      "avg_mbps": 12.22,
+      "max_mbps": 15.04,
+      "stability": 0.74
+    },
+    {
+      "name": "四川卫视",
+      "ip_port": "222.85.50.130:6070",
+      "avg_mbps": 12.62,
+      "max_mbps": 15.31,
+      "stability": 0.83
+    },
+    {
+      "name": "CCTV7",
+      "ip_port": "123.149.40.191:9901",
+      "avg_mbps": 6.07,
+      "max_mbps": 6.83,
+      "stability": 0.9
+    },
+    {
+      "name": "新疆1",
+      "ip_port": "110.72.67.220:8181",
+      "avg_mbps": 7.41,
+      "max_mbps": 9.91,
+      "stability": 0
+    },
+    {
+      "name": "浙江卫视",
+      "ip_port": "110.72.67.220:8181",
+      "avg_mbps": 12.19,
+      "max_mbps": 15.79,
+      "stability": 0
+    },
+    {
+      "name": "CCVT5",
+      "ip_port": "113.88.210.180:9898",
+      "avg_mbps": 12.44,
+      "max_mbps": 17.17,
+      "stability": 0.63
+    },
+    {
+      "name": "CCTV1综合",
+      "ip_port": "113.88.210.180:9898",
+      "avg_mbps": 14.15,
+      "max_mbps": 18.13,
+      "stability": 0
+    },
+    {
+      "name": "北京卫视",
+      "ip_port": "119.39.198.234:808",
+      "avg_mbps": 5.1,
+      "max_mbps": 8.2,
+      "stability": 0
+    },
+    {
+      "name": "东南卫视",
+      "ip_port": "119.39.198.234:808",
+      "avg_mbps": 3.52,
+      "max_mbps": 5.78,
+      "stability": 0
+    },
+    {
+      "name": "湖南经视",
+      "ip_port": "119.39.198.233:808",
+      "avg_mbps": 5.44,
+      "max_mbps": 8.73,
+      "stability": 0
+    },
+    {
+      "name": "CCTV4中文国际",
+      "ip_port": "119.39.198.233:808",
+      "avg_mbps": 2.97,
+      "max_mbps": 4.75,
+      "stability": 0.57
+    },
+    {
+      "name": "广东体育",
+      "ip_port": "58.255.200.130:808",
+      "avg_mbps": 11.56,
+      "max_mbps": 13.35,
+      "stability": 0.97
+    },
+    {
+      "name": "少儿动画",
+      "ip_port": "58.255.200.130:808",
+      "avg_mbps": 5.09,
+      "max_mbps": 7.39,
+      "stability": 0.15
+    },
+    {
+      "name": "湖北卫视",
+      "ip_port": "42.237.159.32:8888",
+      "avg_mbps": 4.54,
+      "max_mbps": 4.92,
+      "stability": 1
+    },
+    {
+      "name": "河南卫视",
+      "ip_port": "61.52.71.47:9003",
+      "avg_mbps": 12.93,
+      "max_mbps": 17.12,
+      "stability": 0.01
+    },
+    {
+      "name": "吉林卫视",
+      "ip_port": "61.52.71.47:9003",
+      "avg_mbps": 12.83,
+      "max_mbps": 18.11,
+      "stability": 0.35
+    },
+    {
+      "name": "CCTV4中文国际",
+      "ip_port": "218.19.108.11:808",
+      "avg_mbps": 14.2,
+      "max_mbps": 17.81,
+      "stability": 0
+    },
+    {
+      "name": "CCTV9纪录",
+      "ip_port": "125.46.179.96:60000",
+      "avg_mbps": 13.81,
+      "max_mbps": 17.65,
+      "stability": 0
+    },
+    {
+      "name": "CCTV12社会与法",
+      "ip_port": "125.46.179.96:60000",
+      "avg_mbps": 14.04,
+      "max_mbps": 17.73,
+      "stability": 0
+    },
+    {
+      "name": "CCTV3",
+      "ip_port": "14.155.147.173:8088",
+      "avg_mbps": 0.12,
+      "max_mbps": 0.13,
+      "stability": 1
+    },
+    {
+      "name": "江苏卫视",
+      "ip_port": "14.155.147.173:8088",
+      "avg_mbps": 0.16,
+      "max_mbps": 0.17,
+      "stability": 1
+    },
+    {
+      "name": "黑龙江卫视",
+      "ip_port": "125.44.167.146:8888",
+      "avg_mbps": 14.22,
+      "max_mbps": 18.55,
+      "stability": 0
+    },
+    {
+      "name": "CCTV14少儿",
       "ip_port": "182.117.196.197:8888",
-      "avg_mbps": 14.58,
-      "max_mbps": 19.2,
-      "stability": 0.11
+      "avg_mbps": 13.42,
+      "max_mbps": 17.12,
+      "stability": 0
+    },
+    {
+      "name": "东方卫视",
+      "ip_port": "182.117.196.197:8888",
+      "avg_mbps": 13.93,
+      "max_mbps": 17.68,
+      "stability": 0
+    },
+    {
+      "name": "CCTV5",
+      "ip_port": "125.43.250.195:85",
+      "avg_mbps": 2.23,
+      "max_mbps": 2.41,
+      "stability": 1
+    },
+    {
+      "name": "CCTV2",
+      "ip_port": "125.43.250.195:85",
+      "avg_mbps": 2.45,
+      "max_mbps": 2.66,
+      "stability": 1
     }
   ]
 }
