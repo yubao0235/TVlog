@@ -109,6 +109,8 @@ http://120.238.87.243:9901/tsfile/live/1126_1.m3u8?key=txiptv&playlive=1&authid=
 http://120.238.87.243:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方",G 导视HD
 http://120.238.87.243:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方",KTV
+http://120.238.87.243:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方",三少卫视
 http://120.238.87.243:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方",中国教育高清
